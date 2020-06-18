@@ -1,0 +1,973 @@
+;n;enzima;gen;nob_Keeg;path;link
+1;'14';fructose-bisphosphate aldolase, class II [EC:4.1.2.13];(RefSeq);cac:CA_C0827;cac00010;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0827+cac:CA_P0064
+1;14;fructose-bisphosphate aldolase, class II [EC:4.1.2.13];(RefSeq);cac:CA_C0827;cac00010;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0827+cac:CA_P0064
+2;46;S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1];(RefSeq);cac:CA_C3375;cac00010;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3375+cac:CA_P0035+cac:CA_P0162
+3;51;L-lactate dehydrogenase [EC:1.1.1.27];ldh;cac:CA_C0267;cac00010;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0267+cac:CA_C3552
+4;53;pyruvate kinase [EC:2.7.1.40];pykA;cac:CA_C0518;cac00010;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0518+cac:CA_C1036
+5;55;enolase [EC:4.2.1.11];eno;cac:CA_C0713;cac00010;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0713
+6;56;2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11];gpmA;cac:CA_C2741;cac00010;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2741
+7;57;glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12];gapC;cac:CA_C0709;cac00010;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0709
+8;58;triosephosphate isomerase (TIM) [EC:5.3.1.1];tpiA;cac:CA_C0711;cac00010;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0711
+9;59;6-phosphofructokinase 1 [EC:2.7.1.11];pfkA;cac:CA_C0517;cac00010;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0517
+10;60;fructose-1,6-bisphosphatase II [EC:3.1.3.11];glpX;cac:CA_C1088;cac00010;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1088+cac:CA_C1572
+11;61;glucose PTS system EIICBA or EIICB component [EC:2.7.1.199];(RefSeq);cac:CA_C0570;cac00010;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0570+cac:CA_C1354+cac:CA_C2995+cac:CA_C3427
+12;62;glucose-6-phosphate isomerase [EC:5.3.1.9];pgi;cac:CA_C2680;cac00010;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2680
+13;63;phosphoglucomutase [EC:5.4.2.2];(RefSeq);cac:CA_C2337;cac00010;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2337
+14;64;glucose-6-phosphate isomerase [EC:5.3.1.9];pgi;cac:CA_C2680;cac00010;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2680
+15;66;glucokinase [EC:2.7.1.2];glcK;cac:CA_C2613;cac00010;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2613
+16;67;glucose-6-phosphate isomerase [EC:5.3.1.9];pgi;cac:CA_C2680;cac00010;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2680
+17;69;aldose 1-epimerase [EC:5.1.3.3];(RefSeq);cac:CA_C0697;cac00010;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0697+cac:CA_C1349
+18;70;glucokinase [EC:2.7.1.2];glcK;cac:CA_C2613;cac00010;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2613
+19;76;phosphoglycerate kinase [EC:2.7.2.3];pgk;cac:CA_C0710;cac00010;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0710
+20;79;sugar PTS system EIIA component [EC:2.7.1.-];(RefSeq);cac:CA_C1354;cac00010;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1354+cac:CA_C2995+cac:CA_C3427
+21;80;sugar PTS system EIIA component [EC:2.7.1.-];(RefSeq);cac:CA_C1354;cac00010;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1354+cac:CA_C2995+cac:CA_C3427
+22;81;6-phospho-beta-glucosidase [EC:3.2.1.86];(RefSeq);cac:CA_C0385;cac00010;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0385+cac:CA_C0743+cac:CA_C1084+cac:CA_C1405+cac:CA_C1408+cac:CA_C3426+cac:CA_P0010
+23;82;6-phospho-beta-glucosidase [EC:3.2.1.86];(RefSeq);cac:CA_C0385;cac00010;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0385+cac:CA_C0743+cac:CA_C1084+cac:CA_C1405+cac:CA_C1408+cac:CA_C3426+cac:CA_P0010
+24;122;glyceraldehyde-3-phosphate dehydrogenase (NADP+) [EC:1.2.1.9];(RefSeq);cac:CA_C3657;cac00010;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3657
+25;124;pyruvate-ferredoxin/flavodoxin oxidoreductase [EC:1.2.7.1 1.2.7.-];(RefSeq);cac:CA_C2229;cac00010;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2229+cac:CA_C2499
+26;137;2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12];pgm;cac:CA_C0712;cac00010;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0712
+27;144;2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta [EC:1.2.7.3 1.2.7.11];(RefSeq);cac:CA_C2458;cac00010;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2458+cac:CA_C2459
+28;35;isocitrate dehydrogenase (NAD+) [EC:1.1.1.41];citC;cac:CA_C0972;cac00020;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0972
+29;38;fumarate hydratase subunit beta [EC:4.2.1.2];(RefSeq);cac:CA_C3090;cac00020;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3090+cac:CA_C3091
+30;39;aconitate hydratase [EC:4.2.1.3];citB;cac:CA_C0971;cac00020;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0971
+31;40;aconitate hydratase [EC:4.2.1.3];citB;cac:CA_C0971;cac00020;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0971
+32;43;pyruvate carboxylase [EC:6.4.1.1];pykA;cac:CA_C2660;cac00020;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2660
+33;99;2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta [EC:1.2.7.3 1.2.7.11];(RefSeq);cac:CA_C2458;cac00020;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2458+cac:CA_C2459
+34;101;pyruvate-ferredoxin/flavodoxin oxidoreductase [EC:1.2.7.1 1.2.7.-];(RefSeq);cac:CA_C2229;cac00020;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2229+cac:CA_C2499
+35;102;2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta [EC:1.2.7.3 1.2.7.11];(RefSeq);cac:CA_C2458;cac00020;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2458+cac:CA_C2459
+36;103;2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta [EC:1.2.7.3 1.2.7.11];(RefSeq);cac:CA_C2458;cac00020;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2458+cac:CA_C2459
+37;104;citrate (Re)-synthase [EC:2.3.3.3];(RefSeq);cac:CA_C0970;cac00020;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0970
+38;37;glucose-6-phosphate isomerase [EC:5.3.1.9];pgi;cac:CA_C2680;cac00030;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2680
+39;38;2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase [EC:4.1.2.14 4.1.3.42];kdgA;cac:CA_C0394;cac00030;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0394+cac:CA_C2973
+40;41;phosphopentomutase [EC:5.4.2.7];deoB;cac:CA_C2065;cac00030;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2065
+41;42;deoxyribose-phosphate aldolase [EC:4.1.2.4];deoC;cac:CA_C1545;cac00030;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1545
+42;43;ribose-phosphate pyrophosphokinase [EC:2.7.6.1];(RefSeq);cac:CA_C0819;cac00030;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0819+cac:CA_C3221
+43;44;phosphopentomutase [EC:5.4.2.7];deoB;cac:CA_C2065;cac00030;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2065
+44;46;transketolase [EC:2.2.1.1];tkt;cac:CA_C0944;cac00030;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0944+cac:CA_C1348
+45;47;ribose 5-phosphate isomerase B [EC:5.3.1.6];(RefSeq);cac:CA_C0726;cac00030;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0726+cac:CA_C1431+cac:CA_C2880
+46;48;ribulose-phosphate 3-epimerase [EC:5.1.3.1];(RefSeq);cac:CA_C1730;cac00030;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1730
+47;49;transketolase [EC:2.2.1.1];tkt;cac:CA_C0944;cac00030;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0944+cac:CA_C1348
+48;50;fructose-bisphosphate aldolase, class II [EC:4.1.2.13];(RefSeq);cac:CA_C0827;cac00030;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0827+cac:CA_P0064
+49;51;6-phosphofructokinase 1 [EC:2.7.1.11];pfkA;cac:CA_C0517;cac00030;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0517
+50;52;fructose-1,6-bisphosphatase II [EC:3.1.3.11];glpX;cac:CA_C1088;cac00030;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1088+cac:CA_C1572
+51;53;glucose-6-phosphate isomerase [EC:5.3.1.9];pgi;cac:CA_C2680;cac00030;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2680
+52;60;2-dehydro-3-deoxygluconokinase [EC:2.7.1.45];kdgK;cac:CA_C0395;cac00030;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0395+cac:CA_C2684
+53;77;transaldolase [EC:2.2.1.2];(RefSeq);cac:CA_C1347;cac00030;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1347
+54;78;phosphoglucomutase [EC:5.4.2.2];(RefSeq);cac:CA_C2337;cac00030;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2337
+55;86;aldehyde:ferredoxin oxidoreductase [EC:1.2.7.5];(RefSeq);cac:CA_C2018;cac00030;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2018
+56;93;xylulose-5-phosphate/fructose-6-phosphate phosphoketolase [EC:4.1.2.9 4.1.2.22];(RefSeq);cac:CA_C1343;cac00030;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1343
+57;135;3-hexulose-6-phosphate synthase [EC:4.1.2.43];(RefSeq);cac:CA_C0396;cac00030;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0396
+58;137;6-phospho-3-hexuloisomerase [EC:5.3.1.27];(RefSeq);cac:CA_C0397;cac00030;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0397
+59;146;glyceraldehyde-3-phosphate dehydrogenase (NADP+) [EC:1.2.1.9];(RefSeq);cac:CA_C3657;cac00030;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3657
+60;72;L-arabinose isomerase [EC:5.3.1.4];araA;cac:CA_C1342;cac00040;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1342+cac:CA_C1346
+61;78;ribulose-phosphate 3-epimerase [EC:5.1.3.1];(RefSeq);cac:CA_C1730;cac00040;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1730
+62;79;L-ribulose-5-phosphate 4-epimerase [EC:5.1.3.4];araD;cac:CA_C1341;cac00040;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1341
+63;84;xylulokinase [EC:2.7.1.17];xylB;cac:CA_C2612;cac00040;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2612
+64;100;UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9];(RefSeq);cac:CA_C2250;cac00040;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2250+cac:CA_C2335
+65;106;glucuronate isomerase [EC:5.3.1.12];uxaC;cac:CA_C0692;cac00040;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0692
+66;108;mannonate dehydratase [EC:4.2.1.8];uxuA;cac:CA_C1332;cac00040;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1332
+67;109;altronate hydrolase [EC:4.2.1.7];(RefSeq);cac:CA_C0696;cac00040;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0696
+68;110;glucuronate isomerase [EC:5.3.1.12];uxaC;cac:CA_C0692;cac00040;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0692
+69;111;tagaturonate reductase [EC:1.1.1.58];(RefSeq);cac:CA_C0695;cac00040;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0695
+70;130;2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase [EC:1.1.1.127];kduD;cac:CA_C0361;cac00040;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0361
+71;54;fructose PTS system EIIA component [EC:2.7.1.202];(RefSeq);cac:CA_C0233;cac00051;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0233+cac:CA_C0234
+72;67;mannitol PTS system EIICBA or EIICB component [EC:2.7.1.197];MtlA;cac:CA_C0154;cac00051;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0154+cac:CA_C0156
+73;69;mannan endo-1,4-beta-mannosidase [EC:3.2.1.78];manB;cac:CA_C0332;cac00051;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0332
+74;72;Pfam: PTSIIB_sorb;(RefSeq);cac:CA_C1458;cac00051;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1458+cac:CA_P0066+cac:CA_P0067+cac:CA_P0068
+75;74;fructokinase [EC:2.7.1.4];(RefSeq);cac:CA_C0424;cac00051;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0424+cac:CA_C1523
+76;77;mannitol-1-phosphate 5-dehydrogenase [EC:1.1.1.17];MtlD;cac:CA_C0157;cac00051;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0157
+77;78;mannose-6-phosphate isomerase [EC:5.3.1.8];pmi;cac:CA_C2918;cac00051;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2918
+78;79;mannose-1-phosphate guanylyltransferase / phosphomannomutase [EC:2.7.7.13 5.4.2.8];(RefSeq);cac:CA_C2981;cac00051;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2981
+79;82;GDP-L-fucose synthase [EC:1.1.1.271];(RefSeq);cac:CA_C2179;cac00051;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2179
+80;83;GDPmannose 4,6-dehydratase [EC:4.2.1.47];(RefSeq);cac:CA_C2180;cac00051;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2180
+81;84;mannose-1-phosphate guanylyltransferase [EC:2.7.7.13];(RefSeq);cac:CA_C2968;cac00051;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2968+cac:CA_C2981+cac:CA_C3058+cac:CA_C3072
+82;88;6-phosphofructokinase 1 [EC:2.7.1.11];pfkA;cac:CA_C0517;cac00051;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0517
+83;92;1-phosphofructokinase [EC:2.7.1.56];fruB;cac:CA_C0232;cac00051;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0232
+84;93;triosephosphate isomerase (TIM) [EC:5.3.1.1];tpiA;cac:CA_C0711;cac00051;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0711
+85;94;fructose-bisphosphate aldolase, class II [EC:4.1.2.13];(RefSeq);cac:CA_C0827;cac00051;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0827+cac:CA_P0064
+86;96;fructose-bisphosphate aldolase, class II [EC:4.1.2.13];(RefSeq);cac:CA_C0827;cac00051;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0827+cac:CA_P0064
+87;105;fructose-1,6-bisphosphatase II [EC:3.1.3.11];glpX;cac:CA_C1088;cac00051;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1088+cac:CA_C1572
+88;182;fructan beta-fructosidase [EC:3.2.1.80];(RefSeq);cac:CA_C1462;cac00051;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1462
+89;187;ribose 5-phosphate isomerase B [EC:5.3.1.6];(RefSeq);cac:CA_C0726;cac00051;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0726+cac:CA_C2880
+90;56;tagatose 6-phosphate kinase [EC:2.7.1.144];lacC;cac:CA_C2951;cac00052;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2951
+91;57;6-phosphofructokinase 1 [EC:2.7.1.11];pfkA;cac:CA_C0517;cac00052;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0517
+92;58;tagatose 1,6-diphosphate aldolase GatY/KbaY [EC:4.1.2.40];gatY;cac:CA_C2952;cac00052;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2952
+93;60;6-phospho-beta-galactosidase [EC:3.2.1.85];lacG;cac:CA_C2963;cac00052;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2963
+94;62;beta-fructofuranosidase [EC:3.2.1.26];sacA;cac:CA_C0425;cac00052;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0425
+95;64;alpha-glucosidase [EC:3.2.1.20];(RefSeq);cac:CA_C2891;cac00052;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2891
+96;66;beta-fructofuranosidase [EC:3.2.1.26];sacA;cac:CA_C0425;cac00052;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0425
+97;67;lactose PTS system EIICB component [EC:2.7.1.207];lacE;cac:CA_C2964;cac00052;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2964+cac:CA_C2965
+98;73;glucokinase [EC:2.7.1.2];glcK;cac:CA_C2613;cac00052;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2613
+99;77;phosphoglucomutase [EC:5.4.2.2];(RefSeq);cac:CA_C2337;cac00052;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2337
+100;79;UDP-glucose 4-epimerase [EC:5.1.3.2];(RefSeq);cac:CA_C0794;cac00052;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0794+cac:CA_C1429+cac:CA_C2334+cac:CA_C2960
+101;80;UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9];(RefSeq);cac:CA_C2250;cac00052;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2250+cac:CA_C2335
+102;82;UDPglucose--hexose-1-phosphate uridylyltransferase [EC:2.7.7.12];galT;cac:CA_C2844;cac00052;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2844+cac:CA_C2961
+103;94;beta-galactosidase [EC:3.2.1.23];(RefSeq);cac:CA_C2514;cac00052;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2514
+104;100;galactose-6-phosphate isomerase [EC:5.3.1.26];lacB;cac:CA_C2953;cac00052;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2953+cac:CA_C2954
+105;101;N-acetylgalactosamine PTS system EIIA component [EC:2.7.1.-];(RefSeq);cac:CA_C1457;cac00052;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1457
+106;110;N-acetylgalactosamine PTS system EIIA component [EC:2.7.1.-];(RefSeq);cac:CA_C1457;cac00052;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1457
+107;171;galactokinase [EC:2.7.1.6];galK;cac:CA_C2959;cac00052;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2959
+108;172;aldose 1-epimerase [EC:5.1.3.3];(RefSeq);cac:CA_C0697;cac00052;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0697+cac:CA_C1349
+109;175;UDP-galactopyranose mutase [EC:5.4.99.9];(RefSeq);cac:CA_C2169;cac00052;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2169
+110;24;enoyl-[acyl-carrier protein] reductase II [EC:1.3.1.9];(RefSeq);cac:CA_C3576;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3576
+111;25;enoyl-[acyl-carrier protein] reductase II [EC:1.3.1.9];(RefSeq);cac:CA_C3576;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3576
+112;26;enoyl-[acyl-carrier protein] reductase II [EC:1.3.1.9];(RefSeq);cac:CA_C3576;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3576
+113;27;enoyl-[acyl-carrier protein] reductase II [EC:1.3.1.9];(RefSeq);cac:CA_C3576;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3576
+114;28;enoyl-[acyl-carrier protein] reductase II [EC:1.3.1.9];(RefSeq);cac:CA_C3576;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3576
+115;29;enoyl-[acyl-carrier protein] reductase II [EC:1.3.1.9];(RefSeq);cac:CA_C3576;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3576
+116;57;enoyl-[acyl-carrier protein] reductase II [EC:1.3.1.9];(RefSeq);cac:CA_C3576;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3576
+117;58;3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59];fabZ;cac:CA_C3571;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3571
+118;59;3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179];pksF;cac:CA_C2008;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2008+cac:CA_C3573+cac:CA_P0088
+119;60;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];fabG;cac:CA_C2626;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2626+cac:CA_C3462+cac:CA_C3574
+120;64;3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179];pksF;cac:CA_C2008;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2008+cac:CA_C3573+cac:CA_P0088
+121;65;3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179];pksF;cac:CA_C2008;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2008+cac:CA_C3573+cac:CA_P0088
+122;66;3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179];pksF;cac:CA_C2008;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2008+cac:CA_C3573+cac:CA_P0088
+123;67;3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179];pksF;cac:CA_C2008;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2008+cac:CA_C3573+cac:CA_P0088
+124;68;3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179];pksF;cac:CA_C2008;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2008+cac:CA_C3573+cac:CA_P0088
+125;69;3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179];pksF;cac:CA_C2008;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2008+cac:CA_C3573+cac:CA_P0088
+126;81;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];fabG;cac:CA_C2626;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2626+cac:CA_C3462+cac:CA_C3574
+127;92;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];fabG;cac:CA_C2626;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2626+cac:CA_C3462+cac:CA_C3574
+128;103;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];fabG;cac:CA_C2626;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2626+cac:CA_C3462+cac:CA_C3574
+129;114;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];fabG;cac:CA_C2626;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2626+cac:CA_C3462+cac:CA_C3574
+130;125;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];fabG;cac:CA_C2626;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2626+cac:CA_C3462+cac:CA_C3574
+131;136;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];fabG;cac:CA_C2626;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2626+cac:CA_C3462+cac:CA_C3574
+132;148;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];fabG;cac:CA_C2626;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2626+cac:CA_C3462+cac:CA_C3574
+133;153;[acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39];fabD;cac:CA_C3575;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3575
+134;159;acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2 2.1.3.15];accA;cac:CA_C3568;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3568+cac:CA_C3569+cac:CA_C3570+cac:CA_C3572
+135;263;enoyl-[acyl-carrier protein] reductase II [EC:1.3.1.9];(RefSeq);cac:CA_C3576;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3576
+136;265;3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179];pksF;cac:CA_C2008;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2008+cac:CA_C3573+cac:CA_P0088
+137;268;3-oxoacyl-[acyl-carrier-protein] synthase III [EC:2.3.1.180];(RefSeq);cac:CA_C0814;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0814+cac:CA_C3578
+138;269;enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+) [EC:1.3.1.9 1.3.1.44];(RefSeq);cac:CA_C0462;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0462
+139;270;enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+) [EC:1.3.1.9 1.3.1.44];(RefSeq);cac:CA_C0462;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0462
+140;271;enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+) [EC:1.3.1.9 1.3.1.44];(RefSeq);cac:CA_C0462;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0462
+141;272;3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59];fabZ;cac:CA_C3571;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3571
+142;274;3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59];fabZ;cac:CA_C3571;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3571
+143;275;enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+) [EC:1.3.1.9 1.3.1.44];(RefSeq);cac:CA_C0462;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0462
+144;277;3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59];fabZ;cac:CA_C3571;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3571
+145;279;3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59];fabZ;cac:CA_C3571;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3571
+146;281;3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59];fabZ;cac:CA_C3571;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3571
+147;282;enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+) [EC:1.3.1.9 1.3.1.44];(RefSeq);cac:CA_C0462;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0462
+148;284;3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59];fabZ;cac:CA_C3571;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3571
+149;285;enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+) [EC:1.3.1.9 1.3.1.44];(RefSeq);cac:CA_C0462;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0462
+150;287;3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59];fabZ;cac:CA_C3571;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3571
+151;288;enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+) [EC:1.3.1.9 1.3.1.44];(RefSeq);cac:CA_C0462;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0462
+152;348;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];fabG;cac:CA_C2626;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2626+cac:CA_C3462+cac:CA_C3574
+153;369;enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+) [EC:1.3.1.9 1.3.1.44];(RefSeq);cac:CA_C0462;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0462+cac:CA_C3576
+154;384;3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179];pksF;cac:CA_C2008;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2008+cac:CA_C3573+cac:CA_P0088
+155;401;3-oxoacyl-[acyl-carrier-protein] synthase III [EC:2.3.1.180];(RefSeq);cac:CA_C0814;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0814+cac:CA_C3578
+156;402;[acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39];fabD;cac:CA_C3575;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3575
+157;403;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];fabG;cac:CA_C2626;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2626+cac:CA_C3462+cac:CA_C3574
+158;404;3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59];fabZ;cac:CA_C3571;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3571
+159;405;[acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39];fabD;cac:CA_C3575;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3575
+160;406;3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179];pksF;cac:CA_C2008;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2008+cac:CA_C3573+cac:CA_P0088
+161;409;3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179];pksF;cac:CA_C2008;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2008+cac:CA_C3573+cac:CA_P0088
+162;411;acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2 2.1.3.15];accA;cac:CA_C3568;cac00061;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3568+cac:CA_C3569+cac:CA_C3570+cac:CA_C3572
+163;45;butyryl-CoA dehydrogenase [EC:1.3.8.1];bcd;cac:CA_C2711;cac00071;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2711
+164;53;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(RefSeq);cac:CA_C2873;cac00071;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2873+cac:CA_P0078
+165;57;butyryl-CoA dehydrogenase [EC:1.3.8.1];bcd;cac:CA_C2711;cac00071;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2711
+166;77;rubredoxin---NAD+ reductase [EC:1.18.1.1];(RefSeq);cac:CA_C2448;cac00071;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2448
+167;84;S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1];(RefSeq);cac:CA_C3375;cac00071;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3375+cac:CA_P0035+cac:CA_P0162
+168;202;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(RefSeq);cac:CA_C2873;cac00071;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2873+cac:CA_P0078
+169;13;acetoacetate decarboxylase [EC:4.1.1.4];adc;cac:CA_P0165;cac00072;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_P0165
+170;14;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(RefSeq);cac:CA_C2873;cac00072;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2873+cac:CA_P0078
+171;92;4-hydroxybenzoate polyprenyltransferase [EC:2.5.1.39];ubiA;cac:CA_C0800;cac00130;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0800
+172;167;NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2];(RefSeq);cac:CA_C0018;cac00130;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0018
+173;170;NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2];(RefSeq);cac:CA_C0018;cac00130;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0018
+174;112;F-type H+-transporting ATPase subunit epsilon;atpC;cac:CA_C2864;cac00190;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2864+cac:CA_C2865+cac:CA_C2866+cac:CA_C2867+cac:CA_C2868+cac:CA_C2869+cac:CA_C2870+cac:CA_C2871
+175;115;manganese-dependent inorganic pyrophosphatase [EC:3.6.1.1];(RefSeq);cac:CA_C2138;cac00190;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2138+cac:CA_P0096
+176;116;polyphosphate kinase [EC:2.7.4.1];(RefSeq);cac:CA_C0622;cac00190;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0622
+177;178;F-type H+/Na+-transporting ATPase subunit beta [EC:7.1.2.2 7.2.2.1];atpD;cac:CA_C2865;cac00190;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2865
+178;179;F-type H+/Na+-transporting ATPase subunit alpha [EC:7.1.2.2 7.2.2.1];atpA;cac:CA_C2867;cac00190;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2867
+179;180;F-type H+-transporting ATPase subunit gamma;atpG;cac:CA_C2866;cac00190;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2866
+180;181;F-type H+-transporting ATPase subunit delta;atpH;cac:CA_C2868;cac00190;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2868
+181;182;F-type H+-transporting ATPase subunit epsilon;atpC;cac:CA_C2864;cac00190;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2864
+182;183;F-type H+-transporting ATPase subunit c;atpE;cac:CA_C2870;cac00190;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2870
+183;184;F-type H+-transporting ATPase subunit a;atpB;cac:CA_C2871;cac00190;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2871
+184;185;F-type H+-transporting ATPase subunit b;atpF;cac:CA_C2869;cac00190;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2869
+185;46;glutamine synthetase [EC:6.3.1.2];glnA;cac:CA_C2658;cac00220;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2658
+186;49;ornithine carbamoyltransferase [EC:2.1.3.3];argF_I;cac:CA_C0316;cac00220;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0316
+187;50;argininosuccinate synthase [EC:6.3.4.5];argG;cac:CA_C0973;cac00220;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0973
+188;52;argininosuccinate lyase [EC:4.3.2.1];argH;cac:CA_C0974;cac00220;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0974
+189;53;arginase [EC:3.5.3.1];(RefSeq);cac:CA_C1054;cac00220;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1054
+190;54;glutamate N-acetyltransferase / amino-acid N-acetyltransferase [EC:2.3.1.35 2.3.1.1];argJ;cac:CA_C2391;cac00220;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2391+cac:CA_C3020
+191;55;acetylglutamate kinase [EC:2.7.2.8];argB;cac:CA_C2389;cac00220;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2389
+192;56;N-acetyl-gamma-glutamyl-phosphate reductase [EC:1.2.1.38];argC;cac:CA_C2390;cac00220;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2390
+193;57;acetylornithine/N-succinyldiaminopimelate aminotransferase [EC:2.6.1.11 2.6.1.17];argD;cac:CA_C2388;cac00220;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2388
+194;60;glutamate N-acetyltransferase / amino-acid N-acetyltransferase [EC:2.3.1.35 2.3.1.1];argJ;cac:CA_C2391;cac00220;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2391+cac:CA_C3020
+195;68;glutamate dehydrogenase (NADP+) [EC:1.4.1.4];(RefSeq);cac:CA_C0737;cac00220;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0737
+196;88;aspartate aminotransferase [EC:2.6.1.1];(RefSeq);cac:CA_C1001;cac00220;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1001+cac:CA_C1819+cac:CA_C2832
+197;137;ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1];(RefSeq);cac:CA_C1047;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1047+cac:CA_C3276+cac:CA_C3277
+198;157;ribose-phosphate pyrophosphokinase [EC:2.7.6.1];(RefSeq);cac:CA_C0819;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0819+cac:CA_C3221
+199;158;amidophosphoribosyltransferase [EC:2.4.2.14];purF;cac:CA_C1392;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1392
+200;160;phosphoribosylamine---glycine ligase [EC:6.3.4.13];purD;cac:CA_C1396;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1396
+201;161;phosphoribosylglycinamide formyltransferase 1 [EC:2.1.2.2];purN;cac:CA_C1394;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1394
+202;162;phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1];purM;cac:CA_C1393;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1393
+203;163;phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10];purH;cac:CA_C1395;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1395+cac:CA_C2445
+204;164;adenylosuccinate lyase [EC:4.3.2.2];purB;cac:CA_C1821;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1821
+205;165;phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:6.3.2.6];purC;cac:CA_C1391;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1391
+206;167;phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10];purH;cac:CA_C1395;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1395+cac:CA_C2445
+207;169;adenylate cyclase, class 2 [EC:4.6.1.1];(RefSeq);cac:CA_C0650;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0650
+208;175;ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1];(RefSeq);cac:CA_C1047;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1047+cac:CA_C3276+cac:CA_C3277
+209;177;adenylate kinase [EC:2.7.4.3];adk;cac:CA_C3112;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3112
+210;178;adenylosuccinate lyase [EC:4.3.2.2];purB;cac:CA_C1821;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1821
+211;179;adenylosuccinate synthase [EC:6.3.4.4];purA;cac:CA_C3593;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3593
+212;183;adenine phosphoribosyltransferase [EC:2.4.2.7];apt;cac:CA_C2275;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2275
+213;186;adenosine deaminase [EC:3.5.4.4];add;cac:CA_C3005;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3005
+214;187;purine-nucleoside phosphorylase [EC:2.4.2.1];deoD;cac:CA_C2064;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2064
+215;189;purine-nucleoside phosphorylase [EC:2.4.2.1];deoD;cac:CA_C2064;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2064
+216;192;adenosine deaminase [EC:3.5.4.4];add;cac:CA_C3005;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3005
+217;195;adenine deaminase [EC:3.5.4.2];adeC;cac:CA_C0887;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0887
+218;199;GMP reductase [EC:1.7.1.7];(RefSeq);cac:CA_C3471;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3471
+219;200;IMP dehydrogenase [EC:1.1.1.205];guaB;cac:CA_C2701;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2701
+220;201;GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2];guaA;cac:CA_C2700;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2700
+221;204;hypoxanthine phosphoribosyltransferase [EC:2.4.2.8];hprT;cac:CA_C3203;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3203
+222;206;purine-nucleoside phosphorylase [EC:2.4.2.1];deoD;cac:CA_C2064;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2064
+223;209;purine-nucleoside phosphorylase [EC:2.4.2.1];deoD;cac:CA_C2064;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2064
+224;211;hypoxanthine phosphoribosyltransferase [EC:2.4.2.8];hprT;cac:CA_C3203;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3203
+225;214;hypoxanthine phosphoribosyltransferase [EC:2.4.2.8];hprT;cac:CA_C3203;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3203
+226;215;guanylate kinase [EC:2.7.4.8];gmk;cac:CA_C1718;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1718
+227;216;purine-nucleoside phosphorylase [EC:2.4.2.1];deoD;cac:CA_C2064;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2064
+228;217;guanine deaminase [EC:3.5.4.3];(RefSeq);cac:CA_C0282;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0282
+229;229;exopolyphosphatase / guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase [EC:3.6.1.11 3.6.1.40];(RefSeq);cac:CA_C0621;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0621
+230;230;exopolyphosphatase / guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase [EC:3.6.1.11 3.6.1.40];(RefSeq);cac:CA_C0621;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0621
+231;233;guanylate kinase [EC:2.7.4.8];gmk;cac:CA_C1718;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1718
+232;237;purine-nucleoside phosphorylase [EC:2.4.2.1];deoD;cac:CA_C2064;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2064
+233;238;putative GTP pyrophosphokinase [EC:2.7.6.5];(RefSeq);cac:CA_C0642;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0642+cac:CA_C2274+cac:CA_C3340
+234;244;sulfate adenylyltransferase subunit 2 [EC:2.7.7.4];cysD;cac:CA_C0109;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0109+cac:CA_C0110
+235;245;adenylylsulfate kinase [EC:2.7.1.25];cysC;cac:CA_C0103;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0103
+236;252;phosphoribosylformylglycinamidine synthase [EC:6.3.5.3];purQ_purL;cac:CA_C1655;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1655
+237;259;xanthine phosphoribosyltransferase [EC:2.4.2.22];xpt;cac:CA_C0873;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0873
+238;262;2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase [EC:3.1.4.16 3.1.3.6 3.1.3.5];(RefSeq);cac:CA_C0353;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0353
+239;263;2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase [EC:3.1.4.16 3.1.3.6 3.1.3.5];(RefSeq);cac:CA_C0353;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0353
+240;264;2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase [EC:3.1.4.16 3.1.3.6 3.1.3.5];(RefSeq);cac:CA_C0353;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0353
+241;271;2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase [EC:3.1.4.16 3.1.3.6 3.1.3.5];(RefSeq);cac:CA_C0353;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0353
+242;273;phosphopentomutase [EC:5.4.2.7];deoB;cac:CA_C2065;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2065
+243;274;ADP-ribose pyrophosphatase [EC:3.6.1.13];(RefSeq);cac:CA_C1854;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1854
+244;277;xanthine phosphoribosyltransferase [EC:2.4.2.22];xpt;cac:CA_C0873;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0873
+245;278;purine-nucleoside phosphorylase [EC:2.4.2.1];deoD;cac:CA_C2064;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2064
+246;279;adenylate kinase [EC:2.7.4.3];adk;cac:CA_C3112;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3112
+247;291;adenylate cyclase, class 2 [EC:4.6.1.1];(RefSeq);cac:CA_C0650;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0650
+248;292;pyruvate kinase [EC:2.7.1.40];pykA;cac:CA_C0518;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0518+cac:CA_C1036
+249;293;pyruvate kinase [EC:2.7.1.40];pykA;cac:CA_C0518;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0518+cac:CA_C1036
+250;294;adenine phosphoribosyltransferase [EC:2.4.2.7];apt;cac:CA_C2275;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2275
+251;296;adenine phosphoribosyltransferase [EC:2.4.2.7];apt;cac:CA_C2275;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2275
+252;304;pyruvate kinase [EC:2.7.1.40];pykA;cac:CA_C0518;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0518+cac:CA_C1036
+253;305;pyruvate kinase [EC:2.7.1.40];pykA;cac:CA_C0518;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0518+cac:CA_C1036
+254;420;5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18];purE;cac:CA_C1390;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1390
+255;423;phosphoglucomutase [EC:5.4.2.2];(RefSeq);cac:CA_C2337;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2337
+256;429;XTP/dITP diphosphohydrolase [EC:3.6.1.66];(RefSeq);cac:CA_C2665;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2665
+257;430;XTP/dITP diphosphohydrolase [EC:3.6.1.66];(RefSeq);cac:CA_C2665;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2665
+258;437;ribonucleoside-triphosphate reductase (formate) [EC:1.1.98.6];nrdD;cac:CA_C0480;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0480+cac:CA_C1209
+259;438;ribonucleoside-triphosphate reductase (formate) [EC:1.1.98.6];nrdD;cac:CA_C0480;cac00230;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0480+cac:CA_C1209
+260;81;ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1];(RefSeq);cac:CA_C1047;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1047+cac:CA_C3276+cac:CA_C3277
+261;84;uridylate kinase [EC:2.7.4.22];pyrH;cac:CA_C1789;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1789
+262;88;carbamoyl-phosphate synthase large subunit [EC:6.3.5.5];(RefSeq);cac:CA_C2189;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2189+cac:CA_C2644+cac:CA_C2645
+263;94;aspartate carbamoyltransferase regulatory subunit;pyrI;cac:CA_C2653;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2653+cac:CA_C2654
+264;95;dihydroorotase [EC:3.5.2.3];pyrC;cac:CA_C0519;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0519
+265;96;dihydroorotate dehydrogenase (NAD+) catalytic subunit [EC:1.3.1.14];pyrD;cac:CA_C2650;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2650+cac:CA_C2651
+266;98;orotate phosphoribosyltransferase [EC:2.4.2.10];pyrE;cac:CA_C0027;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0027
+267;101;dCTP deaminase [EC:3.5.4.13];dcd;cac:CA_C0025;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0025
+268;102;CTP synthase [EC:6.3.4.2];pyrG;cac:CA_C2892;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2892
+269;107;pyrimidine operon attenuation protein / uracil phosphoribosyltransferase [EC:2.4.2.9];pyrR;cac:CA_C2113;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2113+cac:CA_C2879
+270;108;uridine kinase [EC:2.7.1.48];(RefSeq);cac:CA_C0672;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0672
+271;120;uridine kinase [EC:2.7.1.48];(RefSeq);cac:CA_C0672;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0672
+272;122;cytidine deaminase [EC:3.5.4.5];(RefSeq);cac:CA_C1544;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1544+cac:CA_C2609
+273;124;pyrimidine-nucleoside phosphorylase [EC:2.4.2.2];deoA;cac:CA_C1546;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1546
+274;131;ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1];(RefSeq);cac:CA_C1047;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1047+cac:CA_C3276+cac:CA_C3277
+275;133;dCTP deaminase [EC:3.5.4.13];dcd;cac:CA_C0025;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0025
+276;139;dCMP deaminase [EC:3.5.4.12];(RefSeq);cac:CA_C2876;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2876
+277;143;thymidine kinase [EC:2.7.1.21];tdk;cac:CA_C2887;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2887
+278;144;cytidine deaminase [EC:3.5.4.5];(RefSeq);cac:CA_C1544;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1544+cac:CA_C2609
+279;145;pyrimidine-nucleoside phosphorylase [EC:2.4.2.2];deoA;cac:CA_C1546;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1546
+280;146;purine-nucleoside phosphorylase [EC:2.4.2.1];deoD;cac:CA_C2064;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2064
+281;148;thymidylate synthase [EC:2.1.1.45];thyA;cac:CA_C3003;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3003
+282;155;thymidine kinase [EC:2.7.1.21];tdk;cac:CA_C2887;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2887
+283;169;orotidine-5'-phosphate decarboxylase [EC:4.1.1.23];pyrF;cac:CA_C2652;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2652
+284;172;2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase [EC:3.1.4.16 3.1.3.6 3.1.3.5];(RefSeq);cac:CA_C0353;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0353
+285;173;2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase [EC:3.1.4.16 3.1.3.6 3.1.3.5];(RefSeq);cac:CA_C0353;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0353
+286;176;2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase [EC:3.1.4.16 3.1.3.6 3.1.3.5];(RefSeq);cac:CA_C0353;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0353
+287;177;2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase / 5'-nucleotidase [EC:3.1.4.16 3.1.3.6 3.1.3.5];(RefSeq);cac:CA_C0353;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0353
+288;288;dUTP pyrophosphatase [EC:3.6.1.23];dut;cac:CA_C1210;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1210+cac:CA_C1425
+289;289;CMP/dCMP kinase [EC:2.7.4.25];cmk;cac:CA_C1848;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1848
+290;290;CMP/dCMP kinase [EC:2.7.4.25];cmk;cac:CA_C1848;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1848
+291;291;ribonucleoside-triphosphate reductase (formate) [EC:1.1.98.6];nrdD;cac:CA_C0480;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0480+cac:CA_C1209
+292;292;ribonucleoside-triphosphate reductase (formate) [EC:1.1.98.6];nrdD;cac:CA_C0480;cac00240;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0480+cac:CA_C1209
+293;35;asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4];asnB;cac:CA_C2243;cac00250;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2243+cac:CA_C2249
+294;38;L-asparaginase [EC:3.5.1.1];ansA;cac:CA_C1714;cac00250;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1714
+295;48;L-aspartate oxidase [EC:1.4.3.16];nadB;cac:CA_C1024;cac00250;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1024
+296;49;aspartate aminotransferase [EC:2.6.1.1];(RefSeq);cac:CA_C1001;cac00250;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1001+cac:CA_C1819+cac:CA_C2832
+297;55;argininosuccinate synthase [EC:6.3.4.5];argG;cac:CA_C0973;cac00250;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0973
+298;56;adenylosuccinate synthase [EC:6.3.4.4];purA;cac:CA_C3593;cac00250;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3593
+299;57;aspartate ammonia-lyase [EC:4.3.1.1];ansB;cac:CA_C0274;cac00250;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0274+cac:CA_C1652
+300;58;argininosuccinate lyase [EC:4.3.2.1];argH;cac:CA_C0974;cac00250;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0974
+301;59;adenylosuccinate lyase [EC:4.3.2.2];purB;cac:CA_C1821;cac00250;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1821
+302;71;aspartate carbamoyltransferase regulatory subunit;pyrI;cac:CA_C2653;cac00250;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2653+cac:CA_C2654
+303;89;glutamate synthase (NADPH) small chain [EC:1.4.1.13];(RefSeq);cac:CA_C0764;cac00250;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0764+cac:CA_C1673+cac:CA_C1674
+304;94;glutamate dehydrogenase (NADP+) [EC:1.4.1.4];(RefSeq);cac:CA_C0737;cac00250;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0737
+305;97;4-aminobutyrate aminotransferase [EC:2.6.1.19];(RefSeq);cac:CA_C0368;cac00250;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0368+cac:CA_C1427
+306;102;glutamine synthetase [EC:6.3.1.2];glnA;cac:CA_C2658;cac00250;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2658
+307;110;carbamoyl-phosphate synthase large subunit [EC:6.3.5.5];(RefSeq);cac:CA_C2189;cac00250;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2189+cac:CA_C2644+cac:CA_C2645
+308;123;glutamine---fructose-6-phosphate transaminase (isomerizing) [EC:2.6.1.16];glmS;cac:CA_C0158;cac00250;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0158
+309;125;amidophosphoribosyltransferase [EC:2.4.2.14];purF;cac:CA_C1392;cac00250;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1392
+310;80;D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase [EC:1.1.1.95 1.1.1.399];serA;cac:CA_C0015;cac00260;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0015+cac:CA_C0089
+311;81;glycerate dehydrogenase [EC:1.1.1.29];(RefSeq);cac:CA_C2945;cac00260;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2945
+312;86;aspartate kinase [EC:2.7.2.4];(RefSeq);cac:CA_C0278;cac00260;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0278+cac:CA_C1810
+313;92;glycine hydroxymethyltransferase [EC:2.1.2.1];glyA;cac:CA_C2264;cac00260;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2264
+314;94;threonine aldolase [EC:4.1.2.48];(RefSeq);cac:CA_C3420;cac00260;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3420
+315;97;threonine synthase [EC:4.2.3.1];thrC;cac:CA_C0999;cac00260;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0999
+316;103;aspartate-semialdehyde dehydrogenase [EC:1.2.1.11];asd;cac:CA_C0022;cac00260;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0022+cac:CA_C0568
+317;105;L-serine dehydratase [EC:4.3.1.17];(RefSeq);cac:CA_C0673;cac00260;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0673+cac:CA_C0674
+318;109;homoserine kinase [EC:2.7.1.39];thrB;cac:CA_C1235;cac00260;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1235
+319;113;homoserine dehydrogenase [EC:1.1.1.3];(RefSeq);cac:CA_C0998;cac00260;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0998
+320;138;threonine aldolase [EC:4.1.2.48];(RefSeq);cac:CA_C3420;cac00260;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3420
+321;195;CDP-diacylglycerol---serine O-phosphatidyltransferase [EC:2.7.8.8];pssA;cac:CA_C0676;cac00260;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0676+cac:CA_C0798
+322;199;tryptophan synthase alpha chain [EC:4.2.1.20];trpA;cac:CA_C3157;cac00260;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3157+cac:CA_C3158
+323;216;glycerate 2-kinase [EC:2.7.1.165];(RefSeq);cac:CA_C2834;cac00260;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2834
+324;217;2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11];gpmA;cac:CA_C2741;cac00260;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2741
+325;227;2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12];pgm;cac:CA_C0712;cac00260;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0712
+326;62;aspartate kinase [EC:2.7.2.4];(RefSeq);cac:CA_C0278;cac00261;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0278+cac:CA_C1810
+327;63;aspartate-semialdehyde dehydrogenase [EC:1.2.1.11];asd;cac:CA_C0022;cac00261;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0022+cac:CA_C0568
+328;96;4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8];dapB;cac:CA_C2379;cac00261;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2379
+329;97;4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7];dapA;cac:CA_C2378;cac00261;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2378+cac:CA_C3600
+330;101;sulfate adenylyltransferase subunit 2 [EC:2.7.7.4];cysD;cac:CA_C0109;cac00261;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0109+cac:CA_C0110
+331;88;adenosylhomocysteine nucleosidase [EC:3.2.2.9];pfs;cac:CA_C2117;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2117
+332;89;spermidine synthase [EC:2.5.1.16];(RefSeq);cac:CA_C2602;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2602
+333;90;S-adenosylmethionine decarboxylase [EC:4.1.1.50];(RefSeq);cac:CA_C2601;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2601
+334;91;L-methionine (R)-S-oxide reductase [EC:1.8.4.14];(RefSeq);cac:CA_C2110;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2110
+335;97;5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13];metH;cac:CA_C0578;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0578
+336;98;cysteine-S-conjugate beta-lyase [EC:4.4.1.13];(RefSeq);cac:CA_C0391;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0391+cac:CA_C0930+cac:CA_C2970
+337;101;S-adenosylmethionine synthetase [EC:2.5.1.6];metK;cac:CA_C2856;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2856
+338;103;DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37];(RefSeq);cac:CA_C1222;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1222+cac:CA_C1501
+339;107;methionine synthase / methylenetetrahydrofolate reductase(NADPH) [EC:2.1.1.13 1.5.1.20];(RefSeq);cac:CA_C0291;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0291+cac:CA_C3348
+340;108;S-ribosylhomocysteine lyase [EC:4.4.1.21];(RefSeq);cac:CA_C2942;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2942
+341;109;adenosylhomocysteine nucleosidase [EC:3.2.2.9];pfs;cac:CA_C2117;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2117
+342;110;cystathionine gamma-synthase [EC:2.5.1.48];(RefSeq);cac:CA_C0390;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0390
+343;132;cysteine synthase [EC:2.5.1.47];(RefSeq);cac:CA_C0931;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0931+cac:CA_C2235
+344;133;serine O-acetyltransferase [EC:2.3.1.30];cysE;cac:CA_C0687;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0687
+345;149;L-serine dehydratase [EC:4.3.1.17];(RefSeq);cac:CA_C0673;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0673+cac:CA_C0674
+346;158;aspartate aminotransferase [EC:2.6.1.1];(RefSeq);cac:CA_C1001;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1001+cac:CA_C1819+cac:CA_C2832
+347;185;aspartate aminotransferase [EC:2.6.1.1];(RefSeq);cac:CA_C1001;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1001+cac:CA_C1819+cac:CA_C2832
+348;194;cysteine-S-conjugate beta-lyase [EC:4.4.1.13];(RefSeq);cac:CA_C0391;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0391+cac:CA_C0930+cac:CA_C2970
+349;199;aspartate aminotransferase [EC:2.6.1.1];(RefSeq);cac:CA_C1001;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1001+cac:CA_C1819+cac:CA_C2832
+350;202;L-lactate dehydrogenase [EC:1.1.1.27];ldh;cac:CA_C0267;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0267+cac:CA_C3552
+351;207;homoserine O-succinyltransferase/O-acetyltransferase [EC:2.3.1.46 2.3.1.31];metB;cac:CA_C1825;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1825
+352;208;homoserine O-succinyltransferase/O-acetyltransferase [EC:2.3.1.46 2.3.1.31];metB;cac:CA_C1825;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1825
+353;212;cystathionine gamma-synthase [EC:2.5.1.48];(RefSeq);cac:CA_C0390;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0390
+354;213;cystathionine gamma-synthase [EC:2.5.1.48];(RefSeq);cac:CA_C0390;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0390
+355;214;cystathionine gamma-synthase [EC:2.5.1.48];(RefSeq);cac:CA_C0390;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0390
+356;215;O-acetylhomoserine (thiol)-lyase [EC:2.5.1.49];(RefSeq);cac:CA_C0102;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0102+cac:CA_C2783
+357;217;cystathionine gamma-synthase [EC:2.5.1.48];(RefSeq);cac:CA_C0390;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0390
+358;224;homoserine dehydrogenase [EC:1.1.1.3];(RefSeq);cac:CA_C0998;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0998
+359;227;aspartate-semialdehyde dehydrogenase [EC:1.2.1.11];asd;cac:CA_C0022;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0022+cac:CA_C0568
+360;230;aspartate kinase [EC:2.7.2.4];(RefSeq);cac:CA_C0278;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0278+cac:CA_C1810
+361;260;branched-chain amino acid aminotransferase [EC:2.6.1.42];ilvE;cac:CA_C1479;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1479+cac:CA_C2226
+362;262;glutamate--cysteine ligase [EC:6.3.2.2];(RefSeq);cac:CA_C1539;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1539
+363;285;cysteine-S-conjugate beta-lyase [EC:4.4.1.13];(RefSeq);cac:CA_C0391;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0391+cac:CA_C0930+cac:CA_C2970
+364;290;D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase [EC:1.1.1.95 1.1.1.399];serA;cac:CA_C0015;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0015+cac:CA_C0089
+365;295;cysteine synthase [EC:2.5.1.47];(RefSeq);cac:CA_C0931;cac00270;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0931+cac:CA_C2235
+366;72;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(RefSeq);cac:CA_C2873;cac00280;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2873+cac:CA_P0078
+367;85;branched-chain amino acid aminotransferase [EC:2.6.1.42];ilvE;cac:CA_C1479;cac00280;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1479+cac:CA_C2226
+368;92;branched-chain amino acid aminotransferase [EC:2.6.1.42];ilvE;cac:CA_C1479;cac00280;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1479+cac:CA_C2226
+369;100;4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase [EC:2.6.1.19 2.6.1.22 2.6.1.48];gabT;cac:CA_C1427;cac00280;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1427
+370;102;3-hydroxyisobutyrate dehydrogenase [EC:1.1.1.31];(RefSeq);cac:CA_C3342;cac00280;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3342
+371;111;branched-chain amino acid aminotransferase [EC:2.6.1.42];ilvE;cac:CA_C1479;cac00280;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1479+cac:CA_C2226
+372;121;butyryl-CoA dehydrogenase [EC:1.3.8.1];bcd;cac:CA_C2711;cac00280;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2711
+373;122;butyryl-CoA dehydrogenase [EC:1.3.8.1];bcd;cac:CA_C2711;cac00280;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2711
+374;22;3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35];leuD;cac:CA_C3172;cac00290;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3172+cac:CA_C3173
+375;23;3-isopropylmalate dehydrogenase [EC:1.1.1.85];leuB;cac:CA_C3171;cac00290;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3171
+376;32;branched-chain amino acid aminotransferase [EC:2.6.1.42];ilvE;cac:CA_C1479;cac00290;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1479+cac:CA_C2226
+377;34;branched-chain amino acid aminotransferase [EC:2.6.1.42];ilvE;cac:CA_C1479;cac00290;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1479+cac:CA_C2226
+378;35;ketol-acid reductoisomerase [EC:1.1.1.86];ilvC;cac:CA_C0091;cac00290;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0091
+379;36;3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35];leuD;cac:CA_C3172;cac00290;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3172+cac:CA_C3173
+380;37;3-isopropylmalate dehydrogenase [EC:1.1.1.85];leuB;cac:CA_C3171;cac00290;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3171
+381;38;3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35];leuD;cac:CA_C3172;cac00290;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3172+cac:CA_C3173
+382;39;2-isopropylmalate synthase [EC:2.3.3.13];(RefSeq);cac:CA_C0273;cac00290;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0273+cac:CA_C3174
+383;41;branched-chain amino acid aminotransferase [EC:2.6.1.42];ilvE;cac:CA_C1479;cac00290;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1479+cac:CA_C2226
+384;42;dihydroxy-acid dehydratase [EC:4.2.1.9];ilvD;cac:CA_C3170;cac00290;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3170+cac:CA_C3604
+385;43;ketol-acid reductoisomerase [EC:1.1.1.86];ilvC;cac:CA_C0091;cac00290;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0091
+386;45;ketol-acid reductoisomerase [EC:1.1.1.86];ilvC;cac:CA_C0091;cac00290;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0091
+387;46;dihydroxy-acid dehydratase [EC:4.2.1.9];ilvD;cac:CA_C3170;cac00290;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3170+cac:CA_C3604
+388;47;ketol-acid reductoisomerase [EC:1.1.1.86];ilvC;cac:CA_C0091;cac00290;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0091
+389;48;acetolactate synthase I/II/III large subunit [EC:2.2.1.6];ilvB;cac:CA_C3169;cac00290;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3169+cac:CA_C3176+cac:CA_C3652
+390;85;3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35];leuD;cac:CA_C3172;cac00290;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3172+cac:CA_C3173
+391;86;acetolactate synthase I/II/III large subunit [EC:2.2.1.6];ilvB;cac:CA_C3169;cac00290;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3169+cac:CA_C3176+cac:CA_C3652
+392;39;LL-diaminopimelate aminotransferase [EC:2.6.1.83];(RefSeq);cac:CA_C1715;cac00300;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1715
+393;51;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [EC:6.3.2.10];murF;cac:CA_C2128;cac00300;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2128
+394;55;aspartate kinase [EC:2.7.2.4];(RefSeq);cac:CA_C0278;cac00300;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0278+cac:CA_C1810
+395;56;aspartate-semialdehyde dehydrogenase [EC:1.2.1.11];asd;cac:CA_C0022;cac00300;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0022+cac:CA_C0568
+396;57;homoserine dehydrogenase [EC:1.1.1.3];(RefSeq);cac:CA_C0998;cac00300;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0998
+397;58;4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7];dapA;cac:CA_C2378;cac00300;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2378+cac:CA_C3600
+398;59;4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8];dapB;cac:CA_C2379;cac00300;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2379
+399;62;2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase [EC:2.3.1.117];dapD;cac:CA_C2381;cac00300;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2381
+400;63;aminotransferase [EC:2.6.1.-];patA;cac:CA_C0375;cac00300;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0375
+401;64;acetylornithine/N-succinyldiaminopimelate aminotransferase [EC:2.6.1.11 2.6.1.17];argD;cac:CA_C2388;cac00300;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2388
+402;66;succinyl-diaminopimelate desuccinylase [EC:3.5.1.18];(RefSeq);cac:CA_C2723;cac00300;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2723
+403;67;diaminopimelate epimerase [EC:5.1.1.7];dapF;cac:CA_C2624;cac00300;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2624
+404;68;diaminopimelate decarboxylase [EC:4.1.1.20];lisA;cac:CA_C0608;cac00300;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0608
+405;82;UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase [EC:6.3.2.13];murE;cac:CA_C2129;cac00300;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2129+cac:CA_C2819
+406;70;D-alanine transaminase [EC:2.6.1.21];(RefSeq);cac:CA_C0792;cac00310;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0792
+407;91;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(RefSeq);cac:CA_C2873;cac00310;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2873+cac:CA_P0078
+408;96;4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase [EC:2.6.1.19 2.6.1.22 2.6.1.48];gabT;cac:CA_C1427;cac00310;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1427
+409;178;acetate CoA/acetoacetate CoA-transferase alpha subunit [EC:2.8.3.8 2.8.3.9];ctfa;cac:CA_P0163;cac00310;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_P0163+cac:CA_P0164
+410;47;arginase [EC:3.5.3.1];(RefSeq);cac:CA_C1054;cac00330;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1054
+411;67;spermidine synthase [EC:2.5.1.16];(RefSeq);cac:CA_C2602;cac00330;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2602
+412;68;S-adenosylmethionine decarboxylase [EC:4.1.1.50];(RefSeq);cac:CA_C2601;cac00330;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2601
+413;126;arginine decarboxylase [EC:4.1.1.19];(RefSeq);cac:CA_C2338;cac00330;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2338
+414;173;pyrroline-5-carboxylate reductase [EC:1.5.1.2];proC;cac:CA_C3252;cac00330;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3252
+415;176;glutamate 5-kinase [EC:2.7.2.11];proB;cac:CA_C3253;cac00330;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3253
+416;177;glutamate-5-semialdehyde dehydrogenase [EC:1.2.1.41];proA;cac:CA_C3254;cac00330;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3254
+417;206;pyrroline-5-carboxylate reductase [EC:1.5.1.2];proC;cac:CA_C3252;cac00330;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3252
+418;209;aspartate aminotransferase [EC:2.6.1.1];(RefSeq);cac:CA_C1001;cac00330;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1001+cac:CA_C1819+cac:CA_C2832
+419;210;D-alanine transaminase [EC:2.6.1.21];(RefSeq);cac:CA_C0792;cac00330;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0792
+420;5;glutamate 5-kinase [EC:2.7.2.11];proB;cac:CA_C3253;cac00332;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3253
+421;8;glutamate-5-semialdehyde dehydrogenase [EC:1.2.1.41];proA;cac:CA_C3254;cac00332;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3254
+422;59;ATP phosphoribosyltransferase regulatory subunit;hisZ;cac:CA_C0935;cac00340;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0935+cac:CA_C0936
+423;60;histidinol dehydrogenase [EC:1.1.1.23];hisD;cac:CA_C0937;cac00340;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0937
+424;61;histidinol dehydrogenase [EC:1.1.1.23];hisD;cac:CA_C0937;cac00340;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0937
+425;62;histidinol-phosphatase (PHP family) [EC:3.1.3.15];(RefSeq);cac:CA_C2727;cac00340;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2727
+426;63;histidinol-phosphate aminotransferase [EC:2.6.1.9];hisC;cac:CA_C3031;cac00340;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3031
+427;64;imidazoleglycerol-phosphate dehydratase [EC:4.2.1.19];hisB;cac:CA_C0938;cac00340;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0938
+428;66;phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase [EC:5.3.1.16];hisA;cac:CA_C0940;cac00340;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0940
+429;67;phosphoribosyl-AMP cyclohydrolase [EC:3.5.4.19];hisI;cac:CA_C0942;cac00340;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0942
+430;68;phosphoribosyl-ATP pyrophosphohydrolase [EC:3.6.1.31];hisE;cac:CA_C0943;cac00340;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0943
+431;70;imidazole glycerol-phosphate synthase subunit HisH [EC:4.3.2.10];hisH;cac:CA_C0939;cac00340;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0939+cac:CA_C0941
+432;66;aspartate aminotransferase [EC:2.6.1.1];(RefSeq);cac:CA_C1001;cac00350;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1001+cac:CA_C1819+cac:CA_C2832
+433;104;histidinol-phosphate aminotransferase [EC:2.6.1.9];hisC;cac:CA_C3031;cac00350;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3031
+434;205;S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1];(RefSeq);cac:CA_C3375;cac00350;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3375+cac:CA_P0035+cac:CA_P0162
+435;115;histidinol-phosphate aminotransferase [EC:2.6.1.9];hisC;cac:CA_C3031;cac00360;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3031
+436;117;aspartate aminotransferase [EC:2.6.1.1];(RefSeq);cac:CA_C1001;cac00360;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1001+cac:CA_C1819+cac:CA_C2832
+437;120;D-alanine transaminase [EC:2.6.1.21];(RefSeq);cac:CA_C0792;cac00360;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0792
+438;136;2-enoate reductase [EC:1.3.1.31];(RefSeq);cac:CA_C3371;cac00360;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3371
+439;227;3-hydroxybutyryl-CoA dehydrogenase [EC:1.1.1.157];hbd;cac:CA_C2708;cac00360;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2708
+440;129;3-hydroxybutyryl-CoA dehydrogenase [EC:1.1.1.157];hbd;cac:CA_C2708;cac00362;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2708
+441;132;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(RefSeq);cac:CA_C2873;cac00362;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2873+cac:CA_P0078
+442;11;3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54];(RefSeq);cac:CA_C0892;cac00400;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0892
+443;51;chorismate synthase [EC:4.2.3.5];aroC;cac:CA_C0896;cac00400;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0896
+444;52;tryptophan synthase alpha chain [EC:4.2.1.20];trpA;cac:CA_C3157;cac00400;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3157+cac:CA_C3158
+445;53;tryptophan synthase alpha chain [EC:4.2.1.20];trpA;cac:CA_C3157;cac00400;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3157
+446;54;tryptophan synthase beta chain [EC:4.2.1.20];trpB;cac:CA_C3158;cac00400;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3158
+447;55;indole-3-glycerol phosphate synthase [EC:4.1.1.48];trpC;cac:CA_C3160;cac00400;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3160
+448;56;phosphoribosylanthranilate isomerase [EC:5.3.1.24];trpF;cac:CA_C3159;cac00400;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3159
+449;57;anthranilate phosphoribosyltransferase [EC:2.4.2.18];trpD;cac:CA_C3161;cac00400;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3161
+450;58;anthranilate synthase component II [EC:4.1.3.27];pabA;cac:CA_C3162;cac00400;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3162+cac:CA_C3163
+451;59;chorismate mutase [EC:5.4.99.5];pheB;cac:CA_C1234;cac00400;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1234
+452;61;prephenate dehydratase [EC:4.2.1.51];pheA;cac:CA_C0217;cac00400;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0217
+453;68;prephenate dehydratase [EC:4.2.1.51];pheA;cac:CA_C0217;cac00400;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0217
+454;70;prephenate dehydrogenase [EC:1.3.1.12];(RefSeq);cac:CA_C0893;cac00400;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0893
+455;75;3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19];aroA;cac:CA_C0895;cac00400;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0895
+456;76;shikimate kinase [EC:2.7.1.71];aroK;cac:CA_C0898;cac00400;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0898
+457;77;shikimate dehydrogenase [EC:1.1.1.25];aro;cac:CA_C0897;cac00400;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0897
+458;78;3-dehydroquinate dehydratase II [EC:4.2.1.10];(RefSeq);cac:CA_C0899;cac00400;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0899
+459;80;3-dehydroquinate synthase [EC:4.2.3.4];aroB;cac:CA_C0894;cac00400;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0894
+460;83;aspartate aminotransferase [EC:2.6.1.1];(RefSeq);cac:CA_C1001;cac00400;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1001+cac:CA_C1819+cac:CA_C2832
+461;84;aspartate aminotransferase [EC:2.6.1.1];(RefSeq);cac:CA_C1001;cac00400;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1001+cac:CA_C1819+cac:CA_C2832
+462;89;histidinol-phosphate aminotransferase [EC:2.6.1.9];hisC;cac:CA_C3031;cac00400;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3031
+463;90;histidinol-phosphate aminotransferase [EC:2.6.1.9];hisC;cac:CA_C3031;cac00400;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3031
+464;67;histidinol-phosphate aminotransferase [EC:2.6.1.9];hisC;cac:CA_C3031;cac00401;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3031
+465;69;prephenate dehydrogenase [EC:1.3.1.12];(RefSeq);cac:CA_C0893;cac00401;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0893
+466;70;aspartate aminotransferase [EC:2.6.1.1];(RefSeq);cac:CA_C1001;cac00401;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1001+cac:CA_C1819+cac:CA_C2832
+467;42;butyryl-CoA dehydrogenase [EC:1.3.8.1];bcd;cac:CA_C2711;cac00410;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2711
+468;53;4-aminobutyrate aminotransferase [EC:2.6.1.19];(RefSeq);cac:CA_C0368;cac00410;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0368+cac:CA_C1427
+469;54;pantoate--beta-alanine ligase [EC:6.3.2.1];panC;cac:CA_C2915;cac00410;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2915
+470;58;aspartate 1-decarboxylase [EC:4.1.1.11];panD;cac:CA_C2916;cac00410;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2916
+471;36;phosphate acetyltransferase [EC:2.3.1.8];eutD;cac:CA_C1742;cac00430;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1742
+472;58;acetate kinase [EC:2.7.2.1];askA;cac:CA_C1743;cac00430;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1743
+473;90;phosphinothricin acetyltransferase [EC:2.3.1.183];(RefSeq);cac:CA_C0858;cac00440;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0858
+474;144;phosphinothricin acetyltransferase [EC:2.3.1.183];(RefSeq);cac:CA_C0858;cac00440;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0858
+475;11;thioredoxin reductase (NADPH) [EC:1.8.1.9];(RefSeq);cac:CA_C0869;cac00450;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0869+cac:CA_C1548+cac:CA_C3082
+476;15;methionyl-tRNA synthetase [EC:6.1.1.10];metG;cac:CA_C2991;cac00450;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2991
+477;59;cystathionine gamma-synthase [EC:2.5.1.48];(RefSeq);cac:CA_C0390;cac00450;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0390
+478;60;cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16];(RefSeq);cac:CA_C3291;cac00450;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3291
+479;72;sulfate adenylyltransferase subunit 2 [EC:2.7.7.4];cysD;cac:CA_C0109;cac00450;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0109+cac:CA_C0110
+480;81;cysteine-S-conjugate beta-lyase [EC:4.4.1.13];(RefSeq);cac:CA_C0391;cac00450;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0391+cac:CA_C0930+cac:CA_C2970
+481;82;5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13];metH;cac:CA_C0578;cac00450;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0578
+482;89;thioredoxin reductase (NADPH) [EC:1.8.1.9];(RefSeq);cac:CA_C0869;cac00450;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0869+cac:CA_C1548+cac:CA_C3082
+483;44;L-asparaginase [EC:3.5.1.1];ansA;cac:CA_C1714;cac00460;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1714
+484;45;beta-glucosidase [EC:3.2.1.21];(RefSeq);cac:CA_C1075;cac00460;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1075
+485;50;glycine hydroxymethyltransferase [EC:2.1.2.1];glyA;cac:CA_C2264;cac00460;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2264
+486;151;beta-glucosidase [EC:3.2.1.21];(RefSeq);cac:CA_C1075;cac00460;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1075
+487;152;beta-glucosidase [EC:3.2.1.21];(RefSeq);cac:CA_C1075;cac00460;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1075
+488;161;beta-glucosidase [EC:3.2.1.21];(RefSeq);cac:CA_C1075;cac00460;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1075
+489;165;beta-glucosidase [EC:3.2.1.21];(RefSeq);cac:CA_C1075;cac00460;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1075
+490;20;UDP-N-acetylmuramate--alanine ligase [EC:6.3.2.8];murC;cac:CA_C3225;cac00471;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3225
+491;21;UDP-N-acetylmuramoylalanine--D-glutamate ligase [EC:6.3.2.9];murD;cac:CA_C3194;cac00471;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3194
+492;25;glutamate racemase [EC:5.1.1.3];(RefSeq);cac:CA_C3250;cac00471;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3250
+493;15;D-alanine transaminase [EC:2.6.1.21];(RefSeq);cac:CA_C0792;cac00472;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0792
+494;22;D-alanine transaminase [EC:2.6.1.21];(RefSeq);cac:CA_C0792;cac00472;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0792
+495;13;D-alanine-D-alanine ligase [EC:6.3.2.4];ddl;cac:CA_C2895;cac00473;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2895
+496;15;D-alanine transaminase [EC:2.6.1.21];(RefSeq);cac:CA_C0792;cac00473;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0792
+497;16;alanine racemase [EC:5.1.1.1];alr;cac:CA_C0492;cac00473;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0492+cac:CA_C3331
+498;39;glutathione peroxidase [EC:1.11.1.9];bsaA;cac:CA_C1549;cac00480;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1549+cac:CA_C1570+cac:CA_C1571
+499;53;glutamate--cysteine ligase [EC:6.3.2.2];(RefSeq);cac:CA_C1539;cac00480;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1539
+500;147;spermidine synthase [EC:2.5.1.16];(RefSeq);cac:CA_C2602;cac00480;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2602
+501;155;spermidine synthase [EC:2.5.1.16];(RefSeq);cac:CA_C2602;cac00480;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2602
+502;82;beta-glucosidase [EC:3.2.1.21];(RefSeq);cac:CA_C1075;cac00500;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1075
+503;83;beta-glucosidase [EC:3.2.1.21];(RefSeq);cac:CA_C1075;cac00500;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1075
+504;85;maltose-6'-phosphate glucosidase [EC:3.2.1.122];glvA;cac:CA_C0533;cac00500;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0533
+505;87;beta-fructofuranosidase [EC:3.2.1.26];sacA;cac:CA_C0425;cac00500;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0425
+506;88;fructokinase [EC:2.7.1.4];(RefSeq);cac:CA_C0424;cac00500;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0424+cac:CA_C1523
+507;90;alpha-glucosidase [EC:3.2.1.20];(RefSeq);cac:CA_C2891;cac00500;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2891
+508;91;beta-fructofuranosidase [EC:3.2.1.26];sacA;cac:CA_C0425;cac00500;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0425
+509;93;beta-glucosidase [EC:3.2.1.21];(RefSeq);cac:CA_C1075;cac00500;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1075
+510;95;endoglucanase [EC:3.2.1.4];(RefSeq);cac:CA_C0561;cac00500;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0561+cac:CA_C0706+cac:CA_C0825+cac:CA_C0826+cac:CA_C0912+cac:CA_C0913
+511;110;UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9];(RefSeq);cac:CA_C2250;cac00500;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2250+cac:CA_C2335
+512;113;glucose-1-phosphate adenylyltransferase [EC:2.7.7.27];glgC;cac:CA_C2237;cac00500;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2237+cac:CA_C2238
+513;114;phosphoglucomutase [EC:5.4.2.2];(RefSeq);cac:CA_C2337;cac00500;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2337
+514;118;glucokinase [EC:2.7.1.2];glcK;cac:CA_C2613;cac00500;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2613
+515;119;glucose-6-phosphate isomerase [EC:5.3.1.9];pgi;cac:CA_C2680;cac00500;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2680
+516;120;1,4-alpha-glucan branching enzyme [EC:2.4.1.18];(RefSeq);cac:CA_C2414;cac00500;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2414
+517;126;beta-phosphoglucomutase [EC:5.4.2.6];(RefSeq);cac:CA_C2614;cac00500;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2614
+518;127;maltose-6'-phosphate glucosidase [EC:3.2.1.122];glvA;cac:CA_C0533;cac00500;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0533
+519;128;maltose phosphorylase [EC:2.4.1.8];(RefSeq);cac:CA_C2685;cac00500;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2685
+520;130;alpha-amylase [EC:3.2.1.1];amyA;cac:CA_P0168;cac00500;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_P0168
+521;132;alpha-glucosidase [EC:3.2.1.20];(RefSeq);cac:CA_C2891;cac00500;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2891
+522;133;glycogen phosphorylase [EC:2.4.1.1];(RefSeq);cac:CA_C0857;cac00500;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0857+cac:CA_C1664+cac:CA_C2679
+523;137;starch synthase [EC:2.4.1.21];glgA;cac:CA_C2239;cac00500;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2239
+524;140;levansucrase [EC:2.4.1.10];sacB1;cac:CA_C1772;cac00500;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1772
+525;141;levanase [EC:3.2.1.65];sacC;cac:CA_C1773;cac00500;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1773
+526;147;sugar PTS system EIIA component [EC:2.7.1.-];(RefSeq);cac:CA_C1354;cac00500;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1354+cac:CA_C2995+cac:CA_C3427
+527;148;alpha-glucoside PTS system EIICB component [EC:2.7.1.208 2.7.1.-];(RefSeq);cac:CA_C0532;cac00500;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0532+cac:CA_C1354+cac:CA_C2995+cac:CA_C3425+cac:CA_C3427
+528;226;endoglucanase [EC:3.2.1.4];(RefSeq);cac:CA_C0561;cac00500;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0561+cac:CA_C0706+cac:CA_C0825+cac:CA_C0826+cac:CA_C0912+cac:CA_C0913
+529;232;6-phospho-beta-glucosidase [EC:3.2.1.86];(RefSeq);cac:CA_C0385;cac00500;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0385+cac:CA_C0743+cac:CA_C1084+cac:CA_C1405+cac:CA_C1408+cac:CA_C3426+cac:CA_P0010
+530;233;cellobiose PTS system EIIA component [EC:2.7.1.196 2.7.1.205];(RefSeq);cac:CA_C0383;cac00500;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0383+cac:CA_C0384+cac:CA_C0386
+531;238;alpha-amylase [EC:3.2.1.1];amyA;cac:CA_P0168;cac00500;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_P0168
+532;11;bifunctional UDP-N-acetylglucosamine pyrophosphorylase / Glucosamine-1-phosphate N-acetyltransferase [EC:2.7.7.23 2.3.1.157];glmU;cac:CA_C3222;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3222
+533;22;glucosamine-6-phosphate deaminase [EC:3.5.99.6];nagB;cac:CA_C0187;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0187
+534;24;N-acetylglucosamine-6-phosphate deacetylase [EC:3.5.1.25];nagA;cac:CA_C0188;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0188
+535;26;phosphoglucosamine mutase [EC:5.4.2.10];glmM;cac:CA_C0484;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0484
+536;28;bifunctional UDP-N-acetylglucosamine pyrophosphorylase / Glucosamine-1-phosphate N-acetyltransferase [EC:2.7.7.23 2.3.1.157];glmU;cac:CA_C3222;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3222
+537;30;glutamine---fructose-6-phosphate transaminase (isomerizing) [EC:2.6.1.16];glmS;cac:CA_C0158;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0158
+538;43;UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14];(RefSeq);cac:CA_C2874;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2874+cac:CA_C3064
+539;48;UDP-N-acetylglucosamine 1-carboxyvinyltransferase [EC:2.5.1.7];murA;cac:CA_C2862;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2862+cac:CA_C3539
+540;49;UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98];murB;cac:CA_C0510;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0510
+541;57;sugar PTS system EIIA component [EC:2.7.1.-];(RefSeq);cac:CA_C1354;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1354+cac:CA_C2995+cac:CA_C3427
+542;59;N-acetylmuramic acid 6-phosphate etherase [EC:4.2.1.126];murQ;cac:CA_C0175;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0175
+543;73;beta-N-acetylhexosaminidase [EC:3.2.1.52];(RefSeq);cac:CA_C0182;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0182
+544;87;fructokinase [EC:2.7.1.4];(RefSeq);cac:CA_C0424;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0424+cac:CA_C1523
+545;93;N-acetylglucosamine PTS system EIICBA or EIICB component [EC:2.7.1.193];(RefSeq);cac:CA_C1353;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1353
+546;173;pseudaminic acid synthase [EC:2.5.1.97];spsE;cac:CA_C2187;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2187
+547;192;UDPglucose--hexose-1-phosphate uridylyltransferase [EC:2.7.7.12];galT;cac:CA_C2844;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2844+cac:CA_C2961
+548;194;UDP-glucose 4-epimerase [EC:5.1.3.2];(RefSeq);cac:CA_C0794;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0794+cac:CA_C1429+cac:CA_C2334+cac:CA_C2960
+549;201;mannose-6-phosphate isomerase [EC:5.3.1.8];pmi;cac:CA_C2918;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2918
+550;202;mannose-1-phosphate guanylyltransferase / phosphomannomutase [EC:2.7.7.13 5.4.2.8];(RefSeq);cac:CA_C2981;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2981
+551;204;phosphoglucomutase [EC:5.4.2.2];(RefSeq);cac:CA_C2337;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2337
+552;208;galactokinase [EC:2.7.1.6];galK;cac:CA_C2959;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2959
+553;211;mannose-1-phosphate guanylyltransferase [EC:2.7.7.13];(RefSeq);cac:CA_C2968;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2968+cac:CA_C2981+cac:CA_C3058+cac:CA_C3072
+554;247;phosphoglucomutase [EC:5.4.2.2];(RefSeq);cac:CA_C2337;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2337
+555;262;GDPmannose 4,6-dehydratase [EC:4.2.1.47];(RefSeq);cac:CA_C2180;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2180
+556;264;GDP-L-fucose synthase [EC:1.1.1.271];(RefSeq);cac:CA_C2179;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2179
+557;282;glucose-6-phosphate isomerase [EC:5.3.1.9];pgi;cac:CA_C2680;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2680
+558;295;UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9];(RefSeq);cac:CA_C2250;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2250+cac:CA_C2335
+559;297;Pfam: PTSIIB_sorb;(RefSeq);cac:CA_C1458;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1458+cac:CA_P0066+cac:CA_P0067+cac:CA_P0068
+560;299;glucose PTS system EIICBA or EIICB component [EC:2.7.1.199];(RefSeq);cac:CA_C0570;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0570+cac:CA_C1354+cac:CA_C2995+cac:CA_C3427
+561;304;glucose PTS system EIICBA or EIICB component [EC:2.7.1.199];(RefSeq);cac:CA_C0570;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0570+cac:CA_C1354+cac:CA_C2995+cac:CA_C3427
+562;309;glucose-1-phosphate adenylyltransferase [EC:2.7.7.27];glgC;cac:CA_C2237;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2237+cac:CA_C2238
+563;310;glucokinase [EC:2.7.1.2];glcK;cac:CA_C2613;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2613
+564;311;glucokinase [EC:2.7.1.2];glcK;cac:CA_C2613;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2613
+565;324;arabinoxylan arabinofuranohydrolase [EC:3.2.1.55];(RefSeq);cac:CA_P0120;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_P0120
+566;326;xylan 1,4-beta-xylosidase [EC:3.2.1.37];xynD;cac:CA_C3452;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3452
+567;435;UDP-galactopyranose mutase [EC:5.4.99.9];(RefSeq);cac:CA_C2169;cac00520;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2169
+568;16;glucokinase [EC:2.7.1.2];glcK;cac:CA_C2613;cac00521;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2613
+569;24;dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133];(RefSeq);cac:CA_C2315;cac00521;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2315+cac:CA_P0122
+570;42;dTDP-4-dehydrorhamnose 3,5-epimerase [EC:5.1.3.13];(RefSeq);cac:CA_C2331;cac00521;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2331
+571;43;dTDP-glucose 4,6-dehydratase [EC:4.2.1.46];spsJ;cac:CA_C2332;cac00521;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2332
+572;44;glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24];spsI;cac:CA_C2333;cac00521;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2333
+573;45;phosphoglucomutase [EC:5.4.2.2];(RefSeq);cac:CA_C2337;cac00521;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2337
+574;26;dTDP-glucose 4,6-dehydratase [EC:4.2.1.46];spsJ;cac:CA_C2332;cac00523;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2332
+575;27;glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24];spsI;cac:CA_C2333;cac00523;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2333
+576;28;dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133];(RefSeq);cac:CA_C2315;cac00523;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2315+cac:CA_P0122
+577;63;dTDP-4-dehydrorhamnose 3,5-epimerase [EC:5.1.3.13];(RefSeq);cac:CA_C2331;cac00523;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2331
+578;58;glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24];spsI;cac:CA_C2333;cac00525;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2333
+579;59;dTDP-glucose 4,6-dehydratase [EC:4.2.1.46];spsJ;cac:CA_C2332;cac00525;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2332
+580;63;D-sedoheptulose 7-phosphate isomerase [EC:5.3.1.28];(RefSeq);cac:CA_C3054;cac00540;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3054
+581;64;D-glycero-D-manno-heptose 1,7-bisphosphate phosphatase [EC:3.1.3.82 3.1.3.83];(RefSeq);cac:CA_C3053;cac00540;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3053
+582;82;D-glycero-alpha-D-manno-heptose-7-phosphate kinase [EC:2.7.1.168];(RefSeq);cac:CA_C3055;cac00540;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3055
+583;86;D-glycero-D-manno-heptose 1,7-bisphosphate phosphatase [EC:3.1.3.82 3.1.3.83];(RefSeq);cac:CA_C3053;cac00540;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3053
+584;90;D-glycero-alpha-D-manno-heptose 1-phosphate guanylyltransferase [EC:2.7.7.71];(RefSeq);cac:CA_C3056;cac00540;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3056
+585;92;D-sedoheptulose 7-phosphate isomerase [EC:5.3.1.28];(RefSeq);cac:CA_C3054;cac00540;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3054
+586;23;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [EC:6.3.2.10];murF;cac:CA_C2128;cac00550;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2128
+587;26;undecaprenyl-diphosphatase [EC:3.6.1.27];uppP;cac:CA_C0501;cac00550;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0501+cac:CA_C0963+cac:CA_C2395+cac:CA_C2438+cac:CA_C2537
+588;27;UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227];murG;cac:CA_C2231;cac00550;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2231
+589;28;phospho-N-acetylmuramoyl-pentapeptide-transferase [EC:2.7.8.13];mraY;cac:CA_C2127;cac00550;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2127
+590;29;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [EC:6.3.2.10];murF;cac:CA_C2128;cac00550;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2128
+591;30;D-alanine-D-alanine ligase [EC:6.3.2.4];ddl;cac:CA_C2895;cac00550;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2895
+592;32;UDP-N-acetylmuramoylalanine--D-glutamate ligase [EC:6.3.2.9];murD;cac:CA_C3194;cac00550;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3194
+593;33;UDP-N-acetylmuramate--alanine ligase [EC:6.3.2.8];murC;cac:CA_C3225;cac00550;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3225
+594;34;UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase [EC:6.3.2.13];murE;cac:CA_C2129;cac00550;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2129+cac:CA_C2819
+595;35;phospho-N-acetylmuramoyl-pentapeptide-transferase [EC:2.7.8.13];mraY;cac:CA_C2127;cac00550;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2127
+596;36;UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227];murG;cac:CA_C2231;cac00550;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2231
+597;58;UDP-N-acetylglucosamine 1-carboxyvinyltransferase [EC:2.5.1.7];murA;cac:CA_C2862;cac00550;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2862+cac:CA_C3539
+598;59;UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98];murB;cac:CA_C0510;cac00550;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0510
+599;88;serine-type D-Ala-D-Ala carboxypeptidase (penicillin-binding protein 5/6) [EC:3.4.16.4];dacB;cac:CA_C1267;cac00550;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1267+cac:CA_C2057+cac:CA_C2063
+600;89;zinc D-Ala-D-Ala carboxypeptidase [EC:3.4.17.14];(RefSeq);cac:CA_C3297;cac00550;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3297
+601;91;zinc D-Ala-D-Ala carboxypeptidase [EC:3.4.17.14];(RefSeq);cac:CA_C3297;cac00550;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3297
+602;92;zinc D-Ala-D-Ala carboxypeptidase [EC:3.4.17.14];(RefSeq);cac:CA_C3297;cac00550;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3297
+603;93;penicillin-binding protein 1A [EC:2.4.1.129 3.4.16.4];mrcB;cac:CA_C2301;cac00550;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2301
+604;94;penicillin-binding protein 1A [EC:2.4.1.129 3.4.16.4];mrcB;cac:CA_C2301;cac00550;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2301
+605;95;penicillin-binding protein 1A [EC:2.4.1.129 3.4.16.4];mrcB;cac:CA_C2301;cac00550;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2301
+606;96;penicillin-binding protein 1A [EC:2.4.1.129 3.4.16.4];mrcB;cac:CA_C2301;cac00550;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2301
+607;98;penicillin-binding protein 1A [EC:2.4.1.129 3.4.16.4];mrcB;cac:CA_C2301;cac00550;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2301
+608;100;penicillin-binding protein 1A [EC:2.4.1.129 3.4.16.4];mrcB;cac:CA_C2301;cac00550;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2301
+609;101;penicillin-binding protein A;(RefSeq);cac:CA_C0506;cac00550;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0506+cac:CA_C1245+cac:CA_C1246+cac:CA_C1247+cac:CA_C2130
+610;102;serine-type D-Ala-D-Ala carboxypeptidase (penicillin-binding protein 5/6) [EC:3.4.16.4];dacB;cac:CA_C1267;cac00550;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1267+cac:CA_C2057+cac:CA_C2063
+611;103;serine-type D-Ala-D-Ala carboxypeptidase (penicillin-binding protein 5/6) [EC:3.4.16.4];dacB;cac:CA_C1267;cac00550;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1267+cac:CA_C2057+cac:CA_C2063
+612;104;lipid II isoglutaminyl synthase (glutamine-hydrolysing) [EC:6.3.5.13];(RefSeq);cac:CA_C0961;cac00550;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0961+cac:CA_C0962
+613;41;triacylglycerol lipase [EC:3.1.1.3];(RefSeq);cac:CA_C1028;cac00561;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1028
+614;44;1,2-diacylglycerol 3-alpha-glucosyltransferase [EC:2.4.1.337];(RefSeq);cac:CA_C2536;cac00561;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2536+cac:CA_C3594
+615;47;triacylglycerol lipase [EC:3.1.1.3];(RefSeq);cac:CA_C1028;cac00561;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1028
+616;48;1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51];(RefSeq);cac:CA_C0688;cac00561;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0688+cac:CA_C0965
+617;55;glycerol kinase [EC:2.7.1.30];glpK;cac:CA_C1321;cac00561;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1321
+618;73;diacylglycerol kinase (ATP) [EC:2.7.1.107];dgkA_pgpB;cac:CA_C1294;cac00561;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1294
+619;127;processive 1,2-diacylglycerol beta-glucosyltransferase [EC:2.4.1.315];(RefSeq);cac:CA_C2897;cac00561;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2897
+620;131;processive 1,2-diacylglycerol beta-glucosyltransferase [EC:2.4.1.315];(RefSeq);cac:CA_C2897;cac00561;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2897
+621;141;glycerate 2-kinase [EC:2.7.1.165];(RefSeq);cac:CA_C2834;cac00561;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2834
+622;152;acyl phosphate:glycerol-3-phosphate acyltransferase [EC:2.3.1.275];(RefSeq);cac:CA_C2500;cac00561;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2500
+623;155;phosphate acyltransferase [EC:2.3.1.274];plsX;cac:CA_C1746;cac00561;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1746
+624;69;phospholipase C [EC:3.1.4.3];(RefSeq);cac:CA_C1019;cac00562;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1019+cac:CA_P0148
+625;129;triosephosphate isomerase (TIM) [EC:5.3.1.1];tpiA;cac:CA_C0711;cac00562;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0711
+626;175;scyllo-inositol 2-dehydrogenase (NADP+) [EC:1.1.1.-];(RefSeq);cac:CA_C1231;cac00562;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1231
+627;94;phospholipase C [EC:3.1.4.3];(RefSeq);cac:CA_C1019;cac00564;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1019+cac:CA_P0148
+628;98;diacylglycerol kinase (ATP) [EC:2.7.1.107];dgkA_pgpB;cac:CA_C1294;cac00564;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1294
+629;103;glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46];(RefSeq);cac:CA_C0430;cac00564;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0430+cac:CA_P0015
+630;104;CDP-diacylglycerol---serine O-phosphatidyltransferase [EC:2.7.8.8];pssA;cac:CA_C0676;cac00564;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0676+cac:CA_C0798
+631;106;1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51];(RefSeq);cac:CA_C0688;cac00564;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0688+cac:CA_C0965
+632;110;phospholipase C [EC:3.1.4.3];(RefSeq);cac:CA_C1019;cac00564;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1019+cac:CA_P0148
+633;116;glycerol-3-phosphate dehydrogenase (NAD(P)+) [EC:1.1.1.94];gpsA;cac:CA_C1712;cac00564;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1712
+634;117;glycerol-3-phosphate dehydrogenase [EC:1.1.5.3];glpA;cac:CA_C1322;cac00564;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1322
+635;119;ethanolamine ammonia-lyase small subunit [EC:4.3.1.7];(RefSeq);cac:CA_C2717;cac00564;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2717+cac:CA_C2718
+636;124;lysophospholipase [EC:3.1.1.5];(RefSeq);cac:CA_C2246;cac00564;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2246
+637;128;lysophospholipase [EC:3.1.1.5];(RefSeq);cac:CA_C2246;cac00564;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2246
+638;134;lysophospholipase [EC:3.1.1.5];(RefSeq);cac:CA_C2246;cac00564;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2246
+639;136;phosphatidylserine decarboxylase [EC:4.1.1.65];psdD;cac:CA_C0031;cac00564;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0031+cac:CA_C0799
+640;141;glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46];(RefSeq);cac:CA_C0430;cac00564;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0430+cac:CA_P0015
+641;142;lysophospholipase [EC:3.1.1.5];(RefSeq);cac:CA_C2246;cac00564;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2246
+642;147;CDP-diacylglycerol---glycerol-3-phosphate 3-phosphatidyltransferase [EC:2.7.8.5];pgsA;cac:CA_C1814;cac00564;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1814
+643;149;cardiolipin synthase (CMP-forming) [EC:2.7.8.41];pgsA;cac:CA_C3596;cac00564;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3596
+644;228;glycerol-1-phosphate dehydrogenase [NAD(P)+] [EC:1.1.1.261];(RefSeq);cac:CA_C1626;cac00564;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1626
+645;249;phospholipase C [EC:3.1.4.3];(RefSeq);cac:CA_C1019;cac00564;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1019+cac:CA_P0148
+646;253;cardiolipin synthase A/B [EC:2.7.8.-];(RefSeq);cac:CA_C3316;cac00564;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3316
+647;254;acyl phosphate:glycerol-3-phosphate acyltransferase [EC:2.3.1.275];(RefSeq);cac:CA_C2500;cac00564;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2500
+648;111;glutathione peroxidase [EC:1.11.1.9];bsaA;cac:CA_C1549;cac00590;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1549+cac:CA_C1570+cac:CA_C1571
+649;124;glutathione peroxidase [EC:1.11.1.9];bsaA;cac:CA_C1549;cac00590;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1549+cac:CA_C1570+cac:CA_C1571
+650;64;pyruvate, water dikinase [EC:2.7.9.2];(RefSeq);cac:CA_C0797;cac00620;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0797+cac:CA_C0801
+651;65;pyruvate kinase [EC:2.7.1.40];pykA;cac:CA_C0518;cac00620;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0518+cac:CA_C1036
+652;68;methylglyoxal/glyoxal reductase [EC:1.1.1.283 1.1.1.-];(RefSeq);cac:CA_C1958;cac00620;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1958
+653;72;D-lactate dehydrogenase [EC:1.1.1.28];(RefSeq);cac:CA_C1543;cac00620;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1543+cac:CA_C2691
+654;74;hydroxyacylglutathione hydrolase [EC:3.1.2.6];(RefSeq);cac:CA_C2272;cac00620;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2272
+655;77;lactate racemase [EC:5.1.2.1];(RefSeq);cac:CA_C0769;cac00620;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0769
+656;79;pyruvate carboxylase [EC:6.4.1.1];pykA;cac:CA_C2660;cac00620;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2660
+657;80;malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38];malS;cac:CA_C1589;cac00620;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1589+cac:CA_C1596
+658;82;formate C-acetyltransferase [EC:2.3.1.54];pflB;cac:CA_C0980;cac00620;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0980
+659;85;pyruvate-ferredoxin/flavodoxin oxidoreductase [EC:1.2.7.1 1.2.7.-];(RefSeq);cac:CA_C2229;cac00620;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2229+cac:CA_C2499
+660;93;L-lactate dehydrogenase [EC:1.1.1.27];ldh;cac:CA_C0267;cac00620;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0267+cac:CA_C3552
+661;97;phosphate acetyltransferase [EC:2.3.1.8];eutD;cac:CA_C1742;cac00620;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1742
+662;107;acetaldehyde dehydrogenase / alcohol dehydrogenase [EC:1.2.1.10 1.1.1.1];adhe;cac:CA_P0035;cac00620;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_P0035+cac:CA_P0162
+663;109;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(RefSeq);cac:CA_C2873;cac00620;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2873+cac:CA_P0078
+664;110;2-isopropylmalate synthase [EC:2.3.3.13];(RefSeq);cac:CA_C0273;cac00620;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0273+cac:CA_C3174
+665;115;homocitrate synthase NifV [EC:2.3.3.14];nifV;cac:CA_C0260;cac00620;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0260+cac:CA_C0261
+666;116;acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2 2.1.3.15];accA;cac:CA_C3568;cac00620;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3568+cac:CA_C3569+cac:CA_C3570+cac:CA_C3572
+667;129;acetate kinase [EC:2.7.2.1];askA;cac:CA_C1743;cac00620;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1743
+668;130;acylphosphatase [EC:3.6.1.7];(RefSeq);cac:CA_C2830;cac00620;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2830
+669;174;fumarate hydratase subunit beta [EC:4.2.1.2];(RefSeq);cac:CA_C3090;cac00620;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3090+cac:CA_C3091
+670;177;pyruvate-ferredoxin/flavodoxin oxidoreductase [EC:1.2.7.1 1.2.7.-];(RefSeq);cac:CA_C2229;cac00620;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2229+cac:CA_C2499
+671;179;2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta [EC:1.2.7.3 1.2.7.11];(RefSeq);cac:CA_C2458;cac00620;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2458+cac:CA_C2459
+672;29;nitrogenase iron protein NifH;nifH;cac:CA_C0253;cac00625;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0253+cac:CA_C0256+cac:CA_C0257
+673;56;S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1];(RefSeq);cac:CA_C3375;cac00625;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3375+cac:CA_P0035+cac:CA_P0162
+674;59;S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1];(RefSeq);cac:CA_C3375;cac00625;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3375+cac:CA_P0035+cac:CA_P0162
+675;105;2-haloacid dehalogenase [EC:3.8.1.2];(RefSeq);cac:CA_C1776;cac00625;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1776
+676;84;S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1];(RefSeq);cac:CA_C3375;cac00626;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3375+cac:CA_P0035+cac:CA_P0162
+677;94;S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1];(RefSeq);cac:CA_C3375;cac00626;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3375+cac:CA_P0035+cac:CA_P0162
+678;162;acylphosphatase [EC:3.6.1.7];(RefSeq);cac:CA_C2830;cac00627;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2830
+679;239;acetate CoA/acetoacetate CoA-transferase alpha subunit [EC:2.8.3.8 2.8.3.9];ctfa;cac:CA_P0163;cac00627;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_P0163+cac:CA_P0164
+680;84;aconitate hydratase [EC:4.2.1.3];citB;cac:CA_C0971;cac00630;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0971
+681;98;aconitate hydratase [EC:4.2.1.3];citB;cac:CA_C0971;cac00630;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0971
+682;102;glycolate oxidase [EC:1.1.3.15];(RefSeq);cac:CA_C2542;cac00630;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2542
+683;147;phosphoglycolate phosphatase [EC:3.1.3.18];(RefSeq);cac:CA_C0418;cac00630;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0418+cac:CA_C2496
+684;148;glycerate dehydrogenase [EC:1.1.1.29];(RefSeq);cac:CA_C2945;cac00630;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2945
+685;149;glycerate dehydrogenase [EC:1.1.1.29];(RefSeq);cac:CA_C2945;cac00630;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2945
+686;208;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(RefSeq);cac:CA_C2873;cac00630;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2873+cac:CA_P0078
+687;230;glycine hydroxymethyltransferase [EC:2.1.2.1];glyA;cac:CA_C2264;cac00630;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2264
+688;245;glutamine synthetase [EC:6.3.1.2];glnA;cac:CA_C2658;cac00630;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2658
+689;251;2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase [EC:4.1.2.14 4.1.3.42];kdgA;cac:CA_C0394;cac00630;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0394+cac:CA_C2973
+690;264;glycerate 2-kinase [EC:2.7.1.165];(RefSeq);cac:CA_C2834;cac00630;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2834
+691;44;anaerobic carbon-monoxide dehydrogenase catalytic subunit [EC:1.2.7.4];(RefSeq);cac:CA_C0116;cac00633;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0116+cac:CA_C2498
+692;45;hydrogenase small subunit [EC:1.12.99.6];mbhs;cac:CA_P0141;cac00633;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_P0141+cac:CA_P0142
+693;18;acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2 2.1.3.15];accA;cac:CA_C3568;cac00640;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3568+cac:CA_C3569+cac:CA_C3570+cac:CA_C3572
+694;26;4-aminobutyrate aminotransferase [EC:2.6.1.19];(RefSeq);cac:CA_C0368;cac00640;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0368+cac:CA_C1427
+695;57;phosphate acetyltransferase [EC:2.3.1.8];eutD;cac:CA_C1742;cac00640;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1742
+696;58;formate C-acetyltransferase [EC:2.3.1.54];pflB;cac:CA_C0980;cac00640;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0980
+697;73;acetate kinase [EC:2.7.2.1];askA;cac:CA_C1743;cac00640;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1743
+698;77;L-lactate dehydrogenase [EC:1.1.1.27];ldh;cac:CA_C0267;cac00640;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0267+cac:CA_C3552
+699;105;butyryl-CoA dehydrogenase [EC:1.3.8.1];bcd;cac:CA_C2711;cac00640;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2711
+700;129;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(RefSeq);cac:CA_C2873;cac00640;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2873+cac:CA_P0078
+701;137;acetoacetate decarboxylase [EC:4.1.1.4];adc;cac:CA_P0165;cac00640;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_P0165
+702;138;acetate CoA/acetoacetate CoA-transferase alpha subunit [EC:2.8.3.8 2.8.3.9];ctfa;cac:CA_P0163;cac00640;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_P0163+cac:CA_P0164
+703;166;methylglyoxal synthase [EC:4.2.3.3];mgsA;cac:CA_C1604;cac00640;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1604
+704;177;methylglyoxal/glyoxal reductase [EC:1.1.1.283 1.1.1.-];(RefSeq);cac:CA_C1958;cac00640;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1958
+705;179;NADP-dependent alcohol dehydrogenase [EC:1.1.-.-];(RefSeq);cac:CA_C3392;cac00640;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3392
+706;64;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(RefSeq);cac:CA_C2873;cac00650;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2873+cac:CA_P0078
+707;65;3-hydroxybutyryl-CoA dehydrogenase [EC:1.1.1.157];hbd;cac:CA_C2708;cac00650;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2708
+708;71;enoyl-CoA hydratase [EC:4.2.1.17];crt;cac:CA_C2712;cac00650;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2712
+709;74;4-hydroxybutyrate dehydrogenase [EC:1.1.1.61];(RefSeq);cac:CA_C1574;cac00650;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1574
+710;75;4-aminobutyrate aminotransferase [EC:2.6.1.19];(RefSeq);cac:CA_C0368;cac00650;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0368+cac:CA_C1427
+711;77;pyruvate-ferredoxin/flavodoxin oxidoreductase [EC:1.2.7.1 1.2.7.-];(RefSeq);cac:CA_C2229;cac00650;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2229+cac:CA_C2499
+712;78;formate C-acetyltransferase [EC:2.3.1.54];pflB;cac:CA_C0980;cac00650;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0980
+713;79;butyryl-CoA dehydrogenase [EC:1.3.8.1];bcd;cac:CA_C2711;cac00650;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2711
+714;80;phosphate butyryltransferase [EC:2.3.1.19];ptb;cac:CA_C3076;cac00650;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3076
+715;82;acetaldehyde dehydrogenase / alcohol dehydrogenase [EC:1.2.1.10 1.1.1.1];adhe;cac:CA_P0035;cac00650;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_P0035+cac:CA_P0162
+716;83;butanol dehydrogenase [EC:1.1.1.-];bdhB;cac:CA_C3298;cac00650;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3298+cac:CA_C3299
+717;87;acetate CoA/acetoacetate CoA-transferase alpha subunit [EC:2.8.3.8 2.8.3.9];ctfa;cac:CA_P0163;cac00650;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_P0163+cac:CA_P0164
+718;88;butyrate kinase [EC:2.7.2.7];(RefSeq);cac:CA_C1660;cac00650;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1660+cac:CA_C3075
+719;93;acetolactate decarboxylase [EC:4.1.1.5];(RefSeq);cac:CA_C2967;cac00650;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2967
+720;162;acetolactate synthase I/II/III large subunit [EC:2.2.1.6];ilvB;cac:CA_C3169;cac00650;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3169+cac:CA_C3176+cac:CA_C3652
+721;178;enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+) [EC:1.3.1.9 1.3.1.44];(RefSeq);cac:CA_C0462;cac00650;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0462
+722;183;2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta [EC:1.2.7.3 1.2.7.11];(RefSeq);cac:CA_C2458;cac00650;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2458+cac:CA_C2459
+723;39;3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35];leuD;cac:CA_C3172;cac00660;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3172+cac:CA_C3173
+724;52;acetolactate synthase I/II/III large subunit [EC:2.2.1.6];ilvB;cac:CA_C3169;cac00660;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3169+cac:CA_C3176+cac:CA_C3652
+725;53;acetolactate decarboxylase [EC:4.1.1.5];(RefSeq);cac:CA_C2967;cac00660;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2967
+726;106;3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35];leuD;cac:CA_C3172;cac00660;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3172+cac:CA_C3173
+727;107;3-isopropylmalate dehydrogenase [EC:1.1.1.85];leuB;cac:CA_C3171;cac00660;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3171
+728;20;phosphoribosylglycinamide formyltransferase 1 [EC:2.1.2.2];purN;cac:CA_C1394;cac00670;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1394
+729;23;dihydrofolate reductase [EC:1.5.1.3];folA;cac:CA_C3004;cac00670;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3004
+730;24;dihydrofolate reductase [EC:1.5.1.3];folA;cac:CA_C3004;cac00670;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3004
+731;26;methionine synthase / methylenetetrahydrofolate reductase(NADPH) [EC:2.1.1.13 1.5.1.20];(RefSeq);cac:CA_C0291;cac00670;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0291
+732;28;methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9];folD;cac:CA_C2083;cac00670;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2083
+733;29;methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9];folD;cac:CA_C2083;cac00670;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2083
+734;41;5-formyltetrahydrofolate cyclo-ligase [EC:6.3.3.2];(RefSeq);cac:CA_C1090;cac00670;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1090
+735;46;methionyl-tRNA formyltransferase [EC:2.1.2.9];fmt;cac:CA_C1723;cac00670;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1723
+736;49;formate--tetrahydrofolate ligase [EC:6.3.4.3];(RefSeq);cac:CA_C3201;cac00670;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3201
+737;50;phosphoribosylglycinamide formyltransferase 1 [EC:2.1.2.2];purN;cac:CA_C1394;cac00670;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1394
+738;51;phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10];purH;cac:CA_C1395;cac00670;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1395+cac:CA_C2445
+739;52;thymidylate synthase [EC:2.1.1.45];thyA;cac:CA_C3003;cac00670;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3003
+740;54;5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13];metH;cac:CA_C0578;cac00670;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0578
+741;61;glycine hydroxymethyltransferase [EC:2.1.2.1];glyA;cac:CA_C2264;cac00670;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2264
+742;68;dihydrofolate reductase [EC:1.5.1.3];folA;cac:CA_C3004;cac00670;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3004
+743;43;anaerobic carbon-monoxide dehydrogenase catalytic subunit [EC:1.2.7.4];(RefSeq);cac:CA_C0116;cac00680;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0116+cac:CA_C2498
+744;103;S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1];(RefSeq);cac:CA_C3375;cac00680;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3375
+745;127;glycine hydroxymethyltransferase [EC:2.1.2.1];glyA;cac:CA_C2264;cac00680;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2264
+746;139;pyruvate, water dikinase [EC:2.7.9.2];(RefSeq);cac:CA_C0797;cac00680;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0797+cac:CA_C0801
+747;142;enolase [EC:4.2.1.11];eno;cac:CA_C0713;cac00680;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0713
+748;145;2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11];gpmA;cac:CA_C2741;cac00680;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2741
+749;148;D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase [EC:1.1.1.95 1.1.1.399];serA;cac:CA_C0015;cac00680;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0015+cac:CA_C0089
+750;163;glycerate dehydrogenase [EC:1.1.1.29];(RefSeq);cac:CA_C2945;cac00680;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2945
+751;181;fructose-1,6-bisphosphatase II [EC:3.1.3.11];glpX;cac:CA_C1088;cac00680;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1088+cac:CA_C1572
+752;182;6-phosphofructokinase 1 [EC:2.7.1.11];pfkA;cac:CA_C0517;cac00680;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0517
+753;183;6-phospho-3-hexuloisomerase [EC:5.3.1.27];(RefSeq);cac:CA_C0397;cac00680;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0397
+754;187;3-hexulose-6-phosphate synthase [EC:4.1.2.43];(RefSeq);cac:CA_C0396;cac00680;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0396
+755;194;fructose-bisphosphate aldolase, class II [EC:4.1.2.13];(RefSeq);cac:CA_C0827;cac00680;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0827+cac:CA_P0064
+756;198;glycine hydroxymethyltransferase [EC:2.1.2.1];glyA;cac:CA_C2264;cac00680;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2264
+757;203;acetate kinase [EC:2.7.2.1];askA;cac:CA_C1743;cac00680;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1743
+758;204;phosphate acetyltransferase [EC:2.3.1.8];eutD;cac:CA_C1742;cac00680;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1742
+759;253;2-phosphosulfolactate phosphatase [EC:3.1.3.71];(RefSeq);cac:CA_C3233;cac00680;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3233
+760;293;2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12];pgm;cac:CA_C0712;cac00680;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0712
+761;59;adenylate kinase [EC:2.7.4.3];adk;cac:CA_C3112;cac00730;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3112
+762;64;thiamine pyrophosphokinase [EC:2.7.6.2];(RefSeq);cac:CA_C1731;cac00730;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1731
+763;66;ribosome biogenesis GTPase / thiamine phosphate phosphatase [EC:3.6.1.- 3.1.3.100];(RefSeq);cac:CA_C1729;cac00730;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1729
+764;69;thiazole synthase [EC:2.8.1.10];thiG;cac:CA_C2922;cac00730;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2922
+765;71;tRNA uracil 4-sulfurtransferase [EC:2.8.1.4];thiI;cac:CA_C2971;cac00730;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2971
+766;72;cysteine desulfurase [EC:2.8.1.7];nifS;cac:CA_C2234;cac00730;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2234+cac:CA_C2972
+767;73;sulfur carrier protein ThiS adenylyltransferase [EC:2.7.7.73];(RefSeq);cac:CA_C2923;cac00730;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2923
+768;74;hydroxyethylthiazole kinase [EC:2.7.1.50];thiK;cac:CA_C3096;cac00730;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3096
+769;75;hydroxymethylpyrimidine/phosphomethylpyrimidine kinase [EC:2.7.1.49 2.7.4.7];thiK;cac:CA_C3095;cac00730;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3095
+770;76;hydroxymethylpyrimidine/phosphomethylpyrimidine kinase [EC:2.7.1.49 2.7.4.7];thiK;cac:CA_C3095;cac00730;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3095
+771;78;1-deoxy-D-xylulose-5-phosphate synthase [EC:2.2.1.7];(RefSeq);cac:CA_C2077;cac00730;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2077+cac:CA_P0106
+772;91;2-iminoacetate synthase [EC:4.1.99.19];thiH;cac:CA_C1356;cac00730;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1356+cac:CA_C2921
+773;93;thiamine-phosphate pyrophosphorylase [EC:2.5.1.3];thiC;cac:CA_C0495;cac00730;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0495+cac:CA_C2920
+774;94;phosphomethylpyrimidine synthase [EC:4.1.99.17];thiC;cac:CA_C3014;cac00730;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3014
+775;97;thiamine-phosphate pyrophosphorylase [EC:2.5.1.3];thiC;cac:CA_C0495;cac00730;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0495+cac:CA_C2920
+776;114;ribosome biogenesis GTPase / thiamine phosphate phosphatase [EC:3.6.1.- 3.1.3.100];(RefSeq);cac:CA_C1729;cac00730;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1729
+777;32;3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II [EC:4.1.99.12 3.5.4.25];ribA;cac:CA_C0592;cac00740;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0592
+778;35;riboflavin kinase / FMN adenylyltransferase [EC:2.7.1.26 2.7.7.2];ribC;cac:CA_C1806;cac00740;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1806
+779;37;riboflavin kinase / FMN adenylyltransferase [EC:2.7.1.26 2.7.7.2];ribC;cac:CA_C1806;cac00740;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1806
+780;38;3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II [EC:4.1.99.12 3.5.4.25];ribA;cac:CA_C0592;cac00740;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0592
+781;39;diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase [EC:3.5.4.26 1.1.1.193];ribD;cac:CA_C0590;cac00740;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0590
+782;40;diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase [EC:3.5.4.26 1.1.1.193];ribD;cac:CA_C0590;cac00740;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0590
+783;41;6,7-dimethyl-8-ribityllumazine synthase [EC:2.5.1.78];ribH;cac:CA_C0593;cac00740;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0593
+784;42;riboflavin synthase [EC:2.5.1.9];ribB;cac:CA_C0591;cac00740;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0591
+785;64;FMN reductase [NAD(P)H] [EC:1.5.1.39];(RefSeq);cac:CA_C0718;cac00740;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0718
+786;7;pyridoxal 5'-phosphate synthase pdxS subunit [EC:4.3.3.6];(RefSeq);cac:CA_C0594;cac00750;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0594+cac:CA_C0595
+787;84;pyridoxine kinase [EC:2.7.1.35];(RefSeq);cac:CA_C1622;cac00750;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1622
+788;86;pyridoxine kinase [EC:2.7.1.35];(RefSeq);cac:CA_C1622;cac00750;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1622
+789;88;pyridoxine kinase [EC:2.7.1.35];(RefSeq);cac:CA_C1622;cac00750;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1622
+790;89;threonine synthase [EC:4.2.3.1];thrC;cac:CA_C0999;cac00750;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0999
+791;74;NAD+ diphosphatase [EC:3.6.1.22];(RefSeq);cac:CA_C0145;cac00760;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0145+cac:CA_C3396
+792;78;L-aspartate oxidase [EC:1.4.3.16];nadB;cac:CA_C1024;cac00760;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1024
+793;79;quinolinate synthase [EC:2.5.1.72];nadA;cac:CA_C1025;cac00760;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1025
+794;80;nicotinate-nucleotide pyrophosphorylase (carboxylating) [EC:2.4.2.19];nadC;cac:CA_C1023;cac00760;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1023
+795;89;purine-nucleoside phosphorylase [EC:2.4.2.1];deoD;cac:CA_C2064;cac00760;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2064
+796;90;nicotinate-nucleotide adenylyltransferase [EC:2.7.7.18];nadD;cac:CA_C1262;cac00760;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1262
+797;92;NAD+ synthase (glutamine-hydrolysing) [EC:6.3.5.1];nadE;cac:CA_C1050;cac00760;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1050+cac:CA_C1782
+798;94;nicotinamide-nucleotide amidase [EC:3.5.1.42];cinA;cac:CA_C3586;cac00760;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3586
+799;95;nicotinate phosphoribosyltransferase [EC:6.3.4.21];(RefSeq);cac:CA_C1002;cac00760;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1002+cac:CA_C1780
+800;98;NAD+ diphosphatase [EC:3.6.1.22];(RefSeq);cac:CA_C0145;cac00760;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0145+cac:CA_C3396
+801;100;nicotinate-nucleotide adenylyltransferase [EC:2.7.7.18];nadD;cac:CA_C1262;cac00760;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1262
+802;105;purine-nucleoside phosphorylase [EC:2.4.2.1];deoD;cac:CA_C2064;cac00760;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2064
+803;111;NAD+ kinase [EC:2.7.1.23];(RefSeq);cac:CA_C2075;cac00760;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2075
+804;67;dephospho-CoA kinase [EC:2.7.1.24];coaE;cac:CA_C1099;cac00770;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1099
+805;68;holo-[acyl-carrier protein] synthase [EC:2.7.8.7];acpS;cac:CA_C0489;cac00770;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0489
+806;71;type III pantothenate kinase [EC:2.7.1.33];(RefSeq);cac:CA_C3200;cac00770;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3200
+807;72;phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase [EC:4.1.1.36 6.3.2.5];(RefSeq);cac:CA_C1720;cac00770;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1720
+808;74;type III pantothenate kinase [EC:2.7.1.33];(RefSeq);cac:CA_C3200;cac00770;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3200
+809;75;phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase [EC:4.1.1.36 6.3.2.5];(RefSeq);cac:CA_C1720;cac00770;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1720
+810;76;type III pantothenate kinase [EC:2.7.1.33];(RefSeq);cac:CA_C3200;cac00770;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3200
+811;81;pantoate--beta-alanine ligase [EC:6.3.2.1];panC;cac:CA_C2915;cac00770;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2915
+812;82;2-dehydropantoate 2-reductase [EC:1.1.1.169];(RefSeq);cac:CA_C2937;cac00770;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2937
+813;83;3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11];panB;cac:CA_C2914;cac00770;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2914
+814;85;dihydroxy-acid dehydratase [EC:4.2.1.9];ilvD;cac:CA_C3170;cac00770;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3170+cac:CA_C3604
+815;86;ketol-acid reductoisomerase [EC:1.1.1.86];ilvC;cac:CA_C0091;cac00770;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0091
+816;87;acetolactate synthase I/II/III large subunit [EC:2.2.1.6];ilvB;cac:CA_C3169;cac00770;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3169+cac:CA_C3176+cac:CA_C3652
+817;90;branched-chain amino acid aminotransferase [EC:2.6.1.42];ilvE;cac:CA_C1479;cac00770;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1479+cac:CA_C2226
+818;92;pantetheine-phosphate adenylyltransferase [EC:2.7.7.3];kdtB;cac:CA_C1738;cac00770;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1738
+819;98;aspartate 1-decarboxylase [EC:4.1.1.11];panD;cac:CA_C2916;cac00770;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2916
+820;103;4'-phosphopantetheinyl transferase [EC:2.7.8.-];(RefSeq);cac:CA_C1329;cac00770;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1329+cac:CA_C2006
+821;29;BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15];(RefSeq);cac:CA_C0212;cac00780;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0212+cac:CA_C0589
+822;31;BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15];(RefSeq);cac:CA_C0212;cac00780;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0212+cac:CA_C0589
+823;33;biotin synthase [EC:2.8.1.6];bioB;cac:CA_C0210;cac00780;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0210+cac:CA_C1631
+824;34;dethiobiotin synthetase [EC:6.3.3.3];bioD;cac:CA_C1361;cac00780;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1361
+825;35;adenosylmethionine---8-amino-7-oxononanoate aminotransferase [EC:2.6.1.62];bioA;cac:CA_C1362;cac00780;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1362
+826;56;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];fabG;cac:CA_C2626;cac00780;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2626+cac:CA_C3462+cac:CA_C3574
+827;59;3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59];fabZ;cac:CA_C3571;cac00780;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3571
+828;70;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];fabG;cac:CA_C2626;cac00780;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2626+cac:CA_C3462+cac:CA_C3574
+829;73;3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59];fabZ;cac:CA_C3571;cac00780;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3571
+830;77;3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179];pksF;cac:CA_C2008;cac00780;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2008+cac:CA_C3573+cac:CA_P0088
+831;102;3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179];pksF;cac:CA_C2008;cac00780;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2008+cac:CA_C3573+cac:CA_P0088
+832;67;dihydrofolate synthase / folylpolyglutamate synthase [EC:6.3.2.12 6.3.2.17];folC;cac:CA_C2398;cac00790;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2398
+833;68;dihydrofolate synthase / folylpolyglutamate synthase [EC:6.3.2.12 6.3.2.17];folC;cac:CA_C2398;cac00790;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2398
+834;69;dihydrofolate reductase [EC:1.5.1.3];folA;cac:CA_C3004;cac00790;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3004
+835;70;dihydrofolate reductase [EC:1.5.1.3];folA;cac:CA_C3004;cac00790;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3004
+836;71;dihydrofolate synthase / folylpolyglutamate synthase [EC:6.3.2.12 6.3.2.17];folC;cac:CA_C2398;cac00790;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2398
+837;72;dihydropteroate synthase [EC:2.5.1.15];sul;cac:CA_C2926;cac00790;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2926
+838;73;dihydropteroate synthase [EC:2.5.1.15];sul;cac:CA_C2926;cac00790;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2926
+839;74;dihydroneopterin aldolase / 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase [EC:4.1.2.25 2.7.6.3];folA_folK;cac:CA_C2927;cac00790;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2927
+840;75;dihydroneopterin aldolase / 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase [EC:4.1.2.25 2.7.6.3];folA_folK;cac:CA_C2927;cac00790;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2927
+841;79;GTP cyclohydrolase IA [EC:3.5.4.16];folE;cac:CA_C3626;cac00790;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3626
+842;80;GTP cyclohydrolase IA [EC:3.5.4.16];folE;cac:CA_C3626;cac00790;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3626
+843;81;GTP cyclohydrolase IA [EC:3.5.4.16];folE;cac:CA_C3626;cac00790;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3626
+844;82;dihydrofolate reductase [EC:1.5.1.3];folA;cac:CA_C3004;cac00790;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3004
+845;83;dihydrofolate synthase / folylpolyglutamate synthase [EC:6.3.2.12 6.3.2.17];folC;cac:CA_C2398;cac00790;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2398
+846;86;6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase [EC:4.2.3.12 4.1.2.50];(RefSeq);cac:CA_C2585;cac00790;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2585+cac:CA_C3624
+847;93;GTP 3',8-cyclase [EC:4.1.99.22];moaA;cac:CA_C1993;cac00790;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1993
+848;96;6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase [EC:4.2.3.12 4.1.2.50];(RefSeq);cac:CA_C2585;cac00790;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2585+cac:CA_C3624
+849;102;7-carboxy-7-deazaguanine synthase [EC:4.3.99.3];(RefSeq);cac:CA_C3625;cac00790;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3625
+850;103;7-cyano-7-deazaguanine synthase [EC:6.3.4.20];(RefSeq);cac:CA_C3627;cac00790;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3627
+851;117;cyclic pyranopterin monophosphate synthase [EC:4.6.1.17];moaC;cac:CA_C1992;cac00790;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1992
+852;122;molybdopterin molybdotransferase [EC:2.10.1.1];moeA;cac:CA_C2020;cac00790;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2020+cac:CA_C2021
+853;153;7,8-dihydropterin-6-yl-methyl-4-(beta-D-ribofuranosyl)aminobenzene 5'-phosphate synthase [EC:2.5.1.105];(RefSeq);cac:CA_C0535;cac00790;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0535
+854;180;GTP cyclohydrolase IA [EC:3.5.4.16];folE;cac:CA_C3626;cac00790;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3626
+855;181;3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II [EC:4.1.99.12 3.5.4.25];ribA;cac:CA_C0592;cac00790;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0592
+856;189;dihydrofolate reductase [EC:1.5.1.3];folA;cac:CA_C3004;cac00790;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3004
+857;275;uroporphyrinogen III methyltransferase / synthase [EC:2.1.1.107 4.2.1.75];hemD;cac:CA_C0098;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0098
+858;276;uroporphyrinogen III methyltransferase / synthase [EC:2.1.1.107 4.2.1.75];hemD;cac:CA_C0098;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0098
+859;278;hydroxymethylbilane synthase [EC:2.5.1.61];hemC;cac:CA_C0097;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0097
+860;279;porphobilinogen synthase [EC:4.2.1.24];hemB;cac:CA_C0100;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0100
+861;281;glutamate-1-semialdehyde 2,1-aminomutase [EC:5.4.3.8];hemL;cac:CA_C0099;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0099
+862;283;glutamyl-tRNA reductase [EC:1.2.1.70];hemA;cac:CA_C0095;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0095
+863;284;glutamyl-tRNA synthetase [EC:6.1.1.17];gltX;cac:CA_C0990;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0990
+864;285;precorrin-2 dehydrogenase / sirohydrochlorin ferrochelatase [EC:1.3.1.76 4.99.1.4];hemW;cac:CA_C0096;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0096
+865;286;precorrin-2 dehydrogenase / sirohydrochlorin ferrochelatase [EC:1.3.1.76 4.99.1.4];hemW;cac:CA_C0096;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0096
+866;287;sirohydrochlorin cobaltochelatase [EC:4.99.1.3];cbiK;cac:CA_C1373;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1373
+867;288;precorrin-2/cobalt-factor-2 C20-methyltransferase [EC:2.1.1.130 2.1.1.151];cobI_cbiL;cac:CA_C1379;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1379
+868;289;precorrin-3B C17-methyltransferase [EC:2.1.1.131];cbiH_cobJ;cac:CA_C1382;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1382
+869;290;precorrin-4/cobalt-precorrin-4 C11-methyltransferase [EC:2.1.1.133 2.1.1.271];cbiF_cobM;cac:CA_C1380;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1380
+870;291;precorrin-6A/cobalt-precorrin-6A reductase [EC:1.3.1.54 1.3.1.106];cbiJ_cobK;cac:CA_C1381;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1381
+871;292;cobalt-precorrin-7 (C5)-methyltransferase [EC:2.1.1.289];(RefSeq);cac:CA_C0584;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0584
+872;293;cobalt-precorrin-6B (C15)-methyltransferase [EC:2.1.1.196];cbiT;cac:CA_C1378;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1378
+873;294;precorrin-2/cobalt-factor-2 C20-methyltransferase [EC:2.1.1.130 2.1.1.151];cobI_cbiL;cac:CA_C1379;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1379
+874;296;precorrin-3B C17-methyltransferase [EC:2.1.1.131];cbiH_cobJ;cac:CA_C1382;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1382
+875;297;precorrin-4/cobalt-precorrin-4 C11-methyltransferase [EC:2.1.1.133 2.1.1.271];cbiF_cobM;cac:CA_C1380;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1380
+876;299;precorrin-6A/cobalt-precorrin-6A reductase [EC:1.3.1.54 1.3.1.106];cbiJ_cobK;cac:CA_C1381;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1381
+877;300;precorrin-8X/cobalt-precorrin-8 methylmutase [EC:5.4.99.61 5.4.99.60];cbiC;cac:CA_C1376;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1376
+878;301;cobyrinic acid a,c-diamide synthase [EC:6.3.5.9 6.3.5.11];cobB;cac:CA_C1375;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1375
+879;303;precorrin-8X/cobalt-precorrin-8 methylmutase [EC:5.4.99.61 5.4.99.60];cbiC;cac:CA_C1376;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1376
+880;304;cobyrinic acid a,c-diamide synthase [EC:6.3.5.9 6.3.5.11];cobB;cac:CA_C1375;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1375
+881;307;adenosylcobyric acid synthase [EC:6.3.5.10];cbiP;cac:CA_C1374;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1374
+882;310;adenosylcobinamide kinase / adenosylcobinamide-phosphate guanylyltransferase [EC:2.7.1.156 2.7.7.62];cobU;cac:CA_C1383;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1383
+883;313;adenosylcobinamide kinase / adenosylcobinamide-phosphate guanylyltransferase [EC:2.7.1.156 2.7.7.62];cobU;cac:CA_C1383;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1383
+884;314;threonine-phosphate decarboxylase [EC:4.1.1.81];hisC;cac:CA_C1369;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1369
+885;315;adenosylcobinamide-GDP ribazoletransferase [EC:2.7.8.26];cobS;cac:CA_C1384;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1384
+886;316;alpha-ribazole phosphatase [EC:3.1.3.73];cobC;cac:CA_C1385;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1385
+887;317;nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase [EC:2.4.2.21];cobT;cac:CA_C1372;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1372
+888;320;adenosylcobinamide-phosphate synthase [EC:6.3.1.10];cobD;cac:CA_C0582;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0582
+889;321;adenosylcobinamide-phosphate synthase [EC:6.3.1.10];cobD;cac:CA_C0582;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0582
+890;323;cobalt-precorrin 5A hydrolase [EC:3.7.1.12];cbiG;cac:CA_C1370;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1370
+891;324;cobalt-precorrin-5B (C1)-methyltransferase [EC:2.1.1.195];cbiD;cac:CA_C1377;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1377
+892;374;L-threonine kinase [EC:2.7.1.177];(RefSeq);cac:CA_C1371;cac00860;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1371
+893;64;1-deoxy-D-xylulose-5-phosphate synthase [EC:2.2.1.7];(RefSeq);cac:CA_C2077;cac00900;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2077+cac:CA_P0106
+894;65;1-deoxy-D-xylulose-5-phosphate reductoisomerase [EC:1.1.1.267];(RefSeq);cac:CA_C1795;cac00900;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1795
+895;66;2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [EC:2.7.7.60];ispD;cac:CA_C3184;cac00900;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3184
+896;67;4-diphosphocytidyl-2-C-methyl-D-erythritol kinase [EC:2.7.1.148];ipk;cac:CA_C2902;cac00900;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2902
+897;68;2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:4.6.1.12];ispF;cac:CA_C0434;cac00900;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0434
+898;69;(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [EC:1.17.7.1 1.17.7.3];ispG;cac:CA_C1797;cac00900;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1797
+899;71;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(RefSeq);cac:CA_C2873;cac00900;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2873+cac:CA_P0078
+900;97;small subunit ribosomal protein S1;lytB;cac:CA_C1847;cac00900;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1847
+901;99;small subunit ribosomal protein S1;lytB;cac:CA_C1847;cac00900;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1847
+902;103;geranylgeranyl diphosphate synthase, type II [EC:2.5.1.1 2.5.1.10 2.5.1.29];(RefSeq);cac:CA_C2080;cac00900;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2080
+903;105;geranylgeranyl diphosphate synthase, type II [EC:2.5.1.1 2.5.1.10 2.5.1.29];(RefSeq);cac:CA_C2080;cac00900;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2080
+904;106;undecaprenyl diphosphate synthase [EC:2.5.1.31];(RefSeq);cac:CA_C1432;cac00900;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1432+cac:CA_C1791
+905;116;geranylgeranyl diphosphate synthase, type II [EC:2.5.1.1 2.5.1.10 2.5.1.29];(RefSeq);cac:CA_C2080;cac00900;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2080
+906;165;(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [EC:1.17.7.1 1.17.7.3];ispG;cac:CA_C1797;cac00900;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1797
+907;34;hydroxylamine reductase [EC:1.7.99.1];(RefSeq);cac:CA_C2750;cac00910;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2750+cac:CA_C3428
+908;37;ferredoxin-nitrite reductase [EC:1.7.7.1];(RefSeq);cac:CA_C0094;cac00910;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0094
+909;39;nitrogenase iron protein NifH;nifH;cac:CA_C0253;cac00910;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0253+cac:CA_C0256+cac:CA_C0257
+910;69;carbonic anhydrase [EC:4.2.1.1];(RefSeq);cac:CA_C2482;cac00910;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2482
+911;83;glutamine synthetase [EC:6.3.1.2];glnA;cac:CA_C2658;cac00910;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2658
+912;87;glutamate synthase (NADPH) small chain [EC:1.4.1.13];(RefSeq);cac:CA_C0764;cac00910;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0764+cac:CA_C1673+cac:CA_C1674
+913;94;glutamate dehydrogenase (NADP+) [EC:1.4.1.4];(RefSeq);cac:CA_C0737;cac00910;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0737
+914;112;ferredoxin-nitrite reductase [EC:1.7.7.1];(RefSeq);cac:CA_C0094;cac00910;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0094
+915;134;nitrogenase iron protein NifH;nifH;cac:CA_C0253;cac00910;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0253+cac:CA_C0256+cac:CA_C0257
+916;32;anaerobic sulfite reductase subunit A;asrA;cac:CA_C1513;cac00920;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1513+cac:CA_C1514+cac:CA_C1515
+917;38;bifunctional oligoribonuclease and PAP phosphatase NrnA [EC:3.1.3.7 3.1.13.3];(RefSeq);cac:CA_C1804;cac00920;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1804
+918;39;adenylylsulfate kinase [EC:2.7.1.25];cysC;cac:CA_C0103;cac00920;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0103
+919;42;sulfate adenylyltransferase subunit 2 [EC:2.7.7.4];cysD;cac:CA_C0109;cac00920;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0109+cac:CA_C0110
+920;49;adenylylsulfate reductase, subunit A [EC:1.8.99.2];(RefSeq);cac:CA_C0104;cac00920;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0104+cac:CA_C0105
+921;103;cysteine synthase [EC:2.5.1.47];(RefSeq);cac:CA_C0931;cac00920;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0931+cac:CA_C2235
+922;109;serine O-acetyltransferase [EC:2.3.1.30];cysE;cac:CA_C0687;cac00920;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0687
+923;121;cystathionine gamma-synthase [EC:2.5.1.48];(RefSeq);cac:CA_C0390;cac00920;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0390
+924;125;homoserine O-succinyltransferase/O-acetyltransferase [EC:2.3.1.46 2.3.1.31];metB;cac:CA_C1825;cac00920;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1825
+925;159;adenylylsulfate kinase [EC:2.7.1.25];cysC;cac:CA_C0103;cac00920;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0103
+926;160;sulfate adenylyltransferase subunit 2 [EC:2.7.7.4];cysD;cac:CA_C0109;cac00920;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0109+cac:CA_C0110
+927;169;adenylylsulfate reductase, subunit A [EC:1.8.99.2];(RefSeq);cac:CA_C0104;cac00920;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0104+cac:CA_C0105
+928;24;isoleucyl-tRNA synthetase [EC:6.1.1.5];ileS;cac:CA_C3038;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3038
+929;58;asparaginyl-tRNA synthetase [EC:6.1.1.22];asnC;cac:CA_C3260;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3260
+930;59;histidyl-tRNA synthetase [EC:6.1.1.21];hisS;cac:CA_C2740;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2740
+931;60;phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20];pheT;cac:CA_C2356;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2356+cac:CA_C2357
+932;61;arginyl-tRNA synthetase [EC:6.1.1.19];argS;cac:CA_C1041;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1041
+933;63;cysteinyl-tRNA synthetase [EC:6.1.1.16];cysS;cac:CA_C3177;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3177
+934;64;glycyl-tRNA synthetase [EC:6.1.1.14];(RefSeq);cac:CA_C3195;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3195
+935;65;aspartyl-tRNA synthetase [EC:6.1.1.12];aspS;cac:CA_C2269;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2269
+936;66;seryl-tRNA synthetase [EC:6.1.1.11];serS;cac:CA_C0017;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0017+cac:CA_C0021
+937;67;methionyl-tRNA synthetase [EC:6.1.1.10];metG;cac:CA_C2991;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2991
+938;68;valyl-tRNA synthetase [EC:6.1.1.9];valS;cac:CA_C2399;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2399
+939;69;alanyl-tRNA synthetase [EC:6.1.1.7];(RefSeq);cac:CA_C0906;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0906+cac:CA_C1678
+940;70;lysyl-tRNA synthetase, class II [EC:6.1.1.6];lysS;cac:CA_C3197;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3197
+941;71;leucyl-tRNA synthetase [EC:6.1.1.4];leuS;cac:CA_C0646;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0646
+942;72;threonyl-tRNA synthetase [EC:6.1.1.3];thrS;cac:CA_C2362;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2362
+943;73;tryptophanyl-tRNA synthetase [EC:6.1.1.2];trpS;cac:CA_C0626;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0626
+944;74;methionyl-tRNA formyltransferase [EC:2.1.2.9];fmt;cac:CA_C1723;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1723
+945;75;tyrosyl-tRNA synthetase [EC:6.1.1.1];tyrS;cac:CA_C0637;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0637+cac:CA_C0780
+946;76;prolyl-tRNA synthetase [EC:6.1.1.15];proS;cac:CA_C3178;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C3178
+947;77;glutamyl-tRNA synthetase [EC:6.1.1.17];gltX;cac:CA_C0990;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0990
+948;128;aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7];gatB;cac:CA_C2669;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2669+cac:CA_C2670+cac:CA_C2671+cac:CA_C2976+cac:CA_C2977+cac:CA_C2978
+949;131;aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7];gatB;cac:CA_C2669;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2669+cac:CA_C2670+cac:CA_C2671+cac:CA_C2976+cac:CA_C2977+cac:CA_C2978
+950;132;nondiscriminating aspartyl-tRNA synthetase [EC:6.1.1.23];aspC;cac:CA_C2979;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2979+cac:CA_C3564
+951;137;seryl-tRNA synthetase [EC:6.1.1.11];serS;cac:CA_C0017;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C0017+cac:CA_C0021
+952;151;nondiscriminating aspartyl-tRNA synthetase [EC:6.1.1.23];aspC;cac:CA_C2979;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C2979+cac:CA_C3564
+953;156;tRNA Glu;(RefSeq);cac:CA_C1056;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_C1056+cac:CA_Ct065+cac:CA_Ct069
+954;157;tRNA Gln;(RefSeq);cac:CA_Ct014;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_Ct014+cac:CA_Ct033+cac:CA_Ct042
+955;158;tRNA Ala;(RefSeq);cac:CA_Ct002;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_Ct002+cac:CA_Ct055
+956;159;tRNA Asp;(RefSeq);cac:CA_Ct021;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_Ct021+cac:CA_Ct063+cac:CA_Ct067
+957;160;tRNA Ser;(RefSeq);cac:CA_Ct003;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_Ct003+cac:CA_Ct004+cac:CA_Ct007+cac:CA_Ct008
+958;161;tRNA Thr;(RefSeq);cac:CA_Ct049;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_Ct049+cac:CA_Ct052+cac:CA_Ct062+cac:CA_Ct066+cac:CA_Ct070
+959;162;tRNA Asn;(RefSeq);cac:CA_Ct016;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_Ct016+cac:CA_Ct054+cac:CA_Ct057+cac:CA_Ct061
+960;163;tRNA Gly;(RefSeq);cac:CA_Ct019;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_Ct019+cac:CA_Ct029+cac:CA_Ct030+cac:CA_Ct036+cac:CA_Ct038+cac:CA_Ct039+cac:CA_Ct045+cac:CA_Ct053
+961;164;tRNA Cys;(RefSeq);cac:CA_Ct013;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_Ct013+cac:CA_Ct018
+962;166;tRNA Met;(RefSeq);cac:CA_Ct001;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_Ct001+cac:CA_Ct056+cac:CA_Ct058+cac:CA_Ct059
+963;167;tRNA Val;(RefSeq);cac:CA_Ct022;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_Ct022+cac:CA_Ct050+cac:CA_Ct064+cac:CA_Ct068
+964;168;tRNA Leu;(RefSeq);cac:CA_Ct015;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_Ct015+cac:CA_Ct017+cac:CA_Ct023+cac:CA_Ct031+cac:CA_Ct040+cac:CA_Ct060
+965;170;tRNA Lys;(RefSeq);cac:CA_Ct009;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_Ct009+cac:CA_Ct011+cac:CA_Ct027+cac:CA_Ct032+cac:CA_Ct035+cac:CA_Ct041
+966;172;tRNA Arg;(RefSeq);cac:CA_Ct005;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_Ct005+cac:CA_Ct006+cac:CA_Ct024+cac:CA_Ct028+cac:CA_Ct037+cac:CA_Ct044
+967;173;tRNA Pro;(RefSeq);cac:CA_Ct026;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_Ct026+cac:CA_Ct046+cac:CA_Ct071+cac:CA_Ct072
+968;174;tRNA His;(RefSeq);cac:CA_Ct034;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_Ct034+cac:CA_Ct043
+969;175;tRNA Phe;(RefSeq);cac:CA_Ct010;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_Ct010+cac:CA_Ct012+cac:CA_Ct020
+970;176;tRNA Tyr;(RefSeq);cac:CA_Ct048;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_Ct048+cac:CA_Ct051
+971;177;tRNA Trp;(RefSeq);cac:CA_Ct047;cac00970;http://www.kegg.jp/dbget-bin/www_bget?cac:CA_Ct047

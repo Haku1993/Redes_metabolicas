@@ -1,0 +1,523 @@
+Nombre;Codigo;Clase
+aldose 1-epimerase [EC:5.1.3.3];EC:5.1.3.3;Isomerases
+hexokinase [EC:2.7.1.1];EC:2.7.1.1;Transferases
+glucose-6-phosphatase [EC:3.1.3.9];EC:3.1.3.9;Hydrolases
+glucose-6-phosphate isomerase [EC:5.3.1.9];EC:5.3.1.9;Isomerases
+glucose-6-phosphate 1-epimerase [EC:5.1.3.15];EC:5.1.3.15;Isomerases
+phosphoglucomutase / phosphopentomutase [EC:5.4.2.2 5.4.2.7];EC:5.4.2.2 5.4.2.7;Isomerases
+fructose-1,6-bisphosphatase I [EC:3.1.3.11];EC:3.1.3.11;Hydrolases
+6-phosphofructokinase 1 [EC:2.7.1.11];EC:2.7.1.11;Transferases
+fructose-bisphosphate aldolase, class I [EC:4.1.2.13];EC:4.1.2.13;Lyases
+triosephosphate isomerase (TIM) [EC:5.3.1.1];EC:5.3.1.1;Isomerases
+glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12];EC:1.2.1.12;Oxidoreductases
+phosphoglycerate kinase [EC:2.7.2.3];EC:2.7.2.3;Transferases
+2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11];EC:5.4.2.11;Isomerases
+enolase [EC:4.2.1.11];EC:4.2.1.11;Lyases
+pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1];EC:1.2.4.1;Oxidoreductases
+pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12];EC:2.3.1.12;Transferases
+dihydrolipoamide dehydrogenase [EC:1.8.1.4];EC:1.8.1.4;Oxidoreductases
+aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];EC:1.2.1.3;Oxidoreductases
+alcohol dehydrogenase [EC:1.1.1.1];EC:1.1.1.1;Oxidoreductases
+aldehyde dehydrogenase (NAD(P)+) [EC:1.2.1.5];EC:1.2.1.5;Oxidoreductases
+alcohol dehydrogenase (NADP+) [EC:1.1.1.2];EC:1.1.1.2;Oxidoreductases
+pyruvate kinase [EC:2.7.1.40];EC:2.7.1.40;Transferases
+L-lactate dehydrogenase [EC:1.1.1.27];EC:1.1.1.27;Oxidoreductases
+phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32];EC:4.1.1.32;Lyases
+acetyl-CoA synthetase [EC:6.2.1.1];EC:6.2.1.1;Ligases
+ADP-dependent glucokinase [EC:2.7.1.147];EC:2.7.1.147;Transferases
+multiple inositol-polyphosphate phosphatase / 2,3-bisphosphoglycerate 3-phosphatase [EC:3.1.3.62 3.1.3.80];EC:3.1.3.62 3.1.3.80;Hydrolases
+pyruvate carboxylase [EC:6.4.1.1];EC:6.4.1.1;Ligases
+citrate synthase [EC:2.3.3.1];EC:2.3.3.1;Transferases
+ATP citrate (pro-S)-lyase [EC:2.3.3.8];EC:2.3.3.8;Transferases
+malate dehydrogenase [EC:1.1.1.37];EC:1.1.1.37;Oxidoreductases
+fumarate hydratase, class II [EC:4.2.1.2];EC:4.2.1.2;Lyases
+succinate dehydrogenase (ubiquinone) membrane anchor subunit;t;No informacion
+succinyl-CoA synthetase beta subunit [EC:6.2.1.4 6.2.1.5];EC:6.2.1.4 6.2.1.5;Ligases
+2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61];EC:2.3.1.61;Transferases
+2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2];EC:1.2.4.2;Oxidoreductases
+isocitrate dehydrogenase (NAD+) [EC:1.1.1.41];EC:1.1.1.41;Oxidoreductases
+isocitrate dehydrogenase [EC:1.1.1.42];EC:1.1.1.42;Oxidoreductases
+aconitate hydratase [EC:4.2.1.3];EC:4.2.1.3;Lyases
+6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343];EC:1.1.1.44 1.1.1.343;Oxidoreductases
+6-phosphogluconolactonase [EC:3.1.1.31];EC:3.1.1.31;Hydrolases
+glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363];EC:1.1.1.49 1.1.1.363;Oxidoreductases
+ribulose-phosphate 3-epimerase [EC:5.1.3.1];EC:5.1.3.1;Isomerases
+ribose 5-phosphate isomerase A [EC:5.3.1.6];EC:5.3.1.6;Isomerases
+transketolase [EC:2.2.1.1];EC:2.2.1.1;Transferases
+ribokinase [EC:2.7.1.15];EC:2.7.1.15;Transferases
+ribose-phosphate pyrophosphokinase [EC:2.7.6.1];EC:2.7.6.1;Transferases
+transaldolase [EC:2.2.1.2];EC:2.2.1.2;Transferases
+deoxyribose-phosphate aldolase [EC:4.1.2.4];EC:4.1.2.4;Lyases
+beta-glucuronidase [EC:3.2.1.31];EC:3.2.1.31;Hydrolases
+glucuronosyltransferase [EC:2.4.1.17];EC:2.4.1.17;Transferases
+UDPglucose 6-dehydrogenase [EC:1.1.1.22];EC:1.1.1.22;Oxidoreductases
+UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9];EC:2.7.7.9;Transferases
+xylulokinase [EC:2.7.1.17];EC:2.7.1.17;Transferases
+L-xylulose reductase [EC:1.1.1.10];EC:1.1.1.10;Oxidoreductases
+aldehyde reductase [EC:1.1.1.21];EC:1.1.1.21;Oxidoreductases
+dihydrodiol dehydrogenase / D-xylose 1-dehydrogenase (NADP) [EC:1.3.1.20 1.1.1.179];EC:1.3.1.20 1.1.1.179;Oxidoreductases
+L-iditol 2-dehydrogenase [EC:1.1.1.14];EC:1.1.1.14;Oxidoreductases
+L-gulonate 3-dehydrogenase [EC:1.1.1.45];EC:1.1.1.45;Oxidoreductases
+ketohexokinase [EC:2.7.1.3];EC:2.7.1.3;Transferases
+6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 2 [EC:2.7.1.105 3.1.3.46];EC:2.7.1.105 3.1.3.46;Transferases
+mannose-6-phosphate isomerase [EC:5.3.1.8];EC:5.3.1.8;Isomerases
+phosphomannomutase [EC:5.4.2.8];EC:5.4.2.8;Isomerases
+mannose-1-phosphate guanylyltransferase [EC:2.7.7.13];EC:2.7.7.13;Transferases
+GDPmannose 4,6-dehydratase [EC:4.2.1.47];EC:4.2.1.47;Lyases
+GDP-L-fucose synthase [EC:1.1.1.271];EC:1.1.1.271;Oxidoreductases
+beta-galactosidase [EC:3.2.1.23];EC:3.2.1.23;Hydrolases
+UDP-glucose 4-epimerase [EC:5.1.3.2];EC:5.1.3.2;Isomerases
+UDPglucose--hexose-1-phosphate uridylyltransferase [EC:2.7.7.12];EC:2.7.7.12;Transferases
+alpha-galactosidase [EC:3.2.1.22];EC:3.2.1.22;Hydrolases
+alpha-glucosidase [EC:3.2.1.20];EC:3.2.1.20;Hydrolases
+inositol oxygenase [EC:1.13.99.1];EC:1.13.99.1;Oxidoreductases
+fatty acid synthase, animal type [EC:2.3.1.85];EC:2.3.1.85;Transferases
+acetyl-CoA carboxylase / biotin carboxylase 1 [EC:6.4.1.2 6.3.4.14 2.1.3.15];EC:6.4.1.2 6.3.4.14 2.1.3.15;Ligases
+[acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39];EC:2.3.1.39;Transferases
+3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179];EC:2.3.1.179;Transferases
+long-chain acyl-CoA synthetase [EC:6.2.1.3];EC:6.2.1.3;Ligases
+malonyl-CoA/methylmalonyl-CoA synthetase [EC:6.2.1.-];EC:6.2.1.-;No informacion
+17beta-estradiol 17-dehydrogenase / 3alpha(17beta)-hydroxysteroid dehydrogenase (NAD+) / 3-oxoacyl-[acyl-carrier protein] reductase alpha subunit [EC:1.1.1.62 1.1.1.239];EC:1.1.1.62 1.1.1.239;Oxidoreductases
+mitochondrial enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase [EC:1.3.1.- 1.3.1.38];EC:1.3.1.- 1.3.1.38;No informacion
+enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase [EC:4.2.1.17 1.1.1.211];EC:4.2.1.17 1.1.1.211;Lyases
+acetyl-CoA acyltransferase [EC:2.3.1.16];EC:2.3.1.16;Transferases
+palmitoyl-protein thioesterase [EC:3.1.2.22];EC:3.1.2.22;Hydrolases
+17beta-estradiol 17-dehydrogenase / very-long-chain 3-oxoacyl-CoA reductase [EC:1.1.1.62 1.1.1.330];EC:1.1.1.62 1.1.1.330;Oxidoreductases
+very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase [EC:4.2.1.134];EC:4.2.1.134;Lyases
+very-long-chain enoyl-CoA reductase [EC:1.3.1.93];EC:1.3.1.93;Oxidoreductases
+elongation of very long chain fatty acids protein 4 [EC:2.3.1.199];EC:2.3.1.199;Transferases
+butyryl-CoA dehydrogenase [EC:1.3.8.1];EC:1.3.8.1;Oxidoreductases
+acyl-CoA dehydrogenase [EC:1.3.8.7];EC:1.3.8.7;Oxidoreductases
+glutaryl-CoA dehydrogenase [EC:1.3.8.6];EC:1.3.8.6;Oxidoreductases
+acetyl-CoA C-acetyltransferase [EC:2.3.1.9];EC:2.3.1.9;Transferases
+carnitine O-palmitoyltransferase 2 [EC:2.3.1.21];EC:2.3.1.21;Transferases
+acyl-CoA oxidase [EC:1.3.3.6];EC:1.3.3.6;Oxidoreductases
+short/branched chain acyl-CoA dehydrogenase [EC:1.3.99.12];EC:1.3.99.12;Oxidoreductases
+very long chain acyl-CoA dehydrogenase [EC:1.3.8.9];EC:1.3.8.9;Oxidoreductases
+carnitine O-palmitoyltransferase 1, liver isoform [EC:2.3.1.21];EC:2.3.1.21;Transferases
+hydroxymethylglutaryl-CoA lyase [EC:4.1.3.4];EC:4.1.3.4;Lyases
+3-hydroxybutyrate dehydrogenase [EC:1.1.1.30];EC:1.1.1.30;Oxidoreductases
+3-oxoacid CoA-transferase [EC:2.8.3.5];EC:2.8.3.5;Transferases
+hydroxymethylglutaryl-CoA synthase [EC:2.3.3.10];EC:2.3.3.10;Transferases
+Delta14-sterol reductase (lamin-B receptor) [EC:1.3.1.70];EC:1.3.1.70;Oxidoreductases
+methylsterol monooxygenase [EC:1.14.18.9];EC:1.14.18.9;Oxidoreductases
+4-hydroxyphenylpyruvate dioxygenase [EC:1.13.11.27];EC:1.13.11.27;Oxidoreductases
+tyrosine aminotransferase [EC:2.6.1.5];EC:2.6.1.5;Transferases
+ubiquinone biosynthesis monooxygenase Coq6 [EC:1.14.13.-];EC:1.14.13.-;No informacion
+2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.201];EC:2.1.1.201;Transferases
+3-demethoxyubiquinol 3-hydroxylase [EC:1.14.99.60];EC:1.14.99.60;Oxidoreductases
+polyprenyldihydroxybenzoate methyltransferase / 3-demethylubiquinol 3-O-methyltransferase [EC:2.1.1.114 2.1.1.64];EC:2.1.1.114 2.1.1.64;Transferases
+vitamin-K-epoxide reductase (warfarin-sensitive) [EC:1.17.4.4];EC:1.17.4.4;Oxidoreductases
+vitamin K-dependent gamma-carboxylase [EC:4.1.1.90];EC:4.1.1.90;Lyases
+V-type H+-transporting ATPase subunit F;F;No informacion
+nucleosome-remodeling factor 38 kDa subunit [EC:3.6.1.1];EC:3.6.1.1;Hydrolases
+glutaminase [EC:3.5.1.2];EC:3.5.1.2;Hydrolases
+glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3];EC:1.4.1.3;Oxidoreductases
+glutamine synthetase [EC:6.3.1.2];EC:6.3.1.2;Ligases
+aspartate aminotransferase, mitochondrial [EC:2.6.1.1];EC:2.6.1.1;Transferases
+alanine transaminase [EC:2.6.1.2];EC:2.6.1.2;Transferases
+aminoacylase [EC:3.5.1.14];EC:3.5.1.14;Hydrolases
+arginase [EC:3.5.3.1];EC:3.5.3.1;Hydrolases
+argininosuccinate lyase [EC:4.3.2.1];EC:4.3.2.1;Lyases
+nitric-oxide synthase, brain [EC:1.14.13.39];EC:1.14.13.39;Oxidoreductases
+argininosuccinate synthase [EC:6.3.4.5];EC:6.3.4.5;Ligases
+ADP-ribose pyrophosphatase [EC:3.6.1.13];EC:3.6.1.13;Hydrolases
+amidophosphoribosyltransferase [EC:2.4.2.14];EC:2.4.2.14;Transferases
+phosphoribosylamine--glycine ligase / phosphoribosylglycinamide formyltransferase / phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.4.13 2.1.2.2 6.3.3.1];EC:6.3.4.13 2.1.2.2 6.3.3.1;Ligases
+phosphoribosylformylglycinamidine synthase [EC:6.3.5.3];EC:6.3.5.3;Ligases
+phosphoribosylaminoimidazole carboxylase / phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:4.1.1.21 6.3.2.6];EC:4.1.1.21 6.3.2.6;Lyases
+adenylosuccinate lyase [EC:4.3.2.2];EC:4.3.2.2;Lyases
+adenine phosphoribosyltransferase [EC:2.4.2.7];EC:2.4.2.7;Transferases
+phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10];EC:2.1.2.3 3.5.4.10;Transferases
+3'-phosphoadenosine 5'-phosphosulfate synthase [EC:2.7.7.4 2.7.1.25];EC:2.7.7.4 2.7.1.25;Transferases
+nucleoside-diphosphate kinase [EC:2.7.4.6];EC:2.7.4.6;Transferases
+inosine triphosphate pyrophosphatase [EC:3.6.1.-];EC:3.6.1.-;No informacion
+AMP deaminase [EC:3.5.4.6];EC:3.5.4.6;Hydrolases
+adenylosuccinate synthase [EC:6.3.4.4];EC:6.3.4.4;Ligases
+ectonucleoside triphosphate diphosphohydrolase 5/6 [EC:3.6.1.6];EC:3.6.1.6;Hydrolases
+IMP dehydrogenase [EC:1.1.1.205];EC:1.1.1.205;Oxidoreductases
+5'-nucleotidase [EC:3.1.3.5];EC:3.1.3.5;Hydrolases
+adenosine deaminase [EC:3.5.4.4];EC:3.5.4.4;Hydrolases
+purine-nucleoside phosphorylase [EC:2.4.2.1];EC:2.4.2.1;Transferases
+xanthine dehydrogenase/oxidase [EC:1.17.1.4 1.17.3.2];EC:1.17.1.4 1.17.3.2;Oxidoreductases
+adenylate kinase [EC:2.7.4.3];EC:2.7.4.3;Transferases
+adenosine kinase [EC:2.7.1.20];EC:2.7.1.20;Transferases
+ribonucleoside-diphosphate reductase subunit M1 [EC:1.17.4.1];EC:1.17.4.1;Oxidoreductases
+adenosinetriphosphatase [EC:3.6.1.3];EC:3.6.1.3;Hydrolases
+nucleoside-triphosphatase [EC:3.6.1.15];EC:3.6.1.15;Hydrolases
+Pfam: LRR_8 LRR_4 PDZ PDZ_2;2;No informacion
+dual 3',5'-cyclic-AMP and -GMP phosphodiesterase 11 [EC:3.1.4.17 3.1.4.35];EC:3.1.4.17 3.1.4.35;Hydrolases
+urate oxidase [EC:1.7.3.3];EC:1.7.3.3;Oxidoreductases
+5-hydroxyisourate hydrolase [EC:3.5.2.17];EC:3.5.2.17;Hydrolases
+GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2];EC:6.3.5.2;Ligases
+guanine deaminase [EC:3.5.4.3];EC:3.5.4.3;Hydrolases
+bis(5'-nucleosidyl)-tetraphosphatase [EC:3.6.1.17];EC:3.6.1.17;Hydrolases
+guanylate kinase [EC:2.7.4.8];EC:2.7.4.8;Transferases
+exopolyphosphatase [EC:3.6.1.11];EC:3.6.1.11;Hydrolases
+guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase [EC:3.1.7.2];EC:3.1.7.2;Hydrolases
+guanylate cyclase soluble subunit beta [EC:4.6.1.2];EC:4.6.1.2;Lyases
+cAMP-specific phosphodiesterase 4 [EC:3.1.4.53];EC:3.1.4.53;Hydrolases
+nucleoside-triphosphate--adenylate kinase [EC:2.7.4.10];EC:2.7.4.10;Transferases
+carbamoyl-phosphate synthase / aspartate carbamoyltransferase / dihydroorotase [EC:6.3.5.5 2.1.3.2 3.5.2.3];EC:6.3.5.5 2.1.3.2 3.5.2.3;Ligases
+dihydroorotate dehydrogenase [EC:1.3.5.2];EC:1.3.5.2;Oxidoreductases
+uridine monophosphate synthetase [EC:2.4.2.10 4.1.1.23];EC:2.4.2.10 4.1.1.23;Transferases
+uridine kinase [EC:2.7.1.48];EC:2.7.1.48;Transferases
+uracil phosphoribosyltransferase [EC:2.4.2.9];EC:2.4.2.9;Transferases
+UMP-CMP kinase [EC:2.7.4.14];EC:2.7.4.14;Transferases
+CTP synthase [EC:6.3.4.2];EC:6.3.4.2;Ligases
+cytidine deaminase [EC:3.5.4.5];EC:3.5.4.5;Hydrolases
+uridine phosphorylase [EC:2.4.2.3];EC:2.4.2.3;Transferases
+dihydropyrimidine dehydrogenase (NADP+) [EC:1.3.1.2];EC:1.3.1.2;Oxidoreductases
+pseudouridylate synthase / pseudouridine kinase [EC:4.2.1.70 2.7.1.83];EC:4.2.1.70 2.7.1.83;Lyases
+dihydropyrimidinase [EC:3.5.2.2];EC:3.5.2.2;Hydrolases
+beta-ureidopropionase [EC:3.5.1.6];EC:3.5.1.6;Hydrolases
+dCMP deaminase [EC:3.5.4.12];EC:3.5.4.12;Hydrolases
+thymidylate synthase [EC:2.1.1.45];EC:2.1.1.45;Transferases
+dTMP kinase [EC:2.7.4.9];EC:2.7.4.9;Transferases
+dUTP pyrophosphatase [EC:3.6.1.23];EC:3.6.1.23;Hydrolases
+glutamate synthase (NADH) [EC:1.4.1.14];EC:1.4.1.14;Oxidoreductases
+omega-amidase [EC:3.5.1.3];EC:3.5.1.3;Hydrolases
+glutamine---fructose-6-phosphate transaminase (isomerizing) [EC:2.6.1.16];EC:2.6.1.16;Transferases
+1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88];EC:1.2.1.88;Oxidoreductases
+glutamate decarboxylase [EC:4.1.1.15];EC:4.1.1.15;Lyases
+4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase [EC:2.6.1.19 2.6.1.22];EC:2.6.1.19 2.6.1.22;Transferases
+succinate-semialdehyde dehydrogenase [EC:1.2.1.24];EC:1.2.1.24;Oxidoreductases
+D-aspartate oxidase [EC:1.4.3.1];EC:1.4.3.1;Oxidoreductases
+asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4];EC:6.3.5.4;Ligases
+L-asparaginase / beta-aspartyl-peptidase [EC:3.5.1.1 3.4.19.5];EC:3.5.1.1 3.4.19.5;Hydrolases
+alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase [EC:2.6.1.44 2.6.1.45 2.6.1.51];EC:2.6.1.44 2.6.1.45 2.6.1.51;Transferases
+glyoxylate/hydroxypyruvate reductase [EC:1.1.1.79 1.1.1.81];EC:1.1.1.79 1.1.1.81;Oxidoreductases
+D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase [EC:1.1.1.95 1.1.1.399];EC:1.1.1.95 1.1.1.399;Oxidoreductases
+phosphoserine aminotransferase [EC:2.6.1.52];EC:2.6.1.52;Transferases
+phosphoserine phosphatase [EC:3.1.3.3];EC:3.1.3.3;Hydrolases
+cystathionine beta-synthase [EC:4.2.1.22];EC:4.2.1.22;Lyases
+glycine hydroxymethyltransferase [EC:2.1.2.1];EC:2.1.2.1;Transferases
+threonine dehydratase [EC:4.3.1.19];EC:4.3.1.19;Lyases
+choline dehydrogenase [EC:1.1.99.1];EC:1.1.99.1;Oxidoreductases
+aldehyde dehydrogenase family 7 member A1 [EC:1.2.1.31 1.2.1.8 1.2.1.3];EC:1.2.1.31 1.2.1.8 1.2.1.3;Oxidoreductases
+aminomethyltransferase [EC:2.1.2.10];EC:2.1.2.10;Transferases
+glycine dehydrogenase [EC:1.4.4.2];EC:1.4.4.2;Oxidoreductases
+threonine 3-dehydrogenase [EC:1.1.1.103];EC:1.1.1.103;Oxidoreductases
+glycine C-acetyltransferase [EC:2.3.1.29];EC:2.3.1.29;Transferases
+threonine aldolase [EC:4.1.2.48];EC:4.1.2.48;Lyases
+cystathionine gamma-lyase [EC:4.4.1.1];EC:4.4.1.1;Lyases
+sarcosine dehydrogenase [EC:1.5.8.3];EC:1.5.8.3;Oxidoreductases
+glycine N-methyltransferase [EC:2.1.1.20];EC:2.1.1.20;Transferases
+5-aminolevulinate synthase [EC:2.3.1.37];EC:2.3.1.37;Transferases
+D-amino-acid oxidase [EC:1.4.3.3];EC:1.4.3.3;Oxidoreductases
+alanine-glyoxylate transaminase / (R)-3-amino-2-methylpropionate-pyruvate transaminase [EC:2.6.1.44 2.6.1.40];EC:2.6.1.44 2.6.1.40;Transferases
+glycerate 2-kinase [EC:2.7.1.165];EC:2.7.1.165;Transferases
+kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase [EC:2.6.1.7 4.4.1.13 2.6.1.64];EC:2.6.1.7 4.4.1.13 2.6.1.64;Transferases
+cysteine dioxygenase [EC:1.13.11.20];EC:1.13.11.20;Oxidoreductases
+thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2];EC:2.8.1.1 2.8.1.2;Transferases
+homocysteine S-methyltransferase [EC:2.1.1.10];EC:2.1.1.10;Transferases
+adenosylhomocysteinase [EC:3.3.1.1];EC:3.3.1.1;Hydrolases
+S-adenosylmethionine synthetase [EC:2.5.1.6];EC:2.5.1.6;Transferases
+S-adenosylmethionine decarboxylase [EC:4.1.1.50];EC:4.1.1.50;Lyases
+spermidine synthase [EC:2.5.1.16];EC:2.5.1.16;Transferases
+5'-methylthioadenosine phosphorylase [EC:2.4.2.28];EC:2.4.2.28;Transferases
+methylthioribose-1-phosphate isomerase [EC:5.3.1.23];EC:5.3.1.23;Isomerases
+methylthioribulose-1-phosphate dehydratase [EC:4.2.1.109];EC:4.2.1.109;Lyases
+enolase-phosphatase E1 [EC:3.1.3.77];EC:3.1.3.77;Hydrolases
+1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase [EC:1.13.11.53 1.13.11.54];EC:1.13.11.53 1.13.11.54;Oxidoreductases
+spermine synthase [EC:2.5.1.22];EC:2.5.1.22;Transferases
+branched-chain amino acid aminotransferase [EC:2.6.1.42];EC:2.6.1.42;Transferases
+glutamate--cysteine ligase catalytic subunit [EC:6.3.2.2];EC:6.3.2.2;Ligases
+glutathione synthase [EC:6.3.2.3];EC:6.3.2.3;Ligases
+2-oxoisovalerate dehydrogenase E1 component beta subunit [EC:1.2.4.4];EC:1.2.4.4;Oxidoreductases
+2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase) [EC:2.3.1.168];EC:2.3.1.168;Transferases
+isovaleryl-CoA dehydrogenase [EC:1.3.8.4];EC:1.3.8.4;Oxidoreductases
+3-methylcrotonyl-CoA carboxylase alpha subunit [EC:6.4.1.4];EC:6.4.1.4;Ligases
+methylglutaconyl-CoA hydratase [EC:4.2.1.18];EC:4.2.1.18;Lyases
+malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27];EC:1.2.1.18 1.2.1.27;Oxidoreductases
+3-hydroxyacyl-CoA dehydrogenase / 3-hydroxy-2-methylbutyryl-CoA dehydrogenase [EC:1.1.1.35 1.1.1.178];EC:1.1.1.35 1.1.1.178;Oxidoreductases
+3-hydroxyisobutyryl-CoA hydrolase [EC:3.1.2.4];EC:3.1.2.4;Hydrolases
+3-hydroxyisobutyrate/3-hydroxypropionate dehydrogenase [EC:1.1.1.31 1.1.1.59];EC:1.1.1.31 1.1.1.59;Oxidoreductases
+alpha-aminoadipic semialdehyde synthase [EC:1.5.1.8 1.5.1.9];EC:1.5.1.8 1.5.1.9;Oxidoreductases
+[histone H3]-lysine9 N-trimethyltransferase SETDB1 [EC:2.1.1.355];EC:2.1.1.355;Transferases
+procollagen-lysine,2-oxoglutarate 5-dioxygenase, invertebrate [EC:1.14.11.4];EC:1.14.11.4;Oxidoreductases
+calmodulin-lysine N-methyltransferase [EC:2.1.1.60];EC:2.1.1.60;Transferases
+gamma-butyrobetaine dioxygenase [EC:1.14.11.1];EC:1.14.11.1;Oxidoreductases
+collagen beta-1,O-galactosyltransferase [EC:2.4.1.50];EC:2.4.1.50;Transferases
+probable 2-oxoglutarate dehydrogenase E1 component DHKTD1 [EC:1.2.4.2];EC:1.2.4.2;Oxidoreductases
+arginine kinase [EC:2.7.3.3];EC:2.7.3.3;Transferases
+cytosolic nonspecific dipeptidase [EC:3.4.13.18];EC:3.4.13.18;Hydrolases
+monoamine oxidase [EC:1.4.3.4];EC:1.4.3.4;Oxidoreductases
+delta-1-pyrroline-5-carboxylate synthetase [EC:2.7.2.11 1.2.1.41];EC:2.7.2.11 1.2.1.41;Transferases
+ornithine--oxo-acid transaminase [EC:2.6.1.13];EC:2.6.1.13;Transferases
+ornithine decarboxylase [EC:4.1.1.17];EC:4.1.1.17;Lyases
+proline dehydrogenase [EC:1.5.5.2];EC:1.5.5.2;Oxidoreductases
+pyrroline-5-carboxylate reductase [EC:1.5.1.2];EC:1.5.1.2;Oxidoreductases
+prolyl 4-hydroxylase [EC:1.14.11.2];EC:1.14.11.2;Oxidoreductases
+cytosol aminopeptidase [EC:3.4.11.1 3.4.11.5];EC:3.4.11.1 3.4.11.5;Hydrolases
+carnosine N-methyltransferase [EC:2.1.1.22];EC:2.1.1.22;Transferases
+histidine decarboxylase [EC:4.1.1.22];EC:4.1.1.22;Lyases
+aromatic-L-amino-acid/L-tryptophan decarboxylase [EC:4.1.1.28 4.1.1.105];EC:4.1.1.28 4.1.1.105;Lyases
+tyrosine decarboxylase [EC:4.1.1.25];EC:4.1.1.25;Lyases
+homogentisate 1,2-dioxygenase [EC:1.13.11.5];EC:1.13.11.5;Oxidoreductases
+maleylacetoacetate isomerase [EC:5.2.1.2];EC:5.2.1.2;Isomerases
+fumarylacetoacetase [EC:3.7.1.2];EC:3.7.1.2;Hydrolases
+tyrosine 3-monooxygenase [EC:1.14.16.2];EC:1.14.16.2;Oxidoreductases
+tyrosinase [EC:1.14.18.1];EC:1.14.18.1;Oxidoreductases
+dopamine beta-monooxygenase [EC:1.14.17.1];EC:1.14.17.1;Oxidoreductases
+acylpyruvate hydrolase [EC:3.7.1.5];EC:3.7.1.5;Hydrolases
+3,4-dihydroxyphenylacetaldehyde synthase [EC:4.1.1.107];EC:4.1.1.107;Lyases
+phenylalanine-4-hydroxylase [EC:1.14.16.1];EC:1.14.16.1;Oxidoreductases
+arylformamidase [EC:3.5.1.9];EC:3.5.1.9;Hydrolases
+tryptophan 5-monooxygenase [EC:1.14.16.4];EC:1.14.16.4;Oxidoreductases
+kynurenine 3-monooxygenase [EC:1.14.13.9];EC:1.14.13.9;Oxidoreductases
+tryptophan 2,3-dioxygenase [EC:1.13.11.11];EC:1.13.11.11;Oxidoreductases
+arylalkylamine N-acetyltransferase [EC:2.3.1.87];EC:2.3.1.87;Transferases
+cysteamine dioxygenase [EC:1.13.11.19];EC:1.13.11.19;Oxidoreductases
+sulfinoalanine decarboxylase [EC:4.1.1.29];EC:4.1.1.29;Lyases
+gamma-glutamyltranspeptidase / glutathione hydrolase / leukotriene-C4 hydrolase [EC:2.3.2.2 3.4.19.13 3.4.19.14];EC:2.3.2.2 3.4.19.13 3.4.19.14;Transferases
+ethanolamine-phosphate cytidylyltransferase [EC:2.7.7.14];EC:2.7.7.14;Transferases
+ethanolaminephosphotransferase [EC:2.7.8.1];EC:2.7.8.1;Transferases
+methionyl-tRNA synthetase [EC:6.1.1.10];EC:6.1.1.10;Ligases
+thioredoxin reductase (NADPH) [EC:1.8.1.9];EC:1.8.1.9;Oxidoreductases
+selenide, water dikinase [EC:2.7.9.3];EC:2.7.9.3;Transferases
+O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase [EC:2.9.1.2];EC:2.9.1.2;Transferases
+O-phosphoseryl-tRNA(Sec) kinase [EC:2.7.1.164];EC:2.7.1.164;Transferases
+5-oxoprolinase (ATP-hydrolysing) [EC:3.5.2.9];EC:3.5.2.9;Hydrolases
+aminopeptidase N [EC:3.4.11.2];EC:3.4.11.2;Hydrolases
+glutathione S-transferase [EC:2.5.1.18];EC:2.5.1.18;Transferases
+glutathione peroxidase [EC:1.11.1.9];EC:1.11.1.9;Oxidoreductases
+pyrimidodiazepine synthase [EC:1.5.4.1];EC:1.5.4.1;Oxidoreductases
+leucyl aminopeptidase [EC:3.4.11.1];EC:3.4.11.1;Hydrolases
+glutathione-specific gamma-glutamylcyclotransferase [EC:4.3.2.7];EC:4.3.2.7;Lyases
+1,4-alpha-glucan branching enzyme [EC:2.4.1.18];EC:2.4.1.18;Transferases
+glycogen phosphorylase [EC:2.4.1.1];EC:2.4.1.1;Transferases
+trehalose 6-phosphate synthase/phosphatase [EC:2.4.1.15 3.1.3.12];EC:2.4.1.15 3.1.3.12;Transferases
+alpha,alpha-trehalase [EC:3.2.1.28];EC:3.2.1.28;Hydrolases
+glycogenin [EC:2.4.1.186];EC:2.4.1.186;Transferases
+alpha-amylase [EC:3.2.1.1];EC:3.2.1.1;Hydrolases
+dolichyl-phosphate beta-glucosyltransferase [EC:2.4.1.117];EC:2.4.1.117;Transferases
+dolichol kinase [EC:2.7.1.108];EC:2.7.1.108;Transferases
+undefined_Enzimadme00510;0;No informacion
+UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase [EC:2.7.8.15];EC:2.7.8.15;Transferases
+alpha-1,3-mannosyltransferase [EC:2.4.1.258];EC:2.4.1.258;Transferases
+alpha-1,3-glucosyltransferase [EC:2.4.1.267];EC:2.4.1.267;Transferases
+beta-1,4-mannosyltransferase [EC:2.4.1.142];EC:2.4.1.142;Transferases
+alpha-1,3/alpha-1,6-mannosyltransferase [EC:2.4.1.132 2.4.1.257];EC:2.4.1.132 2.4.1.257;Transferases
+alpha-1,2-mannosyltransferase [EC:2.4.1.131];EC:2.4.1.131;Transferases
+alpha-1,6-mannosyltransferase [EC:2.4.1.260];EC:2.4.1.260;Transferases
+alpha-1,2-mannosyltransferase [EC:2.4.1.259 2.4.1.261];EC:2.4.1.259 2.4.1.261;Transferases
+alpha-1,2-glucosyltransferase [EC:2.4.1.256];EC:2.4.1.256;Transferases
+mannosyl-oligosaccharide glucosidase [EC:3.2.1.106];EC:3.2.1.106;Hydrolases
+mannosyl-oligosaccharide alpha-1,3-glucosidase [EC:3.2.1.207];EC:3.2.1.207;Hydrolases
+alpha-mannosidase II [EC:3.2.1.114];EC:3.2.1.114;Hydrolases
+alpha-1,3-mannosyl-glycoprotein beta-1,2-N-acetylglucosaminyltransferase [EC:2.4.1.101];EC:2.4.1.101;Transferases
+alpha-1,6-mannosyl-glycoprotein beta-1,2-N-acetylglucosaminyltransferase [EC:2.4.1.143];EC:2.4.1.143;Transferases
+beta-1,4-mannosyl-glycoprotein beta-1,4-N-acetylglucosaminyltransferase [EC:2.4.1.144];EC:2.4.1.144;Transferases
+alpha-1,3-mannosylglycoprotein beta-1,4-N-acetylglucosaminyltransferase A/B [EC:2.4.1.145];EC:2.4.1.145;Transferases
+glycoprotein 6-alpha-L-fucosyltransferase [EC:2.4.1.68];EC:2.4.1.68;Transferases
+alpha-1,3-glucosyltransferase [EC:2.4.1.265];EC:2.4.1.265;Transferases
+endoplasmic reticulum Man9GlcNAc2 1,2-alpha-mannosidase [EC:3.2.1.209];EC:3.2.1.209;Hydrolases
+3-oxo-5-alpha-steroid 4-dehydrogenase 3 / polyprenol reductase [EC:1.3.1.22 1.3.1.94];EC:1.3.1.22 1.3.1.94;Oxidoreductases
+polypeptide N-acetylgalactosaminyltransferase [EC:2.4.1.41];EC:2.4.1.41;Transferases
+glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase [EC:2.4.1.122];EC:2.4.1.122;Transferases
+mannosyl-oligosaccharide alpha-1,2-mannosidase [EC:3.2.1.113];EC:3.2.1.113;Hydrolases
+hexosaminidase [EC:3.2.1.52];EC:3.2.1.52;Hydrolases
+alpha-1,3-fucosyltransferase [EC:2.4.1.-];EC:2.4.1.-;No informacion
+glycoprotein 3-alpha-L-fucosyltransferase [EC:2.4.1.214];EC:2.4.1.214;Transferases
+beta-hexosaminidase Fdl [EC:3.2.1.52];EC:3.2.1.52;Hydrolases
+chitinase [EC:3.2.1.14];EC:3.2.1.14;Hydrolases
+N-acetylglucosamine kinase [EC:2.7.1.59];EC:2.7.1.59;Transferases
+N-acetylglucosamine-6-phosphate deacetylase [EC:3.5.1.25];EC:3.5.1.25;Hydrolases
+glucosamine-phosphate N-acetyltransferase [EC:2.3.1.4];EC:2.3.1.4;Transferases
+phosphoacetylglucosamine mutase [EC:5.4.2.3];EC:5.4.2.3;Isomerases
+UDP-N-acetylglucosamine/UDP-N-acetylgalactosamine diphosphorylase [EC:2.7.7.23 2.7.7.83];EC:2.7.7.23 2.7.7.83;Transferases
+chitin synthase [EC:2.4.1.16];EC:2.4.1.16;Transferases
+sialic acid synthase [EC:2.5.1.56 2.5.1.57 2.5.1.132];EC:2.5.1.56 2.5.1.57 2.5.1.132;Transferases
+N-acylneuraminate-9-phosphatase [EC:3.1.3.29];EC:3.1.3.29;Hydrolases
+N-acylneuraminate/3-deoxy-D-glycero-D-galacto-nononate cytidylyltransferase [EC:2.7.7.43 2.7.7.92];EC:2.7.7.43 2.7.7.92;Transferases
+glucosamine-6-phosphate deaminase [EC:3.5.99.6];EC:3.5.99.6;Hydrolases
+UDP-glucuronate decarboxylase [EC:4.1.1.35];EC:4.1.1.35;Lyases
+iduronate 2-sulfatase [EC:3.1.6.13];EC:3.1.6.13;Hydrolases
+L-iduronidase [EC:3.2.1.76];EC:3.2.1.76;Hydrolases
+arylsulfatase B [EC:3.1.6.12];EC:3.1.6.12;Hydrolases
+N-sulfoglucosamine sulfohydrolase [EC:3.10.1.1];EC:3.10.1.1;Hydrolases
+heparan-alpha-glucosaminide N-acetyltransferase [EC:2.3.1.78];EC:2.3.1.78;Transferases
+alpha-N-acetylglucosaminidase [EC:3.2.1.50];EC:3.2.1.50;Hydrolases
+N-acetylglucosamine-6-sulfatase [EC:3.1.6.14];EC:3.1.6.14;Hydrolases
+protein xylosyltransferase [EC:2.4.2.26];EC:2.4.2.26;Transferases
+xylosylprotein 4-beta-galactosyltransferase [EC:2.4.1.133];EC:2.4.1.133;Transferases
+galactosylxylosylprotein 3-beta-galactosyltransferase [EC:2.4.1.134];EC:2.4.1.134;Transferases
+galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 3 [EC:2.4.1.135];EC:2.4.1.135;Transferases
+chondroitin sulfate N-acetylgalactosaminyltransferase 1/2 [EC:2.4.1.174 2.4.1.175];EC:2.4.1.174 2.4.1.175;Transferases
+chondroitin polymerizing factor [EC:2.4.1.175 2.4.1.226];EC:2.4.1.175 2.4.1.226;Transferases
+glycerol kinase [EC:2.7.1.30];EC:2.7.1.30;Transferases
+glycerol-3-phosphate O-acyltransferase 3/4 [EC:2.3.1.15];EC:2.3.1.15;Transferases
+acylglycerol kinase [EC:2.7.1.94];EC:2.7.1.94;Transferases
+lysophosphatidate acyltransferase [EC:2.3.1.51];EC:2.3.1.51;Transferases
+2-acylglycerol O-acyltransferase 2 [EC:2.3.1.22];EC:2.3.1.22;Transferases
+phosphatidate phosphatase [EC:3.1.3.4];EC:3.1.3.4;Hydrolases
+diacylglycerol kinase (ATP) [EC:2.7.1.107];EC:2.7.1.107;Transferases
+diacylglycerol O-acyltransferase 1 [EC:2.3.1.20 2.3.1.75 2.3.1.76];EC:2.3.1.20 2.3.1.75 2.3.1.76;Transferases
+diacylglycerol diphosphate phosphatase / phosphatidate phosphatase [EC:3.1.3.81 3.1.3.4];EC:3.1.3.81 3.1.3.4;Hydrolases
+phosphatidylinositol phospholipase C, beta [EC:3.1.4.11];EC:3.1.4.11;Hydrolases
+phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN [EC:3.1.3.16 3.1.3.48 3.1.3.67];EC:3.1.3.16 3.1.3.48 3.1.3.67;Hydrolases
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha/beta/delta [EC:2.7.1.153];EC:2.7.1.153;Transferases
+1-phosphatidylinositol-4-phosphate 5-kinase [EC:2.7.1.68];EC:2.7.1.68;Transferases
+inositol polyphosphate 5-phosphatase INPP5E [EC:3.1.3.36];EC:3.1.3.36;Hydrolases
+phosphatidylinositol-4-phosphate 3-kinase [EC:2.7.1.154];EC:2.7.1.154;Transferases
+inositol polyphosphate-4-phosphatase [EC:3.1.3.66];EC:3.1.3.66;Hydrolases
+1-phosphatidylinositol-3-phosphate 5-kinase [EC:2.7.1.150];EC:2.7.1.150;Transferases
+myotubularin-related protein 6/7/8 [EC:3.1.3.64 3.1.3.95];EC:3.1.3.64 3.1.3.95;Hydrolases
+phosphatidylinositol 3-kinase [EC:2.7.1.137];EC:2.7.1.137;Transferases
+phosphatidylinositol 4-kinase A [EC:2.7.1.67];EC:2.7.1.67;Transferases
+CDP-diacylglycerol--inositol 3-phosphatidyltransferase [EC:2.7.8.11];EC:2.7.8.11;Transferases
+inositol monophosphatase 3 [EC:3.1.3.25 3.1.3.7];EC:3.1.3.25 3.1.3.7;Hydrolases
+myo-inositol-1-phosphate synthase [EC:5.5.1.4];EC:5.5.1.4;Isomerases
+inositol polyphosphate 1-phosphatase [EC:3.1.3.57];EC:3.1.3.57;Hydrolases
+inositol-1,4,5-trisphosphate 5-phosphatase [EC:3.1.3.56];EC:3.1.3.56;Hydrolases
+1D-myo-inositol-triphosphate 3-kinase [EC:2.7.1.127];EC:2.7.1.127;Transferases
+inositol-polyphosphate multikinase [EC:2.7.1.140 2.7.1.151];EC:2.7.1.140 2.7.1.151;Transferases
+inositol-pentakisphosphate 2-kinase [EC:2.7.1.158];EC:2.7.1.158;Transferases
+phosphatidylinositol 4-phosphatase [EC:3.1.3.-];EC:3.1.3.-;No informacion
+phosphatidylinositol 3,5-bisphosphate 5-phosphatase [EC:3.1.3.-];EC:3.1.3.-;No informacion
+N-acetylglucosaminylphosphatidylinositol deacetylase [EC:3.5.1.89];EC:3.5.1.89;Hydrolases
+glucosaminylphosphatidylinositol acyltransferase [EC:2.3.-.-];EC:2.3.-.-;No informacion
+undefined_Enzimadme00563;3;No informacion
+GPI ethanolamine phosphate transferase 1 [EC:2.7.-.-];EC:2.7.-.-;No informacion
+GPI mannosyltransferase 2 [EC:2.4.1.-];EC:2.4.1.-;No informacion
+GPI mannosyltransferase 3 [EC:2.4.1.-];EC:2.4.1.-;No informacion
+GPI inositol-deacylase [EC:3.-.-.-];EC:3.-.-.-;No informacion
+glyceronephosphate O-acyltransferase [EC:2.3.1.42];EC:2.3.1.42;Transferases
+glycerol-3-phosphate dehydrogenase (NAD+) [EC:1.1.1.8];EC:1.1.1.8;Oxidoreductases
+glycerol-3-phosphate dehydrogenase [EC:1.1.5.3];EC:1.1.5.3;Oxidoreductases
+phospholipase D1/2 [EC:3.1.4.4];EC:3.1.4.4;Hydrolases
+phosphatidate cytidylyltransferase [EC:2.7.7.41];EC:2.7.7.41;Transferases
+CDP-diacylglycerol---glycerol-3-phosphate 3-phosphatidyltransferase [EC:2.7.8.5];EC:2.7.8.5;Transferases
+cardiolipin synthase (CMP-forming) [EC:2.7.8.41];EC:2.7.8.41;Transferases
+phosphatidylserine synthase 1 [EC:2.7.8.-];EC:2.7.8.-;No informacion
+phosphatidylserine decarboxylase [EC:4.1.1.65];EC:4.1.1.65;Lyases
+secretory phospholipase A2 [EC:3.1.1.4];EC:3.1.1.4;Hydrolases
+lysophosphatidylcholine acyltransferase / lyso-PAF acetyltransferase [EC:2.3.1.23 2.3.1.67];EC:2.3.1.23 2.3.1.67;Transferases
+lysophospholipid acyltransferase 5 [EC:2.3.1.23 2.3.1.-];EC:2.3.1.23 2.3.1.-;Transferases
+lysophospholipase III [EC:3.1.1.5];EC:3.1.1.5;Hydrolases
+glycerophosphocholine phosphodiesterase GPCPD1 [EC:3.1.4.2];EC:3.1.4.2;Hydrolases
+lysophospholipase II [EC:3.1.1.5];EC:3.1.1.5;Hydrolases
+choline-phosphate cytidylyltransferase [EC:2.7.7.15];EC:2.7.7.15;Transferases
+choline/ethanolamine kinase [EC:2.7.1.32 2.7.1.82];EC:2.7.1.32 2.7.1.82;Transferases
+acetylcholinesterase [EC:3.1.1.7];EC:3.1.1.7;Hydrolases
+choline O-acetyltransferase [EC:2.3.1.6];EC:2.3.1.6;Transferases
+lysophospholipid hydrolase [EC:3.1.1.5];EC:3.1.1.5;Hydrolases
+ethanolamine-phosphate phospho-lyase [EC:4.2.3.2];EC:4.2.3.2;Lyases
+monolysocardiolipin acyltransferase [EC:2.3.1.-];EC:2.3.1.-;No informacion
+platelet-activating factor acetylhydrolase IB subunit alpha;a;No informacion
+cytosolic prostaglandin-E synthase [EC:5.3.99.3];EC:5.3.99.3;Isomerases
+prostaglandin-H2 D-isomerase / glutathione transferase [EC:5.3.99.2 2.5.1.18];EC:5.3.99.2 2.5.1.18;Isomerases
+serine palmitoyltransferase [EC:2.3.1.50];EC:2.3.1.50;Transferases
+3-dehydrosphinganine reductase [EC:1.1.1.102];EC:1.1.1.102;Oxidoreductases
+neutral ceramidase [EC:3.5.1.23];EC:3.5.1.23;Hydrolases
+sphingolipid 4-desaturase/C4-monooxygenase [EC:1.14.19.17 1.14.18.5];EC:1.14.19.17 1.14.18.5;Oxidoreductases
+sphingosine kinase [EC:2.7.1.91];EC:2.7.1.91;Transferases
+sphingomyelin phosphodiesterase 2 [EC:3.1.4.12];EC:3.1.4.12;Hydrolases
+alkaline ceramidase [EC:3.5.1.23];EC:3.5.1.23;Hydrolases
+ceramide kinase [EC:2.7.1.138];EC:2.7.1.138;Transferases
+glucosylceramidase [EC:3.2.1.45];EC:3.2.1.45;Hydrolases
+ceramide glucosyltransferase [EC:2.4.1.80];EC:2.4.1.80;Transferases
+sphinganine-1-phosphate aldolase [EC:4.1.2.27];EC:4.1.2.27;Lyases
+sphingoid base N-palmitoyltransferase [EC:2.3.1.291];EC:2.3.1.291;Transferases
+lactosylceramide 4-alpha-galactosyltransferase [EC:2.4.1.228];EC:2.4.1.228;Transferases
+alpha-N-acetylgalactosaminidase [EC:3.2.1.49];EC:3.2.1.49;Hydrolases
+lactoylglutathione lyase [EC:4.4.1.5];EC:4.4.1.5;Lyases
+hydroxyacylglutathione hydrolase [EC:3.1.2.6];EC:3.1.2.6;Hydrolases
+acylphosphatase [EC:3.6.1.7];EC:3.6.1.7;Hydrolases
+malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40];EC:1.1.1.40;Oxidoreductases
+phosphoglycolate phosphatase [EC:3.1.3.18 3.1.3.48];EC:3.1.3.18 3.1.3.48;Hydrolases
+(S)-2-hydroxy-acid oxidase [EC:1.1.3.15];EC:1.1.3.15;Oxidoreductases
+hydroxypyruvate isomerase [EC:5.3.1.22];EC:5.3.1.22;Isomerases
+catalase [EC:1.11.1.6];EC:1.11.1.6;Oxidoreductases
+propionyl-CoA synthetase [EC:6.2.1.17];EC:6.2.1.17;Ligases
+dihydrofolate reductase [EC:1.5.1.3];EC:1.5.1.3;Oxidoreductases
+methylenetetrahydrofolate reductase (NADPH) [EC:1.5.1.20];EC:1.5.1.20;Oxidoreductases
+methylenetetrahydrofolate dehydrogenase(NAD+) / 5,10-methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.15 3.5.4.9];EC:1.5.1.15 3.5.4.9;Oxidoreductases
+methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase / formyltetrahydrofolate synthetase [EC:1.5.1.5 3.5.4.9 6.3.4.3];EC:1.5.1.5 3.5.4.9 6.3.4.3;Oxidoreductases
+formyltetrahydrofolate dehydrogenase [EC:1.5.1.6];EC:1.5.1.6;Oxidoreductases
+methionyl-tRNA formyltransferase [EC:2.1.2.9];EC:2.1.2.9;Transferases
+5-formyltetrahydrofolate cyclo-ligase [EC:6.3.3.2];EC:6.3.3.2;Ligases
+thiamine pyrophosphokinase [EC:2.7.6.2];EC:2.7.6.2;Transferases
+alkaline phosphatase [EC:3.1.3.1];EC:3.1.3.1;Hydrolases
+low molecular weight phosphotyrosine protein phosphatase [EC:3.1.3.2 3.1.3.48];EC:3.1.3.2 3.1.3.48;Hydrolases
+riboflavin kinase [EC:2.7.1.26];EC:2.7.1.26;Transferases
+FAD synthetase [EC:2.7.7.2];EC:2.7.7.2;Transferases
+pyridoxal phosphate phosphatase PHOSPHO2 [EC:3.1.3.74];EC:3.1.3.74;Hydrolases
+pyridoxamine 5'-phosphate oxidase [EC:1.4.3.5];EC:1.4.3.5;Oxidoreductases
+pyridoxine kinase [EC:2.7.1.35];EC:2.7.1.35;Transferases
+NAD+ synthase (glutamine-hydrolysing) [EC:6.3.5.1];EC:6.3.5.1;Ligases
+NAD+ kinase [EC:2.7.1.23];EC:2.7.1.23;Transferases
+nicotinamide mononucleotide adenylyltransferase [EC:2.7.7.1 2.7.7.18];EC:2.7.7.1 2.7.7.18;Transferases
+nicotinate phosphoribosyltransferase [EC:6.3.4.21];EC:6.3.4.21;Ligases
+NAD+-dependent protein deacetylase sirtuin 7 [EC:2.3.1.286];EC:2.3.1.286;Transferases
+phosphopantothenoylcysteine decarboxylase [EC:4.1.1.36];EC:4.1.1.36;Lyases
+type II pantothenate kinase [EC:2.7.1.33];EC:2.7.1.33;Transferases
+phosphopantetheine adenylyltransferase / dephospho-CoA kinase [EC:2.7.7.3 2.7.1.24];EC:2.7.7.3 2.7.1.24;Transferases
+4'-phosphopantetheinyl transferase [EC:2.7.8.-];EC:2.7.8.-;No informacion
+phosphopantothenate---cysteine ligase (ATP) [EC:6.3.2.51];EC:6.3.2.51;Ligases
+biotin---protein ligase [EC:6.3.4.9 6.3.4.10 6.3.4.11 6.3.4.15];EC:6.3.4.9 6.3.4.10 6.3.4.11 6.3.4.15;Ligases
+biotinidase [EC:3.5.1.12];EC:3.5.1.12;Hydrolases
+lipoyltransferase 1;1;No informacion
+lipoyl(octanoyl) transferase 2 [EC:2.3.1.181];EC:2.3.1.181;Transferases
+lipoyl synthase [EC:2.8.1.8];EC:2.8.1.8;Transferases
+GTP cyclohydrolase IA [EC:3.5.4.16];EC:3.5.4.16;Hydrolases
+6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase [EC:4.2.3.12 4.1.2.50];EC:4.2.3.12 4.1.2.50;Lyases
+folylpolyglutamate synthase [EC:6.3.2.17];EC:6.3.2.17;Ligases
+gamma-glutamyl hydrolase [EC:3.4.19.9];EC:3.4.19.9;Hydrolases
+sepiapterin reductase [EC:1.1.1.153];EC:1.1.1.153;Oxidoreductases
+dihydropteridine reductase [EC:1.5.1.34];EC:1.5.1.34;Oxidoreductases
+GTP 3',8-cyclase / cyclic pyranopterin monophosphate synthase [EC:4.1.99.22 4.6.1.17];EC:4.1.99.22 4.6.1.17;Lyases
+molybdopterin synthase catalytic subunit [EC:2.8.1.12];EC:2.8.1.12;Transferases
+gephyrin [EC:2.10.1.1 2.7.7.75];EC:2.10.1.1 2.7.7.75;Transferases
+molybdenum cofactor sulfurtransferase [EC:2.8.1.9];EC:2.8.1.9;Transferases
+4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96];EC:4.2.1.96;Lyases
+dehydrogenase/reductase SDR family member 4 [EC:1.1.-.-];EC:1.1.-.-;No informacion
+all-trans-retinol dehydrogenase (NAD+) [EC:1.1.1.105];EC:1.1.1.105;Oxidoreductases
+porphobilinogen synthase [EC:4.2.1.24];EC:4.2.1.24;Lyases
+hydroxymethylbilane synthase [EC:2.5.1.61];EC:2.5.1.61;Transferases
+uroporphyrinogen-III synthase [EC:4.2.1.75];EC:4.2.1.75;Lyases
+uroporphyrinogen decarboxylase [EC:4.1.1.37];EC:4.1.1.37;Lyases
+coproporphyrinogen III oxidase [EC:1.3.3.3];EC:1.3.3.3;Oxidoreductases
+protoporphyrinogen/coproporphyrinogen III oxidase [EC:1.3.3.4 1.3.3.15];EC:1.3.3.4 1.3.3.15;Oxidoreductases
+heme o synthase [EC:2.5.1.141];EC:2.5.1.141;Transferases
+protoporphyrin/coproporphyrin ferrochelatase [EC:4.99.1.1 4.99.1.9];EC:4.99.1.1 4.99.1.9;Lyases
+cytochrome c oxidase assembly protein subunit 15;5;No informacion
+cytochrome c heme-lyase [EC:4.4.1.17];EC:4.4.1.17;Lyases
+frataxin [EC:1.16.3.1];EC:1.16.3.1;Oxidoreductases
+heme oxygenase 2 [EC:1.14.14.18];EC:1.14.14.18;Oxidoreductases
+hydroxymethylglutaryl-CoA reductase (NADPH) [EC:1.1.1.34];EC:1.1.1.34;Oxidoreductases
+mevalonate kinase [EC:2.7.1.36];EC:2.7.1.36;Transferases
+phosphomevalonate kinase [EC:2.7.4.2];EC:2.7.4.2;Transferases
+diphosphomevalonate decarboxylase [EC:4.1.1.33];EC:4.1.1.33;Lyases
+isopentenyl-diphosphate Delta-isomerase [EC:5.3.3.2];EC:5.3.3.2;Isomerases
+farnesyl diphosphate synthase [EC:2.5.1.1 2.5.1.10];EC:2.5.1.1 2.5.1.10;Transferases
+geranylgeranyl diphosphate synthase, type III [EC:2.5.1.1 2.5.1.10 2.5.1.29];EC:2.5.1.1 2.5.1.10 2.5.1.29;Transferases
+ditrans,polycis-polyprenyl diphosphate synthase [EC:2.5.1.87];EC:2.5.1.87;Transferases
+decaprenyl-diphosphate synthase subunit 2 [EC:2.5.1.91];EC:2.5.1.91;Transferases
+protein farnesyltransferase subunit beta [EC:2.5.1.58];EC:2.5.1.58;Transferases
+protein-S-isoprenylcysteine O-methyltransferase [EC:2.1.1.100];EC:2.1.1.100;Transferases
+STE24 endopeptidase [EC:3.4.24.84];EC:3.4.24.84;Hydrolases
+prenyl protein peptidase [EC:3.4.22.-];EC:3.4.22.-;No informacion
+sulfite oxidase [EC:1.8.3.1];EC:1.8.3.1;Oxidoreductases
+methanethiol oxidase [EC:1.8.3.4];EC:1.8.3.4;Oxidoreductases
+eukaryotic sulfide quinone oxidoreductase [EC:1.8.5.8];EC:1.8.5.8;Oxidoreductases
+sulfur dioxygenase [EC:1.13.11.18];EC:1.13.11.18;Oxidoreductases
+seryl-tRNA synthetase [EC:6.1.1.11];EC:6.1.1.11;Ligases
+aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C [EC:6.3.5.6 6.3.5.7];EC:6.3.5.6 6.3.5.7;Ligases
+glutaminyl-tRNA synthetase [EC:6.1.1.18];EC:6.1.1.18;Ligases
+asparaginyl-tRNA synthetase [EC:6.1.1.22];EC:6.1.1.22;Ligases
+juvenile-hormone esterase [EC:3.1.1.59];EC:3.1.1.59;Hydrolases
+juvenile hormone epoxide hydrolase;e;No informacion
+juvenile hormone-III synthase [EC:2.1.1.325];EC:2.1.1.325;Transferases
+ecdysteroid 25-hydroxylase;e;No informacion
+ecdysteroid 22-hydroxylase;e;No informacion
+ecdysteroid 2-hydroxylase;e;No informacion
+ecdysone oxidase [EC:1.1.3.16];EC:1.1.3.16;Oxidoreductases
+ecdysone 20-monooxygenase [EC:1.14.99.22];EC:1.14.99.22;Oxidoreductases
+26-hydroxylase [EC:1.14.-.-];EC:1.14.-.-;No informacion
+cholesterol 7-desaturase [EC:1.14.19.21];EC:1.14.19.21;Oxidoreductases
+cytochrome P450 family 307 subfamily A;A;No informacion
+farnesyl diphosphate phosphatase [EC:3.1.3.-];EC:3.1.3.-;No informacion
+NADP+-dependent farnesol dehydrogenase [EC:1.1.1.216];EC:1.1.1.216;Oxidoreductases
+carboxylesterase 1 [EC:3.1.1.1];EC:3.1.1.1;Hydrolases

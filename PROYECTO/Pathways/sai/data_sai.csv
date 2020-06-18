@@ -1,0 +1,848 @@
+;n;enzima;gen;nob_Keeg;path;link
+1;'14';fructose 1,6-bisphosphate aldolase/phosphatase [EC:4.1.2.13 3.1.3.11];(GenBank);sai:Saci_0671;sai00010;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0671
+1;14;fructose 1,6-bisphosphate aldolase/phosphatase [EC:4.1.2.13 3.1.3.11];(GenBank);sai:Saci_0671;sai00010;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0671
+2;38;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);sai:Saci_1857;sai00010;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1857
+3;46;alcohol dehydrogenase [EC:1.1.1.1];adh;sai:Saci_1115;sai00010;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1115+sai:Saci_2057+sai:Saci_2126+sai:Saci_2205+sai:Saci_2224
+4;53;pyruvate kinase [EC:2.7.1.40];(GenBank);sai:Saci_1648;sai00010;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1648
+5;55;enolase [EC:4.2.1.11];eno;sai:Saci_1377;sai00010;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1377
+6;58;triosephosphate isomerase (TIM) [EC:5.3.1.1];tpiA;sai:Saci_0117;sai00010;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0117
+7;60;fructose 1,6-bisphosphate aldolase/phosphatase [EC:4.1.2.13 3.1.3.11];(GenBank);sai:Saci_0671;sai00010;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0671
+8;62;glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8];(GenBank);sai:Saci_0151;sai00010;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0151
+9;63;phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2];(GenBank);sai:Saci_0806;sai00010;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0806
+10;64;glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8];(GenBank);sai:Saci_0151;sai00010;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0151
+11;67;glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8];(GenBank);sai:Saci_0151;sai00010;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0151
+12;69;aldose 1-epimerase [EC:5.1.3.3];(GenBank);sai:Saci_2185;sai00010;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2185
+13;75;dihydrolipoamide dehydrogenase [EC:1.8.1.4];lpdV;sai:Saci_0136;sai00010;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0136+sai:Saci_0338
+14;76;phosphoglycerate kinase [EC:2.7.2.3];pgk;sai:Saci_1355;sai00010;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1355
+15;112;phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32];(GenBank);sai:Saci_1100;sai00010;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1100
+16;119;glyceraldehyde-3-phosphate dehydrogenase (NAD(P)) [EC:1.2.1.59];(GenBank);sai:Saci_1356;sai00010;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1356
+17;124;pyruvate ferredoxin oxidoreductase delta subunit [EC:1.2.7.1];(GenBank);sai:Saci_1088;sai00010;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1088+sai:Saci_2250+sai:Saci_2251+sai:Saci_2252+sai:Saci_2253
+18;131;acetyl-CoA synthetase [EC:6.2.1.1];(GenBank);sai:Saci_0025;sai00010;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0025+sai:Saci_0306+sai:Saci_1774+sai:Saci_2062+sai:Saci_2235+sai:Saci_2298
+19;137;probable phosphoglycerate mutase [EC:5.4.2.12];(GenBank);sai:Saci_0043;sai00010;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0043+sai:Saci_0837
+20;142;glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+] [EC:1.2.1.90];(GenBank);sai:Saci_0227;sai00010;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0227
+21;144;2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta [EC:1.2.7.3 1.2.7.11];korB;sai:Saci_0208;sai00010;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0208+sai:Saci_0209+sai:Saci_2306+sai:Saci_2307
+22;28;dihydrolipoamide dehydrogenase [EC:1.8.1.4];lpdV;sai:Saci_0136;sai00020;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0136+sai:Saci_0338
+23;32;succinyl-CoA synthetase beta subunit [EC:6.2.1.5];sucC;sai:Saci_1265;sai00020;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1265+sai:Saci_1266
+24;34;isocitrate dehydrogenase [EC:1.1.1.42];icd;sai:Saci_2375;sai00020;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2375
+25;36;isocitrate dehydrogenase [EC:1.1.1.42];icd;sai:Saci_2375;sai00020;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2375
+26;38;fumarate hydratase, class II [EC:4.2.1.2];fumC;sai:Saci_0122;sai00020;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0122
+27;39;aconitate hydratase [EC:4.2.1.3];acnA;sai:Saci_1214;sai00020;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1214
+28;40;aconitate hydratase [EC:4.2.1.3];acnA;sai:Saci_1214;sai00020;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1214
+29;41;citrate synthase [EC:2.3.3.1];cisY;sai:Saci_0243;sai00020;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0243
+30;42;malate dehydrogenase [EC:1.1.1.37];(GenBank);sai:Saci_0246;sai00020;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0246
+31;80;dihydrolipoamide dehydrogenase [EC:1.8.1.4];lpdV;sai:Saci_0136;sai00020;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0136+sai:Saci_0338
+32;87;phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32];(GenBank);sai:Saci_1100;sai00020;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1100
+33;92;succinate dehydrogenase / fumarate reductase, subunit D;sdhD;sai:Saci_0979;sai00020;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0979+sai:Saci_0980+sai:Saci_0981+sai:Saci_0982
+34;95;succinate dehydrogenase / fumarate reductase, subunit D;sdhD;sai:Saci_0979;sai00020;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0979+sai:Saci_0980+sai:Saci_0981+sai:Saci_0982
+35;99;2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta [EC:1.2.7.3 1.2.7.11];korB;sai:Saci_0208;sai00020;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0208+sai:Saci_0209+sai:Saci_2306+sai:Saci_2307
+36;101;pyruvate ferredoxin oxidoreductase delta subunit [EC:1.2.7.1];(GenBank);sai:Saci_1088;sai00020;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1088+sai:Saci_2250+sai:Saci_2251+sai:Saci_2252+sai:Saci_2253
+37;102;2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta [EC:1.2.7.3 1.2.7.11];korB;sai:Saci_0208;sai00020;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0208+sai:Saci_0209+sai:Saci_2306+sai:Saci_2307
+38;103;2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta [EC:1.2.7.3 1.2.7.11];korB;sai:Saci_0208;sai00020;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0208+sai:Saci_0209+sai:Saci_2306+sai:Saci_2307
+39;37;glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8];(GenBank);sai:Saci_0151;sai00030;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0151
+40;40;ribokinase [EC:2.7.1.15];rbsK;sai:Saci_0272;sai00030;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0272+sai:Saci_0553
+41;43;ribose-phosphate pyrophosphokinase [EC:2.7.6.1];(GenBank);sai:Saci_1282;sai00030;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1282
+42;45;ribokinase [EC:2.7.1.15];rbsK;sai:Saci_0272;sai00030;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0272+sai:Saci_0553
+43;46;transketolase [EC:2.2.1.1];(GenBank);sai:Saci_0180;sai00030;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0180+sai:Saci_0181
+44;47;ribose 5-phosphate isomerase A [EC:5.3.1.6];rpiA;sai:Saci_1301;sai00030;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1301
+45;49;transketolase [EC:2.2.1.1];(GenBank);sai:Saci_0180;sai00030;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0180+sai:Saci_0181
+46;50;fructose 1,6-bisphosphate aldolase/phosphatase [EC:4.1.2.13 3.1.3.11];(GenBank);sai:Saci_0671;sai00030;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0671
+47;52;fructose 1,6-bisphosphate aldolase/phosphatase [EC:4.1.2.13 3.1.3.11];(GenBank);sai:Saci_0671;sai00030;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0671
+48;53;glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8];(GenBank);sai:Saci_0151;sai00030;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0151
+49;63;gluconate/galactonate dehydratase [EC:4.2.1.140];(GenBank);sai:Saci_0885;sai00030;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0885
+50;78;phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2];(GenBank);sai:Saci_0806;sai00030;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0806
+51;84;2-dehydro-3-deoxy-phosphogluconate/2-dehydro-3-deoxy-6-phosphogalactonate aldolase [EC:4.1.2.55];(GenBank);sai:Saci_0225;sai00030;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0225
+52;88;glycerate 2-kinase [EC:2.7.1.165];(GenBank);sai:Saci_0113;sai00030;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0113
+53;91;2-dehydro-3-deoxy-phosphogluconate/2-dehydro-3-deoxy-6-phosphogalactonate aldolase [EC:4.1.2.55];(GenBank);sai:Saci_0225;sai00030;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0225
+54;135;3-hexulose-6-phosphate synthase [EC:4.1.2.43];(GenBank);sai:Saci_0802;sai00030;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0802
+55;137;6-phospho-3-hexuloisomerase [EC:5.3.1.27];(GenBank);sai:Saci_0747;sai00030;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0747
+56;143;glyceraldehyde dehydrogenase medium subunit [EC:1.2.99.8];cutB;sai:Saci_2269;sai00030;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2269+sai:Saci_2270+sai:Saci_2271
+57;150;aldose 1-dehydrogenase [NAD(P)+] [EC:1.1.1.359];(GenBank);sai:Saci_1079;sai00030;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1079
+58;151;2-dehydro-3-deoxygluconokinase / 2-dehydro-3-deoxygalactonokinase [EC:2.7.1.178];kdgK;sai:Saci_0226;sai00030;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0226
+59;155;glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+] [EC:1.2.1.90];(GenBank);sai:Saci_0227;sai00030;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0227
+60;84;xylulokinase [EC:2.7.1.17];(GenBank);sai:Saci_1058;sai00040;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1058
+61;92;xylono-1,5-lactonase [EC:3.1.1.110];(GenBank);sai:Saci_1674;sai00040;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1674
+62;215;L-iditol 2-dehydrogenase [EC:1.1.1.14];(GenBank);sai:Saci_0410;sai00040;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0410
+63;222;2-dehydro-3-deoxy-D-arabinonate dehydratase [EC:4.2.1.141];(GenBank);sai:Saci_1939;sai00040;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1939
+64;224;2,5-dioxopentanoate dehydrogenase [EC:1.2.1.26];(GenBank);sai:Saci_1700;sai00040;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1700+sai:Saci_1938
+65;58;L-iditol 2-dehydrogenase [EC:1.1.1.14];(GenBank);sai:Saci_0410;sai00051;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0410
+66;78;glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8];(GenBank);sai:Saci_0151;sai00051;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0151
+67;79;phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2];(GenBank);sai:Saci_0806;sai00051;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0806
+68;84;mannose-1-phosphate guanylyltransferase [EC:2.7.7.13];mpg1;sai:Saci_0196;sai00051;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0196
+69;93;triosephosphate isomerase (TIM) [EC:5.3.1.1];tpiA;sai:Saci_0117;sai00051;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0117
+70;94;fructose 1,6-bisphosphate aldolase/phosphatase [EC:4.1.2.13 3.1.3.11];(GenBank);sai:Saci_0671;sai00051;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0671
+71;96;fructose 1,6-bisphosphate aldolase/phosphatase [EC:4.1.2.13 3.1.3.11];(GenBank);sai:Saci_0671;sai00051;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0671
+72;105;fructose 1,6-bisphosphate aldolase/phosphatase [EC:4.1.2.13 3.1.3.11];(GenBank);sai:Saci_0671;sai00051;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0671
+73;64;alpha-glucosidase [EC:3.2.1.20];malA;sai:Saci_1160;sai00052;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1160
+74;76;beta-galactosidase [EC:3.2.1.23];bgaS;sai:Saci_1849;sai00052;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1849
+75;77;phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2];(GenBank);sai:Saci_0806;sai00052;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0806
+76;79;UDP-glucose 4-epimerase [EC:5.1.3.2];(GenBank);sai:Saci_0761;sai00052;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0761
+77;94;beta-galactosidase [EC:3.2.1.23];bgaS;sai:Saci_1849;sai00052;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1849
+78;159;2-dehydro-3-deoxy-phosphogluconate/2-dehydro-3-deoxy-6-phosphogalactonate aldolase [EC:4.1.2.55];(GenBank);sai:Saci_0225;sai00052;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0225
+79;160;gluconate/galactonate dehydratase [EC:4.2.1.140];(GenBank);sai:Saci_0885;sai00052;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0885
+80;161;2-dehydro-3-deoxy-phosphogluconate/2-dehydro-3-deoxy-6-phosphogalactonate aldolase [EC:4.1.2.55];(GenBank);sai:Saci_0225;sai00052;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0225
+81;162;2-dehydro-3-deoxygluconokinase / 2-dehydro-3-deoxygalactonokinase [EC:2.7.1.178];kdgK;sai:Saci_0226;sai00052;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0226
+82;166;aldose 1-dehydrogenase [NAD(P)+] [EC:1.1.1.359];(GenBank);sai:Saci_1079;sai00052;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1079
+83;172;aldose 1-epimerase [EC:5.1.3.3];(GenBank);sai:Saci_2185;sai00052;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2185
+84;73;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);sai:Saci_1857;sai00053;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1857
+85;94;2,5-dioxopentanoate dehydrogenase [EC:1.2.1.26];(GenBank);sai:Saci_1700;sai00053;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1700+sai:Saci_1938
+86;60;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];(GenBank);sai:Saci_0158;sai00061;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0158+sai:Saci_0238+sai:Saci_1104+sai:Saci_1308+sai:Saci_1965
+87;81;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];(GenBank);sai:Saci_0158;sai00061;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0158+sai:Saci_0238+sai:Saci_1104+sai:Saci_1308+sai:Saci_1965
+88;92;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];(GenBank);sai:Saci_0158;sai00061;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0158+sai:Saci_0238+sai:Saci_1104+sai:Saci_1308+sai:Saci_1965
+89;103;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];(GenBank);sai:Saci_0158;sai00061;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0158+sai:Saci_0238+sai:Saci_1104+sai:Saci_1308+sai:Saci_1965
+90;114;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];(GenBank);sai:Saci_0158;sai00061;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0158+sai:Saci_0238+sai:Saci_1104+sai:Saci_1308+sai:Saci_1965
+91;125;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];(GenBank);sai:Saci_0158;sai00061;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0158+sai:Saci_0238+sai:Saci_1104+sai:Saci_1308+sai:Saci_1965
+92;136;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];(GenBank);sai:Saci_0158;sai00061;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0158+sai:Saci_0238+sai:Saci_1104+sai:Saci_1308+sai:Saci_1965
+93;148;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];(GenBank);sai:Saci_0158;sai00061;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0158+sai:Saci_0238+sai:Saci_1104+sai:Saci_1308+sai:Saci_1965
+94;301;long-chain acyl-CoA synthetase [EC:6.2.1.3];fadD;sai:Saci_1966;sai00061;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1966+sai:Saci_2207
+95;348;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];(GenBank);sai:Saci_0158;sai00061;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0158+sai:Saci_0238+sai:Saci_1104+sai:Saci_1308+sai:Saci_1965
+96;388;long-chain acyl-CoA synthetase [EC:6.2.1.3];fadD;sai:Saci_1966;sai00061;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1966+sai:Saci_2207
+97;395;long-chain acyl-CoA synthetase [EC:6.2.1.3];fadD;sai:Saci_1966;sai00061;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1966+sai:Saci_2207
+98;403;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];(GenBank);sai:Saci_0158;sai00061;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0158+sai:Saci_0238+sai:Saci_1104+sai:Saci_1308+sai:Saci_1965
+99;53;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(GenBank);sai:Saci_0963;sai00071;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0963+sai:Saci_1114+sai:Saci_1121+sai:Saci_1361+sai:Saci_2209+sai:Saci_2232+sai:Saci_2233+sai:Saci_2288
+100;54;acetyl-CoA acyltransferase [EC:2.3.1.16];(GenBank);sai:Saci_1728;sai00071;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1728
+101;62;acetyl-CoA acyltransferase [EC:2.3.1.16];(GenBank);sai:Saci_1728;sai00071;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1728
+102;69;acetyl-CoA acyltransferase [EC:2.3.1.16];(GenBank);sai:Saci_1728;sai00071;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1728
+103;79;acetyl-CoA acyltransferase [EC:2.3.1.16];(GenBank);sai:Saci_1728;sai00071;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1728
+104;84;alcohol dehydrogenase [EC:1.1.1.1];adh;sai:Saci_1115;sai00071;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1115+sai:Saci_2057+sai:Saci_2126+sai:Saci_2205+sai:Saci_2224
+105;94;acetyl-CoA acyltransferase [EC:2.3.1.16];(GenBank);sai:Saci_1728;sai00071;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1728
+106;105;acetyl-CoA acyltransferase [EC:2.3.1.16];(GenBank);sai:Saci_1728;sai00071;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1728
+107;109;long-chain acyl-CoA synthetase [EC:6.2.1.3];fadD;sai:Saci_1966;sai00071;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1966+sai:Saci_2207
+108;202;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(GenBank);sai:Saci_0963;sai00071;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0963+sai:Saci_1114+sai:Saci_1121+sai:Saci_1361+sai:Saci_2209+sai:Saci_2232+sai:Saci_2233+sai:Saci_2288
+109;213;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);sai:Saci_1857;sai00071;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1857
+110;217;acetyl-CoA acyltransferase [EC:2.3.1.16];(GenBank);sai:Saci_1728;sai00071;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1728
+111;11;hydroxymethylglutaryl-CoA synthase [EC:2.3.3.10];(GenBank);sai:Saci_1362;sai00072;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1362
+112;14;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(GenBank);sai:Saci_0963;sai00072;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0963+sai:Saci_1114+sai:Saci_1121+sai:Saci_1361+sai:Saci_2209+sai:Saci_2232+sai:Saci_2233+sai:Saci_2288
+113;65;flavin prenyltransferase [EC:2.5.1.129];pad;sai:Saci_0856;sai00130;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0856+sai:Saci_1414
+114;92;4-hydroxybenzoate polyprenyltransferase [EC:2.5.1.39];ubiA;sai:Saci_2326;sai00130;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2326
+115;105;demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201];(GenBank);sai:Saci_1900;sai00130;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1900
+116;136;demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201];(GenBank);sai:Saci_1900;sai00130;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1900
+117;70;NADH-quinone oxidoreductase subunit N [EC:7.1.1.2];nqo14;sai:Saci_2338;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2338
+118;71;NADH-quinone oxidoreductase subunit L/M [EC:7.1.1.2];nqo12;sai:Saci_2339;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2339
+119;72;NADH-quinone oxidoreductase subunit L/M [EC:7.1.1.2];nqo12;sai:Saci_2339;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2339
+120;73;NADH-quinone oxidoreductase subunit K [EC:7.1.1.2];ndhE;sai:Saci_2340;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2340
+121;74;NADH-quinone oxidoreductase subunit J [EC:7.1.1.2];(GenBank);sai:Saci_2341;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2341
+122;75;NADH-quinone oxidoreductase subunit I [EC:7.1.1.2];(GenBank);sai:Saci_2342;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2342
+123;76;NADH-quinone oxidoreductase subunit H [EC:7.1.1.2];ndhA;sai:Saci_2343;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2343
+124;80;NADH-quinone oxidoreductase subunit D [EC:7.1.1.2];(GenBank);sai:Saci_2344;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2344
+125;81;NADH-quinone oxidoreductase subunit C [EC:7.1.1.2];(GenBank);sai:Saci_2345;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2345
+126;82;NADH-quinone oxidoreductase subunit B [EC:7.1.1.2];(GenBank);sai:Saci_1644;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1644
+127;83;NADH-quinone oxidoreductase subunit A [EC:7.1.1.2];nou3;sai:Saci_2346;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2346
+128;94;NADH dehydrogenase [EC:1.6.99.3];(GenBank);sai:Saci_1702;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1702+sai:Saci_1934
+129;100;cytochrome aa3-type oxidase subunit II [EC:7.1.1.4];soxA;sai:Saci_2089;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2089+sai:Saci_2259
+130;101;cytochrome aa3-type oxidase subunit I [EC:7.1.1.4];(GenBank);sai:Saci_2088;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2088+sai:Saci_2263
+131;102;cytochrome aa3-type oxidase subunit I/III [EC:7.1.1.4];soxM;sai:Saci_2263;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2263
+132;109;NADH-quinone oxidoreductase subunit B [EC:7.1.1.2];(GenBank);sai:Saci_1644;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1644+sai:Saci_2338+sai:Saci_2339+sai:Saci_2340+sai:Saci_2341+sai:Saci_2342+sai:Saci_2343+sai:Saci_2344+sai:Saci_2345+sai:Saci_2346
+133;112;V/A-type H+/Na+-transporting ATPase subunit I;(GenBank);sai:Saci_1545;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1545+sai:Saci_1546+sai:Saci_1547+sai:Saci_1548+sai:Saci_1549+sai:Saci_1550+sai:Saci_1552
+134;115;inorganic pyrophosphatase [EC:3.6.1.1];ppa;sai:Saci_0955;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0955
+135;140;succinate dehydrogenase / fumarate reductase, cytochrome b subunit;sdhC;sai:Saci_0980;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0980
+136;141;succinate dehydrogenase / fumarate reductase, subunit D;sdhD;sai:Saci_0979;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0979
+137;142;succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4];sdhA;sai:Saci_0982;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0982
+138;143;succinate dehydrogenase / fumarate reductase, iron-sulfur subunit [EC:1.3.5.1 1.3.5.4];sdhB;sai:Saci_0981;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0981
+139;171;heme o synthase [EC:2.5.1.141];ctaB;sai:Saci_1635;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1635
+140;176;heme o synthase [EC:2.5.1.141];ctaB;sai:Saci_1635;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1635
+141;202;V/A-type H+/Na+-transporting ATPase subunit A [EC:7.1.2.2 7.2.2.1];atpA;sai:Saci_1548;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1548
+142;203;V/A-type H+/Na+-transporting ATPase subunit B;atpB;sai:Saci_1549;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1549
+143;205;V/A-type H+/Na+-transporting ATPase subunit D;atpD;sai:Saci_1550;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1550
+144;206;V/A-type H+/Na+-transporting ATPase subunit E;(GenBank);sai:Saci_1547;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1547
+145;207;V/A-type H+/Na+-transporting ATPase subunit F;(GenBank);sai:Saci_1546;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1546
+146;208;V/A-type H+/Na+-transporting ATPase subunit I;(GenBank);sai:Saci_1545;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1545
+147;209;V/A-type H+/Na+-transporting ATPase subunit K;(GenBank);sai:Saci_1552;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1552
+148;255;succinate dehydrogenase / fumarate reductase, subunit D;sdhD;sai:Saci_0979;sai00190;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0979+sai:Saci_0980+sai:Saci_0981+sai:Saci_0982
+149;46;glutamine synthetase [EC:6.3.1.2];glnA;sai:Saci_0558;sai00220;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0558+sai:Saci_1483+sai:Saci_2141
+150;49;ornithine carbamoyltransferase [EC:2.1.3.3];argF;sai:Saci_1408;sai00220;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1408
+151;50;argininosuccinate synthase [EC:6.3.4.5];argG;sai:Saci_1617;sai00220;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1617
+152;52;argininosuccinate lyase [EC:4.3.2.1];argH;sai:Saci_1618;sai00220;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1618
+153;67;glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3];gdhA;sai:Saci_0155;sai00220;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0155
+154;88;aspartate aminotransferase [EC:2.6.1.1];aspB;sai:Saci_1428;sai00220;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1428
+155;100;glutamate--LysW ligase ArgX [EC:6.3.2.-];(GenBank);sai:Saci_1621;sai00220;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1621
+156;101;[amino group carrier protein]-L-2-aminoadipate 6-kinase [EC:2.7.2.17];(GenBank);sai:Saci_0751;sai00220;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0751
+157;102;LysW-gamma-L-alpha-aminoadipyl-6-phosphate/LysW-L-glutamyl-5-phosphate reductase [EC:1.2.1.103 1.2.1.-];argC;sai:Saci_0750;sai00220;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0750
+158;103;LysW-gamma-L-lysine/LysW-L-ornithine aminotransferase [EC:2.6.1.118 2.6.1.-];argD;sai:Saci_0755;sai00220;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0755
+159;104;[amino group carrier protein]-lysine/ornithine hydrolase [EC:3.5.1.130 3.5.1.132];(GenBank);sai:Saci_0756;sai00220;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0756
+160;137;ribonucleoside-diphosphate reductase beta chain [EC:1.17.4.1];(GenBank);sai:Saci_1112;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1112+sai:Saci_1353+sai:Saci_2188+sai:Saci_2212+sai:Saci_2220
+161;157;ribose-phosphate pyrophosphokinase [EC:2.7.6.1];(GenBank);sai:Saci_1282;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1282
+162;158;amidophosphoribosyltransferase [EC:2.4.2.14];purF-1;sai:Saci_1611;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1611+sai:Saci_1612
+163;160;phosphoribosylamine---glycine ligase [EC:6.3.4.13];purD;sai:Saci_1613;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1613
+164;161;phosphoribosylglycinamide formyltransferase 2 [EC:2.1.2.2];purT;sai:Saci_0214;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0214
+165;162;phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1];(GenBank);sai:Saci_1614;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1614
+166;164;adenylosuccinate lyase [EC:4.3.2.2];als;sai:Saci_0706;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0706
+167;165;phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:6.3.2.6];purC;sai:Saci_1607;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1607
+168;169;adenylate cyclase, class 2 [EC:4.6.1.1];(GenBank);sai:Saci_0718;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0718
+169;173;nucleoside-diphosphate kinase [EC:2.7.4.6];(GenBank);sai:Saci_0696;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0696
+170;174;nucleoside-diphosphate kinase [EC:2.7.4.6];(GenBank);sai:Saci_0696;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0696
+171;175;ribonucleoside-diphosphate reductase beta chain [EC:1.17.4.1];(GenBank);sai:Saci_1112;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1112+sai:Saci_1353+sai:Saci_2188+sai:Saci_2212+sai:Saci_2220
+172;177;adenylate kinase [EC:2.7.4.3];(GenBank);sai:Saci_0443;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0443+sai:Saci_0573
+173;178;adenylosuccinate lyase [EC:4.3.2.2];als;sai:Saci_0706;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0706
+174;179;adenylosuccinate synthase [EC:6.3.4.4];(GenBank);sai:Saci_0709;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0709
+175;194;purine nucleosidase [EC:3.2.2.1];(GenBank);sai:Saci_0047;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0047+sai:Saci_1187
+176;197;nucleoside-diphosphate kinase [EC:2.7.4.6];(GenBank);sai:Saci_0696;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0696
+177;201;GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2];(GenBank);sai:Saci_0414;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0414+sai:Saci_0548
+178;210;purine nucleosidase [EC:3.2.2.1];(GenBank);sai:Saci_0047;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0047+sai:Saci_1187
+179;225;ATP adenylyltransferase [EC:2.7.7.53];(GenBank);sai:Saci_0714;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0714
+180;229;exopolyphosphatase / guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase [EC:3.6.1.11 3.6.1.40];(GenBank);sai:Saci_2018;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2018
+181;230;exopolyphosphatase / guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase [EC:3.6.1.11 3.6.1.40];(GenBank);sai:Saci_2018;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2018
+182;232;nucleoside-diphosphate kinase [EC:2.7.4.6];(GenBank);sai:Saci_0696;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0696
+183;234;nucleoside-diphosphate kinase [EC:2.7.4.6];(GenBank);sai:Saci_0696;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0696
+184;244;sulfate adenylyltransferase [EC:2.7.7.4];sat;sai:Saci_2203;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2203
+185;252;phosphoribosylformylglycinamidine synthase subunit PurS [EC:6.3.5.3];(GenBank);sai:Saci_1608;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1608+sai:Saci_1610
+186;274;ADP-ribose pyrophosphatase [EC:3.6.1.13];nudF;sai:Saci_0013;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0013
+187;279;adenylate kinase [EC:2.7.4.3];(GenBank);sai:Saci_0443;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0443+sai:Saci_0573
+188;285;purine nucleosidase [EC:3.2.2.1];(GenBank);sai:Saci_0047;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0047+sai:Saci_1187
+189;287;nucleoside-diphosphate kinase [EC:2.7.4.6];(GenBank);sai:Saci_0696;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0696
+190;289;ATP adenylyltransferase [EC:2.7.7.53];(GenBank);sai:Saci_0714;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0714
+191;291;adenylate cyclase, class 2 [EC:4.6.1.1];(GenBank);sai:Saci_0718;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0718
+192;292;pyruvate kinase [EC:2.7.1.40];(GenBank);sai:Saci_1648;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1648
+193;293;pyruvate kinase [EC:2.7.1.40];(GenBank);sai:Saci_1648;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1648
+194;304;pyruvate kinase [EC:2.7.1.40];(GenBank);sai:Saci_1648;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1648
+195;305;pyruvate kinase [EC:2.7.1.40];(GenBank);sai:Saci_1648;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1648
+196;306;nucleoside-triphosphatase [EC:3.6.1.15];(GenBank);sai:Saci_0011;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0011
+197;407;5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase [EC:6.3.4.23];(GenBank);sai:Saci_0707;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0707+sai:Saci_0708
+198;411;purine nucleosidase [EC:3.2.2.1];(GenBank);sai:Saci_0047;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0047+sai:Saci_1187
+199;419;5-(carboxyamino)imidazole ribonucleotide synthase [EC:6.3.4.18];(GenBank);sai:Saci_1191;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1191
+200;420;5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18];purE;sai:Saci_1190;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1190
+201;423;phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2];(GenBank);sai:Saci_0806;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0806
+202;429;XTP/dITP diphosphohydrolase [EC:3.6.1.66];(GenBank);sai:Saci_0849;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0849
+203;430;XTP/dITP diphosphohydrolase [EC:3.6.1.66];(GenBank);sai:Saci_0849;sai00230;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0849
+204;81;ribonucleoside-diphosphate reductase beta chain [EC:1.17.4.1];(GenBank);sai:Saci_1112;sai00240;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1112+sai:Saci_1353+sai:Saci_2188+sai:Saci_2212+sai:Saci_2220
+205;84;uridylate kinase [EC:2.7.4.22];(GenBank);sai:Saci_1306;sai00240;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1306
+206;86;thymidylate synthase (FAD) [EC:2.1.1.148];thyX;sai:Saci_2347;sai00240;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2347
+207;88;carbamoyl-phosphate synthase small subunit [EC:6.3.5.5];pyrA;sai:Saci_1619;sai00240;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1619+sai:Saci_1620
+208;94;aspartate carbamoyltransferase regulatory subunit;pyrI;sai:Saci_1595;sai00240;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1595+sai:Saci_1596
+209;95;dihydroorotase [EC:3.5.2.3];pyrC;sai:Saci_1593;sai00240;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1593
+210;97;dihydroorotate dehydrogenase (fumarate) [EC:1.3.98.1];pyrD;sai:Saci_1592;sai00240;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1592
+211;98;orotate phosphoribosyltransferase [EC:2.4.2.10];pyrE;sai:Saci_1597;sai00240;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1597
+212;99;nucleoside-diphosphate kinase [EC:2.7.4.6];(GenBank);sai:Saci_0696;sai00240;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0696
+213;101;dCTP deaminase [EC:3.5.4.13];(GenBank);sai:Saci_0789;sai00240;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0789+sai:Saci_1672
+214;102;CTP synthase [EC:6.3.4.2];pyrG;sai:Saci_0801;sai00240;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0801
+215;107;uracil phosphoribosyltransferase [EC:2.4.2.9];(GenBank);sai:Saci_0699;sai00240;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0699
+216;115;beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase [EC:3.5.1.6 3.5.1.87];amaB;sai:Saci_2132;sai00240;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2132
+217;117;nucleoside-diphosphate kinase [EC:2.7.4.6];(GenBank);sai:Saci_0696;sai00240;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0696
+218;123;cytosine/creatinine deaminase [EC:3.5.4.1 3.5.4.21];(GenBank);sai:Saci_1072;sai00240;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1072
+219;131;ribonucleoside-diphosphate reductase beta chain [EC:1.17.4.1];(GenBank);sai:Saci_1112;sai00240;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1112+sai:Saci_1353+sai:Saci_2188+sai:Saci_2212+sai:Saci_2220
+220;132;nucleoside-diphosphate kinase [EC:2.7.4.6];(GenBank);sai:Saci_0696;sai00240;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0696
+221;133;dCTP deaminase [EC:3.5.4.13];(GenBank);sai:Saci_0789;sai00240;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0789+sai:Saci_1672
+222;140;nucleoside-diphosphate kinase [EC:2.7.4.6];(GenBank);sai:Saci_0696;sai00240;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0696
+223;142;dTMP kinase [EC:2.7.4.9];(GenBank);sai:Saci_0893;sai00240;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0893+sai:Saci_2019+sai:Saci_2020
+224;149;nucleoside-diphosphate kinase [EC:2.7.4.6];(GenBank);sai:Saci_0696;sai00240;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0696
+225;152;dTMP kinase [EC:2.7.4.9];(GenBank);sai:Saci_0893;sai00240;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0893+sai:Saci_2019+sai:Saci_2020
+226;158;cytosine/creatinine deaminase [EC:3.5.4.1 3.5.4.21];(GenBank);sai:Saci_1072;sai00240;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1072
+227;164;beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase [EC:3.5.1.6 3.5.1.87];amaB;sai:Saci_2132;sai00240;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2132
+228;169;orotidine-5'-phosphate decarboxylase [EC:4.1.1.23];pyrF;sai:Saci_1598;sai00240;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1598
+229;274;nucleoside-diphosphate kinase [EC:2.7.4.6];(GenBank);sai:Saci_0696;sai00240;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0696
+230;289;CMP/dCMP kinase [EC:2.7.4.25];(GenBank);sai:Saci_0570;sai00240;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0570
+231;290;CMP/dCMP kinase [EC:2.7.4.25];(GenBank);sai:Saci_0570;sai00240;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0570
+232;38;L-asparaginase / beta-aspartyl-peptidase [EC:3.5.1.1 3.4.19.5];(GenBank);sai:Saci_0402;sai00250;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0402
+233;48;L-aspartate oxidase [EC:1.4.3.16];nadB;sai:Saci_0549;sai00250;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0549
+234;49;aspartate aminotransferase [EC:2.6.1.1];aspB;sai:Saci_1428;sai00250;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1428
+235;55;argininosuccinate synthase [EC:6.3.4.5];argG;sai:Saci_1617;sai00250;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1617
+236;56;adenylosuccinate synthase [EC:6.3.4.4];(GenBank);sai:Saci_0709;sai00250;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0709
+237;58;argininosuccinate lyase [EC:4.3.2.1];argH;sai:Saci_1618;sai00250;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1618
+238;59;adenylosuccinate lyase [EC:4.3.2.2];als;sai:Saci_0706;sai00250;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0706
+239;66;alanine dehydrogenase [EC:1.4.1.1];(GenBank);sai:Saci_2372;sai00250;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2372
+240;71;aspartate carbamoyltransferase regulatory subunit;pyrI;sai:Saci_1595;sai00250;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1595+sai:Saci_1596
+241;93;glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3];gdhA;sai:Saci_0155;sai00250;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0155
+242;97;4-aminobutyrate aminotransferase [EC:2.6.1.19];(GenBank);sai:Saci_1028;sai00250;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1028
+243;102;glutamine synthetase [EC:6.3.1.2];glnA;sai:Saci_0558;sai00250;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0558+sai:Saci_1483+sai:Saci_2141
+244;110;carbamoyl-phosphate synthase small subunit [EC:6.3.5.5];pyrA;sai:Saci_1619;sai00250;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1619+sai:Saci_1620
+245;121;1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88];(GenBank);sai:Saci_0166;sai00250;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0166
+246;123;glutamine---fructose-6-phosphate transaminase (isomerizing) [EC:2.6.1.16];glmS;sai:Saci_2364;sai00250;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2364
+247;125;amidophosphoribosyltransferase [EC:2.4.2.14];purF-1;sai:Saci_1611;sai00250;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1611+sai:Saci_1612
+248;70;betaine-aldehyde dehydrogenase [EC:1.2.1.8];(GenBank);sai:Saci_1099;sai00260;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1099
+249;80;D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase [EC:1.1.1.95 1.1.1.399];(GenBank);sai:Saci_0247;sai00260;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0247+sai:Saci_1368
+250;86;aspartate kinase [EC:2.7.2.4];(GenBank);sai:Saci_1412;sai00260;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1412
+251;92;glycine hydroxymethyltransferase [EC:2.1.2.1];glyA;sai:Saci_1358;sai00260;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1358
+252;93;threonine dehydratase [EC:4.3.1.19];(GenBank);sai:Saci_0713;sai00260;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0713
+253;97;threonine synthase [EC:4.2.3.1];(GenBank);sai:Saci_1023;sai00260;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1023+sai:Saci_1413
+254;103;aspartate-semialdehyde dehydrogenase [EC:1.2.1.11];asd;sai:Saci_1411;sai00260;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1411
+255;109;homoserine kinase [EC:2.7.1.39];(GenBank);sai:Saci_0972;sai00260;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0972
+256;111;glycine dehydrogenase subunit 2 [EC:1.4.4.2];gcvP;sai:Saci_1381;sai00260;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1381+sai:Saci_1382
+257;113;homoserine dehydrogenase [EC:1.1.1.3];hdh;sai:Saci_1636;sai00260;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1636
+258;117;primary-amine oxidase [EC:1.4.3.21];tynA;sai:Saci_2182;sai00260;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2182
+259;120;aminomethyltransferase [EC:2.1.2.10];gcsT;sai:Saci_1383;sai00260;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1383
+260;123;dihydrolipoamide dehydrogenase [EC:1.8.1.4];lpdV;sai:Saci_0136;sai00260;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0136+sai:Saci_0338
+261;126;threonine dehydratase [EC:4.3.1.19];(GenBank);sai:Saci_0713;sai00260;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0713
+262;199;tryptophan synthase beta chain [EC:4.2.1.20];trpB1;sai:Saci_1421;sai00260;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1421+sai:Saci_1422
+263;216;glycerate 2-kinase [EC:2.7.1.165];(GenBank);sai:Saci_0113;sai00260;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0113
+264;227;probable phosphoglycerate mutase [EC:5.4.2.12];(GenBank);sai:Saci_0043;sai00260;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0043+sai:Saci_0837
+265;228;glycine cleavage system H protein;gcs2;sai:Saci_0350;sai00260;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0350+sai:Saci_1384
+266;62;aspartate kinase [EC:2.7.2.4];(GenBank);sai:Saci_1412;sai00261;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1412
+267;63;aspartate-semialdehyde dehydrogenase [EC:1.2.1.11];asd;sai:Saci_1411;sai00261;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1411
+268;97;4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7];(GenBank);sai:Saci_0162;sai00261;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0162
+269;101;sulfate adenylyltransferase [EC:2.7.7.4];sat;sai:Saci_2203;sai00261;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2203
+270;86;5'-methylthioadenosine phosphorylase [EC:2.4.2.28];(GenBank);sai:Saci_0997;sai00270;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0997+sai:Saci_1247
+271;89;spermidine synthase [EC:2.5.1.16];(GenBank);sai:Saci_0643;sai00270;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0643
+272;90;S-adenosylmethionine decarboxylase [EC:4.1.1.50];sph1;sai:Saci_1363;sai00270;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1363+sai:Saci_1568
+273;99;5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14];(GenBank);sai:Saci_0827;sai00270;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0827+sai:Saci_0828
+274;101;S-adenosylmethionine synthetase [EC:2.5.1.6];matT;sai:Saci_0798;sai00270;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0798
+275;102;adenosylhomocysteinase [EC:3.3.1.1];ahcY;sai:Saci_0646;sai00270;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0646
+276;103;DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37];(GenBank);sai:Saci_0651;sai00270;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0651
+277;110;cystathionine gamma-synthase [EC:2.5.1.48];(GenBank);sai:Saci_0971;sai00270;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0971
+278;132;cysteine synthase [EC:2.5.1.47];cysM;sai:Saci_1475;sai00270;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1475
+279;158;aspartate aminotransferase [EC:2.6.1.1];aspB;sai:Saci_1428;sai00270;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1428
+280;185;aspartate aminotransferase [EC:2.6.1.1];aspB;sai:Saci_1428;sai00270;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1428
+281;198;thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2];(GenBank);sai:Saci_2198;sai00270;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2198
+282;199;aspartate aminotransferase [EC:2.6.1.1];aspB;sai:Saci_1428;sai00270;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1428
+283;212;cystathionine gamma-synthase [EC:2.5.1.48];(GenBank);sai:Saci_0971;sai00270;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0971
+284;213;cystathionine gamma-synthase [EC:2.5.1.48];(GenBank);sai:Saci_0971;sai00270;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0971
+285;214;cystathionine gamma-synthase [EC:2.5.1.48];(GenBank);sai:Saci_0971;sai00270;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0971
+286;217;cystathionine gamma-synthase [EC:2.5.1.48];(GenBank);sai:Saci_0971;sai00270;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0971
+287;224;homoserine dehydrogenase [EC:1.1.1.3];hdh;sai:Saci_1636;sai00270;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1636
+288;227;aspartate-semialdehyde dehydrogenase [EC:1.2.1.11];asd;sai:Saci_1411;sai00270;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1411
+289;230;aspartate kinase [EC:2.7.2.4];(GenBank);sai:Saci_1412;sai00270;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1412
+290;253;malate dehydrogenase [EC:1.1.1.37];(GenBank);sai:Saci_0246;sai00270;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0246
+291;290;D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase [EC:1.1.1.95 1.1.1.399];(GenBank);sai:Saci_0247;sai00270;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0247+sai:Saci_1368
+292;295;cysteine synthase [EC:2.5.1.47];cysM;sai:Saci_1475;sai00270;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1475
+293;54;dihydrolipoamide dehydrogenase [EC:1.8.1.4];lpdV;sai:Saci_0136;sai00280;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0136+sai:Saci_0338
+294;62;dihydrolipoamide dehydrogenase [EC:1.8.1.4];lpdV;sai:Saci_0136;sai00280;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0136+sai:Saci_0338
+295;68;dihydrolipoamide dehydrogenase [EC:1.8.1.4];lpdV;sai:Saci_0136;sai00280;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0136+sai:Saci_0338
+296;72;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(GenBank);sai:Saci_0963;sai00280;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0963+sai:Saci_1114+sai:Saci_1121+sai:Saci_1361+sai:Saci_2209+sai:Saci_2232+sai:Saci_2233+sai:Saci_2288
+297;75;hydroxymethylglutaryl-CoA synthase [EC:2.3.3.10];(GenBank);sai:Saci_1362;sai00280;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1362
+298;86;acetyl-CoA acyltransferase [EC:2.3.1.16];(GenBank);sai:Saci_1728;sai00280;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1728
+299;94;methylmalonyl-CoA mutase, C-terminal domain [EC:5.4.99.2];(GenBank);sai:Saci_0062;sai00280;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0062+sai:Saci_0924
+300;95;methylmalonyl-CoA/ethylmalonyl-CoA epimerase [EC:5.1.99.1];(GenBank);sai:Saci_0923;sai00280;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0923
+301;96;acetyl-CoA/propionyl-CoA carboxylase [EC:6.4.1.2 6.4.1.3];pycA;sai:Saci_0260;sai00280;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0260+sai:Saci_0261+sai:Saci_0262
+302;98;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);sai:Saci_1857;sai00280;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1857
+303;102;3-hydroxyisobutyrate dehydrogenase [EC:1.1.1.31];(GenBank);sai:Saci_0385;sai00280;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0385
+304;21;acetyl-CoA acyltransferase [EC:2.3.1.16];(GenBank);sai:Saci_1728;sai00281;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1728
+305;42;acetyl-CoA acyltransferase [EC:2.3.1.16];(GenBank);sai:Saci_1728;sai00281;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1728
+306;22;3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35];leuD;sai:Saci_0252;sai00290;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0252+sai:Saci_0253
+307;23;3-isopropylmalate dehydrogenase [EC:1.1.1.85];leuB;sai:Saci_0600;sai00290;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0600
+308;24;threonine dehydratase [EC:4.3.1.19];(GenBank);sai:Saci_0713;sai00290;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0713
+309;35;ketol-acid reductoisomerase [EC:1.1.1.86];(GenBank);sai:Saci_1559;sai00290;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1559
+310;36;3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35];leuD;sai:Saci_0252;sai00290;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0252+sai:Saci_0253
+311;37;3-isopropylmalate dehydrogenase [EC:1.1.1.85];leuB;sai:Saci_0600;sai00290;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0600
+312;38;3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35];leuD;sai:Saci_0252;sai00290;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0252+sai:Saci_0253
+313;39;2-isopropylmalate synthase [EC:2.3.3.13];(GenBank);sai:Saci_0940;sai00290;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0940+sai:Saci_1304+sai:Saci_2325
+314;42;dihydroxy-acid dehydratase [EC:4.2.1.9];(GenBank);sai:Saci_1715;sai00290;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1715
+315;43;ketol-acid reductoisomerase [EC:1.1.1.86];(GenBank);sai:Saci_1559;sai00290;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1559
+316;45;ketol-acid reductoisomerase [EC:1.1.1.86];(GenBank);sai:Saci_1559;sai00290;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1559
+317;46;dihydroxy-acid dehydratase [EC:4.2.1.9];(GenBank);sai:Saci_1715;sai00290;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1715
+318;47;ketol-acid reductoisomerase [EC:1.1.1.86];(GenBank);sai:Saci_1559;sai00290;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1559
+319;48;acetolactate synthase I/II/III large subunit [EC:2.2.1.6];(GenBank);sai:Saci_1137;sai00290;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1137+sai:Saci_1561
+320;85;3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35];leuD;sai:Saci_0252;sai00290;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0252+sai:Saci_0253
+321;86;acetolactate synthase I/II/III large subunit [EC:2.2.1.6];(GenBank);sai:Saci_1137;sai00290;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1137+sai:Saci_1561
+322;45;[amino group carrier protein]-lysine/ornithine hydrolase [EC:3.5.1.130 3.5.1.132];(GenBank);sai:Saci_0756;sai00300;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0756
+323;46;LysW-gamma-L-lysine/LysW-L-ornithine aminotransferase [EC:2.6.1.118 2.6.1.-];argD;sai:Saci_0755;sai00300;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0755
+324;47;LysW-gamma-L-alpha-aminoadipyl-6-phosphate/LysW-L-glutamyl-5-phosphate reductase [EC:1.2.1.103 1.2.1.-];argC;sai:Saci_0750;sai00300;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0750
+325;48;[amino group carrier protein]-L-2-aminoadipate 6-kinase [EC:2.7.2.17];(GenBank);sai:Saci_0751;sai00300;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0751
+326;49;[lysine-biosynthesis-protein LysW]---L-2-aminoadipate ligase [EC:6.3.2.43];(GenBank);sai:Saci_0754;sai00300;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0754
+327;55;aspartate kinase [EC:2.7.2.4];(GenBank);sai:Saci_1412;sai00300;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1412
+328;56;aspartate-semialdehyde dehydrogenase [EC:1.2.1.11];asd;sai:Saci_1411;sai00300;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1411
+329;57;homoserine dehydrogenase [EC:1.1.1.3];hdh;sai:Saci_1636;sai00300;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1636
+330;58;4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7];(GenBank);sai:Saci_0162;sai00300;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0162
+331;66;succinyl-diaminopimelate desuccinylase [EC:3.5.1.18];dapE;sai:Saci_1645;sai00300;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1645+sai:Saci_2131
+332;73;2-aminoadipate transaminase [EC:2.6.1.-];(GenBank);sai:Saci_1507;sai00300;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1507
+333;90;dihydrolipoamide dehydrogenase [EC:1.8.1.4];lpdV;sai:Saci_0136;sai00310;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0136+sai:Saci_0338
+334;91;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(GenBank);sai:Saci_0963;sai00310;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0963+sai:Saci_1114+sai:Saci_1121+sai:Saci_1361+sai:Saci_2209+sai:Saci_2232+sai:Saci_2233+sai:Saci_2288
+335;151;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);sai:Saci_1857;sai00310;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1857
+336;66;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);sai:Saci_1857;sai00330;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1857
+337;67;spermidine synthase [EC:2.5.1.16];(GenBank);sai:Saci_0643;sai00330;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0643
+338;68;S-adenosylmethionine decarboxylase [EC:4.1.1.50];sph1;sai:Saci_1363;sai00330;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1363+sai:Saci_1568
+339;73;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);sai:Saci_1857;sai00330;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1857
+340;103;N-methylhydantoinase B [EC:3.5.2.14];oplA;sai:Saci_0368;sai00330;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0368+sai:Saci_0369+sai:Saci_2041+sai:Saci_2042
+341;104;cytosine/creatinine deaminase [EC:3.5.4.1 3.5.4.21];(GenBank);sai:Saci_1072;sai00330;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1072
+342;127;agmatinase [EC:3.5.3.11];(GenBank);sai:Saci_0863;sai00330;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0863+sai:Saci_2134
+343;175;1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88];(GenBank);sai:Saci_0166;sai00330;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0166
+344;181;1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88];(GenBank);sai:Saci_0166;sai00330;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0166
+345;207;1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88];(GenBank);sai:Saci_0166;sai00330;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0166
+346;208;1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88];(GenBank);sai:Saci_0166;sai00330;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0166
+347;209;aspartate aminotransferase [EC:2.6.1.1];aspB;sai:Saci_1428;sai00330;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1428
+348;233;proline iminopeptidase [EC:3.4.11.5];pip;sai:Saci_1940;sai00330;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1940+sai:Saci_1942
+349;53;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);sai:Saci_1857;sai00340;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1857
+350;59;ATP phosphoribosyltransferase [EC:2.4.2.17];hisG;sai:Saci_1575;sai00340;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1575
+351;60;histidinol dehydrogenase [EC:1.1.1.23];(GenBank);sai:Saci_1579;sai00340;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1579
+352;61;histidinol dehydrogenase [EC:1.1.1.23];(GenBank);sai:Saci_1579;sai00340;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1579
+353;63;histidinol-phosphate aminotransferase [EC:2.6.1.9];(GenBank);sai:Saci_0454;sai00340;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0454+sai:Saci_1574
+354;64;imidazoleglycerol-phosphate dehydratase [EC:4.2.1.19];hisB;sai:Saci_1577;sai00340;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1577
+355;66;phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase [EC:5.3.1.16];hisA;sai:Saci_1576;sai00340;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1576
+356;67;phosphoribosyl-AMP cyclohydrolase [EC:3.5.4.19];hisI;sai:Saci_1582;sai00340;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1582
+357;68;phosphoribosyl-ATP pyrophosphohydrolase [EC:3.6.1.31];(GenBank);sai:Saci_1580;sai00340;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1580
+358;70;imidazole glycerol-phosphate synthase subunit HisF [EC:4.3.2.10];hisF;sai:Saci_1578;sai00340;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1578+sai:Saci_1581
+359;65;4-hydroxyphenylacetate 3-monooxygenase [EC:1.14.14.9];hpaA;sai:Saci_2294;sai00350;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2294
+360;66;aspartate aminotransferase [EC:2.6.1.1];aspB;sai:Saci_1428;sai00350;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1428
+361;84;4-hydroxyphenylacetate 3-monooxygenase [EC:1.14.14.9];hpaA;sai:Saci_2294;sai00350;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2294
+362;96;primary-amine oxidase [EC:1.4.3.21];tynA;sai:Saci_2182;sai00350;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2182
+363;104;histidinol-phosphate aminotransferase [EC:2.6.1.9];(GenBank);sai:Saci_0454;sai00350;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0454+sai:Saci_1574
+364;205;alcohol dehydrogenase [EC:1.1.1.1];adh;sai:Saci_1115;sai00350;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1115+sai:Saci_2057+sai:Saci_2126+sai:Saci_2205+sai:Saci_2224
+365;229;primary-amine oxidase [EC:1.4.3.21];tynA;sai:Saci_2182;sai00350;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2182
+366;96;phenylacetate-CoA ligase [EC:6.2.1.30];paaK;sai:Saci_2290;sai00360;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2290
+367;108;primary-amine oxidase [EC:1.4.3.21];tynA;sai:Saci_2182;sai00360;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2182
+368;115;histidinol-phosphate aminotransferase [EC:2.6.1.9];(GenBank);sai:Saci_0454;sai00360;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0454+sai:Saci_1574
+369;117;aspartate aminotransferase [EC:2.6.1.1];aspB;sai:Saci_1428;sai00360;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1428
+370;130;3-phenylpropionate/trans-cinnamate dioxygenase subunit alpha [EC:1.14.12.19];(GenBank);sai:Saci_2059;sai00360;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2059
+371;135;3-phenylpropionate/trans-cinnamate dioxygenase subunit alpha [EC:1.14.12.19];(GenBank);sai:Saci_2059;sai00360;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2059
+372;227;3-hydroxybutyryl-CoA dehydrogenase [EC:1.1.1.157];(GenBank);sai:Saci_1078;sai00360;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1078
+373;231;acyl-CoA thioesterase [EC:3.1.2.-];(GenBank);sai:Saci_2289;sai00360;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2289
+374;62;carboxymethylenebutenolidase [EC:3.1.1.45];(GenBank);sai:Saci_1718;sai00361;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1718
+375;113;2-haloacid dehalogenase [EC:3.8.1.2];(GenBank);sai:Saci_0302;sai00361;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0302
+376;114;maleylacetate reductase [EC:1.3.1.32];(GenBank);sai:Saci_1087;sai00361;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1087
+377;115;carboxymethylenebutenolidase [EC:3.1.1.45];(GenBank);sai:Saci_1718;sai00361;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1718
+378;151;carboxymethylenebutenolidase [EC:3.1.1.45];(GenBank);sai:Saci_1718;sai00361;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1718
+379;169;carboxymethylenebutenolidase [EC:3.1.1.45];(GenBank);sai:Saci_1718;sai00361;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1718
+380;171;maleylacetate reductase [EC:1.3.1.32];(GenBank);sai:Saci_1087;sai00361;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1087
+381;186;catechol 2,3-dioxygenase [EC:1.13.11.2];xylE;sai:Saci_2295;sai00361;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2295
+382;198;carboxymethylenebutenolidase [EC:3.1.1.45];(GenBank);sai:Saci_1718;sai00361;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1718
+383;229;maleylacetate reductase [EC:1.3.1.32];(GenBank);sai:Saci_1087;sai00361;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1087
+384;231;carboxymethylenebutenolidase [EC:3.1.1.45];(GenBank);sai:Saci_1718;sai00361;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1718
+385;62;maleylacetate reductase [EC:1.3.1.32];(GenBank);sai:Saci_1087;sai00362;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1087
+386;66;4-carboxymuconolactone decarboxylase [EC:4.1.1.44];(GenBank);sai:Saci_1814;sai00362;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1814
+387;95;acetyl-CoA acyltransferase [EC:2.3.1.16];(GenBank);sai:Saci_1728;sai00362;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1728
+388;129;3-hydroxybutyryl-CoA dehydrogenase [EC:1.1.1.157];(GenBank);sai:Saci_1078;sai00362;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1078
+389;132;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(GenBank);sai:Saci_0963;sai00362;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0963+sai:Saci_1114+sai:Saci_1121+sai:Saci_1361+sai:Saci_2209+sai:Saci_2232+sai:Saci_2233+sai:Saci_2288
+390;150;acetyl-CoA acyltransferase [EC:2.3.1.16];(GenBank);sai:Saci_1728;sai00362;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1728
+391;186;catechol 2,3-dioxygenase [EC:1.13.11.2];xylE;sai:Saci_2295;sai00362;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2295
+392;208;catechol 2,3-dioxygenase [EC:1.13.11.2];xylE;sai:Saci_2295;sai00362;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2295
+393;32;carboxymethylenebutenolidase [EC:3.1.1.45];(GenBank);sai:Saci_1718;sai00364;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1718
+394;33;carboxymethylenebutenolidase [EC:3.1.1.45];(GenBank);sai:Saci_1718;sai00364;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1718
+395;86;maleylacetate reductase [EC:1.3.1.32];(GenBank);sai:Saci_1087;sai00364;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1087
+396;101;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(GenBank);sai:Saci_0963;sai00380;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0963+sai:Saci_1114+sai:Saci_1121+sai:Saci_1361+sai:Saci_2209+sai:Saci_2232+sai:Saci_2233+sai:Saci_2288
+397;104;dihydrolipoamide dehydrogenase [EC:1.8.1.4];lpdV;sai:Saci_0136;sai00380;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0136+sai:Saci_0338
+398;131;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);sai:Saci_1857;sai00380;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1857
+399;138;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);sai:Saci_1857;sai00380;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1857
+400;11;3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54];aroA;sai:Saci_0183;sai00400;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0183
+401;51;chorismate synthase [EC:4.2.3.5];aroC;sai:Saci_0186;sai00400;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0186
+402;52;tryptophan synthase beta chain [EC:4.2.1.20];trpB1;sai:Saci_1421;sai00400;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1421+sai:Saci_1422
+403;53;tryptophan synthase alpha chain [EC:4.2.1.20];(GenBank);sai:Saci_1422;sai00400;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1422
+404;54;tryptophan synthase beta chain [EC:4.2.1.20];trpB1;sai:Saci_1421;sai00400;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1421
+405;55;indole-3-glycerol phosphate synthase [EC:4.1.1.48];trpC;sai:Saci_1427;sai00400;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1427
+406;56;phosphoribosylanthranilate isomerase [EC:5.3.1.24];trpF;sai:Saci_1424;sai00400;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1424
+407;57;anthranilate phosphoribosyltransferase [EC:2.4.2.18];trpD;sai:Saci_1423;sai00400;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1423
+408;58;anthranilate synthase component I [EC:4.1.3.27];trpE;sai:Saci_1425;sai00400;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1425+sai:Saci_1426
+409;59;chorismate mutase / prephenate dehydrogenase [EC:5.4.99.5 1.3.1.12];(GenBank);sai:Saci_0182;sai00400;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0182
+410;60;cyclohexadienyl dehydratase [EC:4.2.1.51 4.2.1.91];(GenBank);sai:Saci_0712;sai00400;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0712
+411;61;cyclohexadienyl dehydratase [EC:4.2.1.51 4.2.1.91];(GenBank);sai:Saci_0712;sai00400;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0712
+412;67;cyclohexadienyl dehydratase [EC:4.2.1.51 4.2.1.91];(GenBank);sai:Saci_0712;sai00400;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0712
+413;68;cyclohexadienyl dehydratase [EC:4.2.1.51 4.2.1.91];(GenBank);sai:Saci_0712;sai00400;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0712
+414;70;chorismate mutase / prephenate dehydrogenase [EC:5.4.99.5 1.3.1.12];(GenBank);sai:Saci_0182;sai00400;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0182
+415;75;3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19];aroA;sai:Saci_0188;sai00400;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0188
+416;76;shikimate kinase [EC:2.7.1.71];aroK;sai:Saci_0187;sai00400;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0187
+417;77;shikimate dehydrogenase [EC:1.1.1.25];aroE;sai:Saci_0185;sai00400;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0185
+418;78;3-dehydroquinate dehydratase I [EC:4.2.1.10];aroD;sai:Saci_0189;sai00400;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0189
+419;80;3-dehydroquinate synthase [EC:4.2.3.4];aroB;sai:Saci_0184;sai00400;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0184
+420;83;aspartate aminotransferase [EC:2.6.1.1];aspB;sai:Saci_1428;sai00400;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1428
+421;84;aspartate aminotransferase [EC:2.6.1.1];aspB;sai:Saci_1428;sai00400;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1428
+422;89;histidinol-phosphate aminotransferase [EC:2.6.1.9];(GenBank);sai:Saci_0454;sai00400;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0454+sai:Saci_1574
+423;90;histidinol-phosphate aminotransferase [EC:2.6.1.9];(GenBank);sai:Saci_0454;sai00400;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0454+sai:Saci_1574
+424;67;histidinol-phosphate aminotransferase [EC:2.6.1.9];(GenBank);sai:Saci_0454;sai00401;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0454+sai:Saci_1574
+425;69;chorismate mutase / prephenate dehydrogenase [EC:5.4.99.5 1.3.1.12];(GenBank);sai:Saci_0182;sai00401;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0182
+426;70;aspartate aminotransferase [EC:2.6.1.1];aspB;sai:Saci_1428;sai00401;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1428
+427;52;taurine---2-oxoglutarate transaminase [EC:2.6.1.55];(GenBank);sai:Saci_2137;sai00410;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2137
+428;53;4-aminobutyrate aminotransferase [EC:2.6.1.19];(GenBank);sai:Saci_1028;sai00410;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1028
+429;64;primary-amine oxidase [EC:1.4.3.21];tynA;sai:Saci_2182;sai00410;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2182
+430;65;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);sai:Saci_1857;sai00410;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1857
+431;132;4-phosphopantoate---beta-alanine ligase [EC:6.3.2.36];(GenBank);sai:Saci_0949;sai00410;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0949
+432;30;alanine dehydrogenase [EC:1.4.1.1];(GenBank);sai:Saci_2372;sai00430;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2372
+433;56;gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13];(GenBank);sai:Saci_0425;sai00430;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0425
+434;79;taurine---2-oxoglutarate transaminase [EC:2.6.1.55];(GenBank);sai:Saci_2137;sai00430;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2137
+435;11;thioredoxin reductase (NADPH) [EC:1.8.1.9];trxR;sai:Saci_0931;sai00450;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0931+sai:Saci_1169
+436;15;methionyl-tRNA synthetase [EC:6.1.1.10];(GenBank);sai:Saci_1544;sai00450;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1544
+437;59;cystathionine gamma-synthase [EC:2.5.1.48];(GenBank);sai:Saci_0971;sai00450;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0971
+438;72;sulfate adenylyltransferase [EC:2.7.7.4];sat;sai:Saci_2203;sai00450;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2203
+439;82;5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14];(GenBank);sai:Saci_0827;sai00450;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0827+sai:Saci_0828
+440;89;thioredoxin reductase (NADPH) [EC:1.8.1.9];trxR;sai:Saci_0931;sai00450;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0931+sai:Saci_1169
+441;41;gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13];(GenBank);sai:Saci_0425;sai00460;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0425
+442;44;L-asparaginase / beta-aspartyl-peptidase [EC:3.5.1.1 3.4.19.5];(GenBank);sai:Saci_0402;sai00460;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0402
+443;46;gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13];(GenBank);sai:Saci_0425;sai00460;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0425
+444;50;glycine hydroxymethyltransferase [EC:2.1.2.1];glyA;sai:Saci_1358;sai00460;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1358
+445;38;gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13];(GenBank);sai:Saci_0425;sai00480;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0425
+446;51;isocitrate dehydrogenase [EC:1.1.1.42];icd;sai:Saci_2375;sai00480;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2375
+447;54;gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13];(GenBank);sai:Saci_0425;sai00480;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0425
+448;58;gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13];(GenBank);sai:Saci_0425;sai00480;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0425
+449;147;spermidine synthase [EC:2.5.1.16];(GenBank);sai:Saci_0643;sai00480;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0643
+450;155;spermidine synthase [EC:2.5.1.16];(GenBank);sai:Saci_0643;sai00480;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0643
+451;90;alpha-glucosidase [EC:3.2.1.20];malA;sai:Saci_1160;sai00500;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1160
+452;114;phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2];(GenBank);sai:Saci_0806;sai00500;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0806
+453;119;glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8];(GenBank);sai:Saci_0151;sai00500;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0151
+454;126;beta-phosphoglucomutase [EC:5.4.2.6];pgmB;sai:Saci_0094;sai00500;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0094
+455;130;alpha-amylase [EC:3.2.1.1];(GenBank);sai:Saci_1200;sai00500;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1200
+456;132;alpha-glucosidase [EC:3.2.1.20];malA;sai:Saci_1160;sai00500;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1160
+457;133;glycogen phosphorylase [EC:2.4.1.1];(GenBank);sai:Saci_0294;sai00500;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0294
+458;137;starch synthase [EC:2.4.1.21];(GenBank);sai:Saci_1201;sai00500;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1201
+459;197;trehalose synthase [EC:2.4.1.245];(GenBank);sai:Saci_1827;sai00500;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1827
+460;203;isoamylase [EC:3.2.1.68];(GenBank);sai:Saci_1439;sai00500;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1439
+461;205;maltooligosyltrehalose trehalohydrolase [EC:3.2.1.141];treZ;sai:Saci_1440;sai00500;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1440
+462;216;trehalose synthase [EC:2.4.1.245];(GenBank);sai:Saci_1827;sai00500;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1827
+463;238;alpha-amylase [EC:3.2.1.1];(GenBank);sai:Saci_1200;sai00500;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1200
+464;4;beta-galactosidase [EC:3.2.1.23];bgaS;sai:Saci_1849;sai00511;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1849
+465;12;beta-galactosidase [EC:3.2.1.23];bgaS;sai:Saci_1849;sai00511;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1849
+466;20;beta-galactosidase [EC:3.2.1.23];bgaS;sai:Saci_1849;sai00511;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1849
+467;26;beta-galactosidase [EC:3.2.1.23];bgaS;sai:Saci_1849;sai00511;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1849
+468;30;glutamine---fructose-6-phosphate transaminase (isomerizing) [EC:2.6.1.16];glmS;sai:Saci_2364;sai00520;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2364
+469;194;UDP-glucose 4-epimerase [EC:5.1.3.2];(GenBank);sai:Saci_0761;sai00520;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0761
+470;201;glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8];(GenBank);sai:Saci_0151;sai00520;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0151
+471;202;phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2];(GenBank);sai:Saci_0806;sai00520;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0806
+472;204;phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2];(GenBank);sai:Saci_0806;sai00520;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0806
+473;211;mannose-1-phosphate guanylyltransferase [EC:2.7.7.13];mpg1;sai:Saci_0196;sai00520;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0196
+474;229;UDP-sulfoquinovose synthase [EC:3.13.1.1];(GenBank);sai:Saci_0423;sai00520;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0423
+475;247;phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2];(GenBank);sai:Saci_0806;sai00520;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0806
+476;282;glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8];(GenBank);sai:Saci_0151;sai00520;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0151
+477;21;myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25];(GenBank);sai:Saci_0930;sai00521;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0930
+478;22;myo-inositol-1-phosphate synthase [EC:5.5.1.4];(GenBank);sai:Saci_1419;sai00521;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1419+sai:Saci_2337
+479;24;dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133];(GenBank);sai:Saci_1705;sai00521;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1705+sai:Saci_2310
+480;42;dTDP-4-dehydrorhamnose 3,5-epimerase [EC:5.1.3.13];(GenBank);sai:Saci_1706;sai00521;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1706
+481;43;dTDP-glucose 4,6-dehydratase [EC:4.2.1.46];(GenBank);sai:Saci_1704;sai00521;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1704
+482;44;UDP-N-acetylglucosamine diphosphorylase / glucose-1-phosphate thymidylyltransferase / UDP-N-acetylgalactosamine diphosphorylase / glucosamine-1-phosphate N-acetyltransferase / galactosamine-1-phosphate N-acetyltransferase [EC:2.7.7.23 2.7.7.24 2.7.7.83 2.3.1.157 2.3.1.276];(GenBank);sai:Saci_0619;sai00521;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0619+sai:Saci_1703+sai:Saci_2366
+483;45;phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2];(GenBank);sai:Saci_0806;sai00521;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0806
+484;26;dTDP-glucose 4,6-dehydratase [EC:4.2.1.46];(GenBank);sai:Saci_1704;sai00523;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1704
+485;27;UDP-N-acetylglucosamine diphosphorylase / glucose-1-phosphate thymidylyltransferase / UDP-N-acetylgalactosamine diphosphorylase / glucosamine-1-phosphate N-acetyltransferase / galactosamine-1-phosphate N-acetyltransferase [EC:2.7.7.23 2.7.7.24 2.7.7.83 2.3.1.157 2.3.1.276];(GenBank);sai:Saci_0619;sai00523;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0619+sai:Saci_1703+sai:Saci_2366
+486;28;dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133];(GenBank);sai:Saci_1705;sai00523;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1705+sai:Saci_2310
+487;63;dTDP-4-dehydrorhamnose 3,5-epimerase [EC:5.1.3.13];(GenBank);sai:Saci_1706;sai00523;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1706
+488;58;UDP-N-acetylglucosamine diphosphorylase / glucose-1-phosphate thymidylyltransferase / UDP-N-acetylgalactosamine diphosphorylase / glucosamine-1-phosphate N-acetyltransferase / galactosamine-1-phosphate N-acetyltransferase [EC:2.7.7.23 2.7.7.24 2.7.7.83 2.3.1.157 2.3.1.276];(GenBank);sai:Saci_0619;sai00525;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0619+sai:Saci_1703+sai:Saci_2366
+489;59;dTDP-glucose 4,6-dehydratase [EC:4.2.1.46];(GenBank);sai:Saci_1704;sai00525;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1704
+490;36;UDP-sulfoquinovose synthase [EC:3.13.1.1];(GenBank);sai:Saci_0423;sai00561;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0423
+491;55;glycerol kinase [EC:2.7.1.30];(GenBank);sai:Saci_1117;sai00561;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1117+sai:Saci_2033
+492;60;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);sai:Saci_1857;sai00561;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1857
+493;141;glycerate 2-kinase [EC:2.7.1.165];(GenBank);sai:Saci_0113;sai00561;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0113
+494;63;myo-inositol-1-phosphate synthase [EC:5.5.1.4];(GenBank);sai:Saci_1419;sai00562;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1419+sai:Saci_2337
+495;64;myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25];(GenBank);sai:Saci_0930;sai00562;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0930
+496;65;myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25];(GenBank);sai:Saci_0930;sai00562;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0930
+497;75;myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25];(GenBank);sai:Saci_0930;sai00562;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0930
+498;129;triosephosphate isomerase (TIM) [EC:5.3.1.1];tpiA;sai:Saci_0117;sai00562;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0117
+499;103;glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46];(GenBank);sai:Saci_2165;sai00564;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2165
+500;117;glycerol-3-phosphate dehydrogenase [EC:1.1.5.3];(GenBank);sai:Saci_1118;sai00564;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1118+sai:Saci_2032+sai:Saci_2273
+501;141;glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46];(GenBank);sai:Saci_2165;sai00564;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2165
+502;228;glycerol-1-phosphate dehydrogenase [NAD(P)+] [EC:1.1.1.261];(GenBank);sai:Saci_0640;sai00564;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0640
+503;232;phosphoglycerol geranylgeranyltransferase [EC:2.5.1.41];(GenBank);sai:Saci_0728;sai00564;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0728
+504;235;geranylgeranylglycerol-phosphate geranylgeranyltransferase [EC:2.5.1.42];(GenBank);sai:Saci_1565;sai00564;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1565
+505;238;CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol synthase [EC:2.7.7.67];(GenBank);sai:Saci_0897;sai00564;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0897
+506;31;acetyl-CoA acyltransferase [EC:2.3.1.16];(GenBank);sai:Saci_1728;sai00592;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1728
+507;32;acetyl-CoA acyltransferase [EC:2.3.1.16];(GenBank);sai:Saci_1728;sai00592;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1728
+508;62;acetyl-CoA acyltransferase [EC:2.3.1.16];(GenBank);sai:Saci_1728;sai00592;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1728
+509;74;beta-galactosidase [EC:3.2.1.23];bgaS;sai:Saci_1849;sai00600;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1849
+510;82;sphinganine-1-phosphate aldolase [EC:4.1.2.27];(GenBank);sai:Saci_1057;sai00600;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1057
+511;83;sphinganine-1-phosphate aldolase [EC:4.1.2.27];(GenBank);sai:Saci_1057;sai00600;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1057
+512;59;phosphoenolpyruvate carboxylase [EC:4.1.1.31];(GenBank);sai:Saci_0059;sai00620;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0059
+513;60;phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32];(GenBank);sai:Saci_1100;sai00620;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1100
+514;64;pyruvate, water dikinase [EC:2.7.9.2];(GenBank);sai:Saci_1417;sai00620;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1417
+515;65;pyruvate kinase [EC:2.7.1.40];(GenBank);sai:Saci_1648;sai00620;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1648
+516;80;malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38];(GenBank);sai:Saci_2154;sai00620;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2154
+517;85;pyruvate ferredoxin oxidoreductase delta subunit [EC:1.2.7.1];(GenBank);sai:Saci_1088;sai00620;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1088+sai:Saci_2250+sai:Saci_2251+sai:Saci_2252+sai:Saci_2253
+518;86;malate dehydrogenase [EC:1.1.1.37];(GenBank);sai:Saci_0246;sai00620;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0246
+519;91;malate synthase [EC:2.3.3.9];mas;sai:Saci_2190;sai00620;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2190
+520;95;pyruvate dehydrogenase (quinone) [EC:1.2.5.1];pox;sai:Saci_1935;sai00620;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1935
+521;98;acetyl-CoA synthetase [EC:6.2.1.1];(GenBank);sai:Saci_0025;sai00620;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0025+sai:Saci_0306+sai:Saci_1774+sai:Saci_2062+sai:Saci_2235+sai:Saci_2298
+522;103;acetyl-CoA synthetase [EC:6.2.1.1];(GenBank);sai:Saci_0025;sai00620;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0025+sai:Saci_0306+sai:Saci_1774+sai:Saci_2062+sai:Saci_2235+sai:Saci_2298
+523;104;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);sai:Saci_1857;sai00620;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1857
+524;109;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(GenBank);sai:Saci_0963;sai00620;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0963+sai:Saci_1114+sai:Saci_1121+sai:Saci_1361+sai:Saci_2209+sai:Saci_2232+sai:Saci_2233+sai:Saci_2288
+525;110;2-isopropylmalate synthase [EC:2.3.3.13];(GenBank);sai:Saci_0940;sai00620;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0940+sai:Saci_1304+sai:Saci_2325
+526;125;dihydrolipoamide dehydrogenase [EC:1.8.1.4];lpdV;sai:Saci_0136;sai00620;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0136+sai:Saci_0338
+527;130;acylphosphatase [EC:3.6.1.7];(GenBank);sai:Saci_1420;sai00620;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1420
+528;174;fumarate hydratase, class II [EC:4.2.1.2];fumC;sai:Saci_0122;sai00620;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0122
+529;179;2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta [EC:1.2.7.3 1.2.7.11];korB;sai:Saci_0208;sai00620;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0208+sai:Saci_0209+sai:Saci_2306+sai:Saci_2307
+530;85;catechol 2,3-dioxygenase [EC:1.13.11.2];xylE;sai:Saci_2295;sai00622;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2295
+531;91;catechol 2,3-dioxygenase [EC:1.13.11.2];xylE;sai:Saci_2295;sai00622;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2295
+532;106;carboxymethylenebutenolidase [EC:3.1.1.45];(GenBank);sai:Saci_1718;sai00623;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1718
+533;110;carboxymethylenebutenolidase [EC:3.1.1.45];(GenBank);sai:Saci_1718;sai00623;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1718
+534;113;maleylacetate reductase [EC:1.3.1.32];(GenBank);sai:Saci_1087;sai00623;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1087
+535;115;maleylacetate reductase [EC:1.3.1.32];(GenBank);sai:Saci_1087;sai00623;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1087
+536;56;alcohol dehydrogenase [EC:1.1.1.1];adh;sai:Saci_1115;sai00625;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1115+sai:Saci_2057+sai:Saci_2126+sai:Saci_2205+sai:Saci_2224
+537;59;alcohol dehydrogenase [EC:1.1.1.1];adh;sai:Saci_1115;sai00625;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1115+sai:Saci_2057+sai:Saci_2126+sai:Saci_2205+sai:Saci_2224
+538;62;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);sai:Saci_1857;sai00625;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1857
+539;64;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);sai:Saci_1857;sai00625;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1857
+540;102;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);sai:Saci_1857;sai00625;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1857
+541;105;putative hydrolase of the HAD superfamily;(GenBank);sai:Saci_0018;sai00625;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0018+sai:Saci_0239+sai:Saci_0302+sai:Saci_0602
+542;84;alcohol dehydrogenase [EC:1.1.1.1];adh;sai:Saci_1115;sai00626;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1115+sai:Saci_2057+sai:Saci_2126+sai:Saci_2205+sai:Saci_2224
+543;94;alcohol dehydrogenase [EC:1.1.1.1];adh;sai:Saci_1115;sai00626;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1115+sai:Saci_2057+sai:Saci_2126+sai:Saci_2205+sai:Saci_2224
+544;38;4-nitrophenyl phosphatase [EC:3.1.3.41];(GenBank);sai:Saci_0983;sai00627;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0983
+545;133;flavin prenyltransferase [EC:2.5.1.129];pad;sai:Saci_0856;sai00627;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0856
+546;162;acylphosphatase [EC:3.6.1.7];(GenBank);sai:Saci_1420;sai00627;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1420
+547;197;benzoylformate decarboxylase [EC:4.1.1.7];(GenBank);sai:Saci_1743;sai00627;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1743
+548;208;benzoylformate decarboxylase [EC:4.1.1.7];(GenBank);sai:Saci_1743;sai00627;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1743
+549;84;aconitate hydratase [EC:4.2.1.3];acnA;sai:Saci_1214;sai00630;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1214
+550;90;isocitrate lyase [EC:4.1.3.1];aceA;sai:Saci_2191;sai00630;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2191
+551;98;aconitate hydratase [EC:4.2.1.3];acnA;sai:Saci_1214;sai00630;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1214
+552;102;glycolate oxidase [EC:1.1.3.15];glcD;sai:Saci_0206;sai00630;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0206+sai:Saci_0299
+553;111;formate dehydrogenase major subunit [EC:1.17.1.9];fdhF;sai:Saci_0320;sai00630;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0320
+554;114;citrate synthase [EC:2.3.3.1];cisY;sai:Saci_0243;sai00630;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0243
+555;123;malate synthase [EC:2.3.3.9];mas;sai:Saci_2190;sai00630;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2190
+556;131;malate dehydrogenase [EC:1.1.1.37];(GenBank);sai:Saci_0246;sai00630;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0246
+557;147;phosphoglycolate phosphatase [EC:3.1.3.18];(GenBank);sai:Saci_1518;sai00630;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1518
+558;208;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(GenBank);sai:Saci_0963;sai00630;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0963+sai:Saci_1114+sai:Saci_1121+sai:Saci_1361+sai:Saci_2209+sai:Saci_2232+sai:Saci_2233+sai:Saci_2288
+559;217;methylmalonyl-CoA/ethylmalonyl-CoA epimerase [EC:5.1.99.1];(GenBank);sai:Saci_0923;sai00630;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0923
+560;218;acetyl-CoA/propionyl-CoA carboxylase [EC:6.4.1.2 6.4.1.3];pycA;sai:Saci_0260;sai00630;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0260+sai:Saci_0261+sai:Saci_0262
+561;219;methylmalonyl-CoA mutase, C-terminal domain [EC:5.4.99.2];(GenBank);sai:Saci_0062;sai00630;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0062+sai:Saci_0924
+562;230;glycine hydroxymethyltransferase [EC:2.1.2.1];glyA;sai:Saci_1358;sai00630;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1358
+563;231;dihydrolipoamide dehydrogenase [EC:1.8.1.4];lpdV;sai:Saci_0136;sai00630;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0136+sai:Saci_0338+sai:Saci_0350+sai:Saci_1381+sai:Saci_1382+sai:Saci_1383+sai:Saci_1384
+564;245;glutamine synthetase [EC:6.3.1.2];glnA;sai:Saci_0558;sai00630;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0558+sai:Saci_1483+sai:Saci_2141
+565;250;methylmalonyl-CoA/ethylmalonyl-CoA epimerase [EC:5.1.99.1];(GenBank);sai:Saci_0923;sai00630;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0923
+566;264;glycerate 2-kinase [EC:2.7.1.165];(GenBank);sai:Saci_0113;sai00630;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0113
+567;271;acetyl-CoA synthetase [EC:6.2.1.1];(GenBank);sai:Saci_0025;sai00630;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0025+sai:Saci_0306+sai:Saci_1774+sai:Saci_2062+sai:Saci_2235+sai:Saci_2298
+568;18;acetyl-CoA/propionyl-CoA carboxylase [EC:6.4.1.2 6.4.1.3];pycA;sai:Saci_0260;sai00640;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0260+sai:Saci_0261+sai:Saci_0262
+569;26;4-aminobutyrate aminotransferase [EC:2.6.1.19];(GenBank);sai:Saci_1028;sai00640;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1028
+570;63;methylmalonyl-CoA/ethylmalonyl-CoA epimerase [EC:5.1.99.1];(GenBank);sai:Saci_0923;sai00640;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0923
+571;64;acetyl-CoA/propionyl-CoA carboxylase [EC:6.4.1.2 6.4.1.3];pycA;sai:Saci_0260;sai00640;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0260+sai:Saci_0261+sai:Saci_0262
+572;71;acetyl-CoA synthetase [EC:6.2.1.1];(GenBank);sai:Saci_0025;sai00640;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0025+sai:Saci_0306+sai:Saci_1774+sai:Saci_2062+sai:Saci_2235+sai:Saci_2298
+573;72;acetyl-CoA synthetase [EC:6.2.1.1];(GenBank);sai:Saci_0025;sai00640;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0025+sai:Saci_0306+sai:Saci_1774+sai:Saci_2062+sai:Saci_2235+sai:Saci_2298
+574;76;pyruvate ferredoxin oxidoreductase delta subunit [EC:1.2.7.1];(GenBank);sai:Saci_1088;sai00640;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1088+sai:Saci_2250+sai:Saci_2251+sai:Saci_2252+sai:Saci_2253
+575;108;2-methylcitrate dehydratase [EC:4.2.1.79];(GenBank);sai:Saci_0245;sai00640;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0245
+576;110;methylmalonyl-CoA mutase, C-terminal domain [EC:5.4.99.2];(GenBank);sai:Saci_0062;sai00640;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0062+sai:Saci_0924
+577;119;succinyl-CoA synthetase beta subunit [EC:6.2.1.5];sucC;sai:Saci_1265;sai00640;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1265+sai:Saci_1266
+578;121;methylisocitrate lyase [EC:4.1.3.30];(GenBank);sai:Saci_0244;sai00640;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0244
+579;129;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(GenBank);sai:Saci_0963;sai00640;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0963+sai:Saci_1114+sai:Saci_1121+sai:Saci_1361+sai:Saci_2209+sai:Saci_2232+sai:Saci_2233+sai:Saci_2288
+580;197;dihydrolipoamide dehydrogenase [EC:1.8.1.4];lpdV;sai:Saci_0136;sai00640;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0136+sai:Saci_0338
+581;40;glutaconate CoA-transferase, subunit B [EC:2.8.3.12];(GenBank);sai:Saci_0366;sai00643;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0366+sai:Saci_0367
+582;65;catechol 2,3-dioxygenase [EC:1.13.11.2];xylE;sai:Saci_2295;sai00643;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2295
+583;63;hydroxymethylglutaryl-CoA synthase [EC:2.3.3.10];(GenBank);sai:Saci_1362;sai00650;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1362
+584;64;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(GenBank);sai:Saci_0963;sai00650;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0963+sai:Saci_1114+sai:Saci_1121+sai:Saci_1361+sai:Saci_2209+sai:Saci_2232+sai:Saci_2233+sai:Saci_2288
+585;65;3-hydroxybutyryl-CoA dehydrogenase [EC:1.1.1.157];(GenBank);sai:Saci_1078;sai00650;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1078
+586;73;4-hydroxybutyryl-CoA dehydratase / vinylacetyl-CoA-Delta-isomerase [EC:4.2.1.120 5.3.3.3];abfD;sai:Saci_2143;sai00650;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2143
+587;75;4-aminobutyrate aminotransferase [EC:2.6.1.19];(GenBank);sai:Saci_1028;sai00650;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1028
+588;77;pyruvate ferredoxin oxidoreductase delta subunit [EC:1.2.7.1];(GenBank);sai:Saci_1088;sai00650;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1088+sai:Saci_2250+sai:Saci_2251+sai:Saci_2252+sai:Saci_2253
+589;92;succinate dehydrogenase / fumarate reductase, subunit D;sdhD;sai:Saci_0979;sai00650;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0979+sai:Saci_0980+sai:Saci_0981+sai:Saci_0982
+590;106;glutaconate CoA-transferase, subunit B [EC:2.8.3.12];(GenBank);sai:Saci_0366;sai00650;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0366+sai:Saci_0367
+591;161;4-hydroxybutyryl-CoA dehydratase / vinylacetyl-CoA-Delta-isomerase [EC:4.2.1.120 5.3.3.3];abfD;sai:Saci_2143;sai00650;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2143
+592;162;acetolactate synthase I/II/III large subunit [EC:2.2.1.6];(GenBank);sai:Saci_1137;sai00650;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1137+sai:Saci_1561
+593;182;succinate dehydrogenase / fumarate reductase, subunit D;sdhD;sai:Saci_0979;sai00650;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0979+sai:Saci_0980+sai:Saci_0981+sai:Saci_0982
+594;183;2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta [EC:1.2.7.3 1.2.7.11];korB;sai:Saci_0208;sai00650;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0208+sai:Saci_0209+sai:Saci_2306+sai:Saci_2307
+595;39;3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35];leuD;sai:Saci_0252;sai00660;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0252+sai:Saci_0253
+596;48;succinyl-CoA synthetase beta subunit [EC:6.2.1.5];sucC;sai:Saci_1265;sai00660;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1265+sai:Saci_1266
+597;52;acetolactate synthase I/II/III large subunit [EC:2.2.1.6];(GenBank);sai:Saci_1137;sai00660;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1137+sai:Saci_1561
+598;106;3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35];leuD;sai:Saci_0252;sai00660;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0252+sai:Saci_0253
+599;107;3-isopropylmalate dehydrogenase [EC:1.1.1.85];leuB;sai:Saci_0600;sai00660;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0600
+600;20;phosphoribosylglycinamide formyltransferase 2 [EC:2.1.2.2];purT;sai:Saci_0214;sai00670;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0214
+601;41;5-formyltetrahydrofolate cyclo-ligase [EC:6.3.3.2];(GenBank);sai:Saci_0447;sai00670;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0447
+602;42;aminomethyltransferase [EC:2.1.2.10];gcsT;sai:Saci_1383;sai00670;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1383
+603;50;phosphoribosylglycinamide formyltransferase 2 [EC:2.1.2.2];purT;sai:Saci_0214;sai00670;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0214
+604;60;thymidylate synthase (FAD) [EC:2.1.1.148];thyX;sai:Saci_2347;sai00670;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2347
+605;61;glycine hydroxymethyltransferase [EC:2.1.2.1];glyA;sai:Saci_1358;sai00670;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1358
+606;64;aminomethyltransferase [EC:2.1.2.10];gcsT;sai:Saci_1383;sai00670;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1383
+607;40;formate dehydrogenase major subunit [EC:1.17.1.9];fdhF;sai:Saci_0320;sai00680;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0320
+608;127;glycine hydroxymethyltransferase [EC:2.1.2.1];glyA;sai:Saci_1358;sai00680;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1358
+609;136;pyruvate ferredoxin oxidoreductase delta subunit [EC:1.2.7.1];(GenBank);sai:Saci_1088;sai00680;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1088+sai:Saci_2250+sai:Saci_2251+sai:Saci_2252+sai:Saci_2253
+610;139;pyruvate, water dikinase [EC:2.7.9.2];(GenBank);sai:Saci_1417;sai00680;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1417
+611;142;enolase [EC:4.2.1.11];eno;sai:Saci_1377;sai00680;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1377
+612;148;D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase [EC:1.1.1.95 1.1.1.399];(GenBank);sai:Saci_0247;sai00680;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0247+sai:Saci_1368
+613;161;phosphoenolpyruvate carboxylase [EC:4.1.1.31];(GenBank);sai:Saci_0059;sai00680;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0059
+614;166;glycerate 2-kinase [EC:2.7.1.165];(GenBank);sai:Saci_0113;sai00680;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0113
+615;167;malate dehydrogenase [EC:1.1.1.37];(GenBank);sai:Saci_0246;sai00680;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0246
+616;181;fructose 1,6-bisphosphate aldolase/phosphatase [EC:4.1.2.13 3.1.3.11];(GenBank);sai:Saci_0671;sai00680;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0671
+617;183;6-phospho-3-hexuloisomerase [EC:5.3.1.27];(GenBank);sai:Saci_0747;sai00680;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0747
+618;187;3-hexulose-6-phosphate synthase [EC:4.1.2.43];(GenBank);sai:Saci_0802;sai00680;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0802
+619;194;fructose 1,6-bisphosphate aldolase/phosphatase [EC:4.1.2.13 3.1.3.11];(GenBank);sai:Saci_0671;sai00680;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0671
+620;198;glycine hydroxymethyltransferase [EC:2.1.2.1];glyA;sai:Saci_1358;sai00680;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1358
+621;206;acetyl-CoA synthetase [EC:6.2.1.1];(GenBank);sai:Saci_0025;sai00680;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0025+sai:Saci_0306+sai:Saci_1774+sai:Saci_2062+sai:Saci_2235+sai:Saci_2298
+622;293;probable phosphoglycerate mutase [EC:5.4.2.12];(GenBank);sai:Saci_0043;sai00680;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0043+sai:Saci_0837
+623;319;heterodisulfide reductase subunit B2 [EC:1.8.7.3 1.8.98.4 1.8.98.5 1.8.98.6];hdrB;sai:Saci_0325;sai00680;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0325+sai:Saci_0326+sai:Saci_0328+sai:Saci_0329+sai:Saci_0334
+624;320;heterodisulfide reductase subunit B2 [EC:1.8.7.3 1.8.98.4 1.8.98.5 1.8.98.6];hdrB;sai:Saci_0325;sai00680;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0325+sai:Saci_0326+sai:Saci_0328+sai:Saci_0329+sai:Saci_0334
+625;321;heterodisulfide reductase subunit B2 [EC:1.8.7.3 1.8.98.4 1.8.98.5 1.8.98.6];hdrB;sai:Saci_0325;sai00680;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0325+sai:Saci_0326+sai:Saci_0328+sai:Saci_0329+sai:Saci_0334
+626;322;heterodisulfide reductase subunit B2 [EC:1.8.7.3 1.8.98.4 1.8.98.5 1.8.98.6];hdrB;sai:Saci_0325;sai00680;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0325+sai:Saci_0326+sai:Saci_0328+sai:Saci_0329+sai:Saci_0334
+627;56;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(GenBank);sai:Saci_0963;sai00720;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0963+sai:Saci_1114+sai:Saci_1121+sai:Saci_1361+sai:Saci_2209+sai:Saci_2232+sai:Saci_2233+sai:Saci_2288
+628;57;pyruvate ferredoxin oxidoreductase delta subunit [EC:1.2.7.1];(GenBank);sai:Saci_1088;sai00720;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1088+sai:Saci_2250+sai:Saci_2251+sai:Saci_2252+sai:Saci_2253
+629;58;pyruvate, water dikinase [EC:2.7.9.2];(GenBank);sai:Saci_1417;sai00720;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1417
+630;59;phosphoenolpyruvate carboxylase [EC:4.1.1.31];(GenBank);sai:Saci_0059;sai00720;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0059
+631;60;malate dehydrogenase [EC:1.1.1.37];(GenBank);sai:Saci_0246;sai00720;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0246
+632;61;fumarate hydratase, class II [EC:4.2.1.2];fumC;sai:Saci_0122;sai00720;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0122
+633;62;succinate dehydrogenase / fumarate reductase, subunit D;sdhD;sai:Saci_0979;sai00720;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0979+sai:Saci_0980+sai:Saci_0981+sai:Saci_0982
+634;63;succinyl-CoA synthetase beta subunit [EC:6.2.1.5];sucC;sai:Saci_1265;sai00720;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1265+sai:Saci_1266
+635;64;succinyl-CoA reductase [EC:1.2.1.76];(GenBank);sai:Saci_1738;sai00720;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1738+sai:Saci_2147+sai:Saci_2370
+636;65;succinate semialdehyde reductase (NADPH) [EC:1.1.1.-];adh;sai:Saci_2145;sai00720;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2145
+637;66;4-hydroxybutyrate---CoA ligase (AMP-forming) [EC:6.2.1.40];(GenBank);sai:Saci_2146;sai00720;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2146
+638;67;4-hydroxybutyryl-CoA dehydratase / vinylacetyl-CoA-Delta-isomerase [EC:4.2.1.120 5.3.3.3];abfD;sai:Saci_2143;sai00720;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2143
+639;68;enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase [EC:4.2.1.17 1.1.1.35];(GenBank);sai:Saci_1109;sai00720;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1109+sai:Saci_1134
+640;69;enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase [EC:4.2.1.17 1.1.1.35];(GenBank);sai:Saci_1109;sai00720;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1109+sai:Saci_1134
+641;70;2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta [EC:1.2.7.3 1.2.7.11];korB;sai:Saci_0208;sai00720;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0208+sai:Saci_0209+sai:Saci_2306+sai:Saci_2307
+642;71;isocitrate dehydrogenase [EC:1.1.1.42];icd;sai:Saci_2375;sai00720;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2375
+643;72;aconitate hydratase [EC:4.2.1.3];acnA;sai:Saci_1214;sai00720;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1214
+644;73;aconitate hydratase [EC:4.2.1.3];acnA;sai:Saci_1214;sai00720;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1214
+645;75;acetyl-CoA synthetase [EC:6.2.1.1];(GenBank);sai:Saci_0025;sai00720;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0025+sai:Saci_0306+sai:Saci_1774+sai:Saci_2062+sai:Saci_2235+sai:Saci_2298
+646;82;acetyl-CoA/propionyl-CoA carboxylase [EC:6.4.1.2 6.4.1.3];pycA;sai:Saci_0260;sai00720;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0260+sai:Saci_0261+sai:Saci_0262
+647;83;malonyl-CoA/succinyl-CoA reductase (NADPH) [EC:1.2.1.75 1.2.1.76];(GenBank);sai:Saci_2147;sai00720;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2147+sai:Saci_2370
+648;84;3-hydroxypropionate dehydrogenase (NADP+) [EC:1.1.1.298];(GenBank);sai:Saci_1623;sai00720;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1623
+649;85;3-hydroxypropionyl-coenzyme A synthetase [EC:6.2.1.36];(GenBank);sai:Saci_1184;sai00720;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1184
+650;86;3-hydroxypropionyl-coenzyme A dehydratase [EC:4.2.1.116];paaF;sai:Saci_1633;sai00720;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1633
+651;87;acryloyl-coenzyme A reductase [EC:1.3.1.84];adh;sai:Saci_0911;sai00720;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0911
+652;88;acetyl-CoA/propionyl-CoA carboxylase [EC:6.4.1.2 6.4.1.3];pycA;sai:Saci_0260;sai00720;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0260+sai:Saci_0261+sai:Saci_0262
+653;89;methylmalonyl-CoA/ethylmalonyl-CoA epimerase [EC:5.1.99.1];(GenBank);sai:Saci_0923;sai00720;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0923
+654;90;methylmalonyl-CoA mutase, C-terminal domain [EC:5.4.99.2];(GenBank);sai:Saci_0062;sai00720;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0062+sai:Saci_0924
+655;167;succinate dehydrogenase / fumarate reductase, subunit D;sdhD;sai:Saci_0979;sai00720;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0979+sai:Saci_0980+sai:Saci_0981+sai:Saci_0982
+656;59;adenylate kinase [EC:2.7.4.3];adk;sai:Saci_0573;sai00730;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0573
+657;62;nucleoside-triphosphatase [EC:3.6.1.15];(GenBank);sai:Saci_0011;sai00730;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0011
+658;63;thiamine-monophosphate kinase [EC:2.7.4.16];thiL;sai:Saci_0704;sai00730;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0704
+659;68;thiaminase (transcriptional activator TenA) [EC:3.5.99.2];(GenBank);sai:Saci_1230;sai00730;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1230
+660;71;tRNA uracil 4-sulfurtransferase [EC:2.8.1.4];thiI;sai:Saci_2336;sai00730;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2336
+661;75;hydroxymethylpyrimidine kinase / phosphomethylpyrimidine kinase / thiamine-phosphate diphosphorylase [EC:2.7.1.49 2.7.4.7 2.5.1.3];(GenBank);sai:Saci_0953;sai00730;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0953
+662;76;hydroxymethylpyrimidine kinase / phosphomethylpyrimidine kinase / thiamine-phosphate diphosphorylase [EC:2.7.1.49 2.7.4.7 2.5.1.3];(GenBank);sai:Saci_0953;sai00730;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0953
+663;93;hydroxymethylpyrimidine kinase / phosphomethylpyrimidine kinase / thiamine-phosphate diphosphorylase [EC:2.7.1.49 2.7.4.7 2.5.1.3];(GenBank);sai:Saci_0953;sai00730;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0953+sai:Saci_2353
+664;94;phosphomethylpyrimidine synthase [EC:4.1.99.17];thiC;sai:Saci_0137;sai00730;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0137
+665;97;hydroxymethylpyrimidine kinase / phosphomethylpyrimidine kinase / thiamine-phosphate diphosphorylase [EC:2.7.1.49 2.7.4.7 2.5.1.3];(GenBank);sai:Saci_0953;sai00730;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0953+sai:Saci_2353
+666;110;thiaminase (transcriptional activator TenA) [EC:3.5.99.2];(GenBank);sai:Saci_1230;sai00730;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1230
+667;115;sulfide-dependent adenosine diphosphate thiazole synthase [EC:2.4.2.59];thi;sai:Saci_0854;sai00730;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0854
+668;32;3,4-dihydroxy 2-butanone 4-phosphate synthase [EC:4.1.99.12];(GenBank);sai:Saci_0822;sai00740;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0822
+669;35;FAD synthetase [EC:2.7.7.2];(GenBank);sai:Saci_1333;sai00740;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1333
+670;41;6,7-dimethyl-8-ribityllumazine synthase [EC:2.5.1.78];ribH;sai:Saci_0820;sai00740;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0820
+671;42;riboflavin synthase [EC:2.5.1.9];(GenBank);sai:Saci_0821;sai00740;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0821
+672;44;riboflavin kinase, archaea type [EC:2.7.1.161];(GenBank);sai:Saci_1332;sai00740;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1332
+673;47;2,5-diamino-6-(ribosylamino)-4(3H)-pyrimidinone 5'-phosphate reductase [EC:1.1.1.302];rib7;sai:Saci_2164;sai00740;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2164
+674;58;5,6-dimethylbenzimidazole synthase [EC:1.13.11.79];(GenBank);sai:Saci_0250;sai00740;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0250
+675;61;GTP cyclohydrolase IIa [EC:3.5.4.29];(GenBank);sai:Saci_0819;sai00740;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0819
+676;7;pyridoxal 5'-phosphate synthase pdxS subunit [EC:4.3.3.6];(GenBank);sai:Saci_1555;sai00750;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1555+sai:Saci_1556
+677;89;threonine synthase [EC:4.2.3.1];(GenBank);sai:Saci_1023;sai00750;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1023+sai:Saci_1413
+678;78;L-aspartate oxidase [EC:1.4.3.16];nadB;sai:Saci_0549;sai00760;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0549
+679;79;quinolinate synthase [EC:2.5.1.72];nadA;sai:Saci_0023;sai00760;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0023
+680;80;nicotinate-nucleotide pyrophosphorylase (carboxylating) [EC:2.4.2.19];(GenBank);sai:Saci_0547;sai00760;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0547
+681;91;nicotinamide-nucleotide adenylyltransferase [EC:2.7.7.1];nadM;sai:Saci_0300;sai00760;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0300+sai:Saci_0720
+682;93;NAD+ synthase [EC:6.3.1.5];nadE;sai:Saci_0009;sai00760;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0009
+683;95;nicotinate phosphoribosyltransferase [EC:6.3.4.21];(GenBank);sai:Saci_1470;sai00760;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1470
+684;101;nicotinamide-nucleotide adenylyltransferase [EC:2.7.7.1];nadM;sai:Saci_0300;sai00760;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0300+sai:Saci_0720
+685;104;purine nucleosidase [EC:3.2.2.1];(GenBank);sai:Saci_0047;sai00760;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0047+sai:Saci_1187
+686;111;NAD+ kinase [EC:2.7.1.23];(GenBank);sai:Saci_0027;sai00760;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0027
+687;72;phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase [EC:4.1.1.36 6.3.2.5];(GenBank);sai:Saci_0458;sai00770;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0458
+688;75;phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase [EC:4.1.1.36 6.3.2.5];(GenBank);sai:Saci_0458;sai00770;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0458
+689;83;3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11];(GenBank);sai:Saci_0948;sai00770;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0948
+690;85;dihydroxy-acid dehydratase [EC:4.2.1.9];(GenBank);sai:Saci_1715;sai00770;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1715
+691;86;ketol-acid reductoisomerase [EC:1.1.1.86];(GenBank);sai:Saci_1559;sai00770;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1559
+692;87;acetolactate synthase I/II/III large subunit [EC:2.2.1.6];(GenBank);sai:Saci_1137;sai00770;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1137+sai:Saci_1561
+693;99;4-phosphopantoate---beta-alanine ligase [EC:6.3.2.36];(GenBank);sai:Saci_0949;sai00770;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0949
+694;101;pantoate kinase [EC:2.7.1.169];(GenBank);sai:Saci_0950;sai00770;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0950
+695;29;BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15];birA;sai:Saci_1641;sai00780;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1641
+696;31;BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15];birA;sai:Saci_1641;sai00780;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1641
+697;33;biotin synthase [EC:2.8.1.6];(GenBank);sai:Saci_0343;sai00780;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0343
+698;56;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];(GenBank);sai:Saci_0158;sai00780;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0158+sai:Saci_0238+sai:Saci_1104+sai:Saci_1308+sai:Saci_1965
+699;70;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];(GenBank);sai:Saci_0158;sai00780;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0158+sai:Saci_0238+sai:Saci_1104+sai:Saci_1308+sai:Saci_1965
+700;12;lipoyl synthase [EC:2.8.1.8];lipA;sai:Saci_0309;sai00785;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0309
+701;24;lipoate---protein ligase [EC:6.3.1.20];(GenBank);sai:Saci_0307;sai00785;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0307+sai:Saci_0310+sai:Saci_0345+sai:Saci_0351
+702;27;lipoate---protein ligase [EC:6.3.1.20];(GenBank);sai:Saci_0307;sai00785;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0307+sai:Saci_0310+sai:Saci_0345+sai:Saci_0351
+703;33;lipoate---protein ligase [EC:6.3.1.20];(GenBank);sai:Saci_0307;sai00785;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0307+sai:Saci_0310+sai:Saci_0345+sai:Saci_0351
+704;40;lipoyl synthase [EC:2.8.1.8];lipA;sai:Saci_0309;sai00785;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0309
+705;50;lipoate---protein ligase [EC:6.3.1.20];(GenBank);sai:Saci_0307;sai00785;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0307+sai:Saci_0310+sai:Saci_0345+sai:Saci_0351
+706;74;2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase [EC:2.7.6.3];(GenBank);sai:Saci_0939;sai00790;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0939
+707;79;GTP cyclohydrolase IA [EC:3.5.4.16];folE;sai:Saci_1481;sai00790;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1481
+708;80;GTP cyclohydrolase IA [EC:3.5.4.16];folE;sai:Saci_1481;sai00790;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1481
+709;81;GTP cyclohydrolase IA [EC:3.5.4.16];folE;sai:Saci_1481;sai00790;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1481
+710;93;GTP 3',8-cyclase [EC:4.1.99.22];(GenBank);sai:Saci_1479;sai00790;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1479
+711;94;MoaE-MoaD fusion protein [EC:2.8.1.12];(GenBank);sai:Saci_0952;sai00790;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0952
+712;102;7-carboxy-7-deazaguanine synthase [EC:4.3.99.3];(GenBank);sai:Saci_1604;sai00790;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1604
+713;103;7-cyano-7-deazaguanine synthase [EC:6.3.4.20];(GenBank);sai:Saci_0280;sai00790;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0280
+714;117;cyclic pyranopterin monophosphate synthase [EC:4.6.1.17];(GenBank);sai:Saci_0905;sai00790;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0905
+715;118;molybdopterin adenylyltransferase [EC:2.7.7.75];moaB;sai:Saci_0221;sai00790;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0221
+716;122;molybdopterin molybdotransferase [EC:2.10.1.1];(GenBank);sai:Saci_0973;sai00790;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0973
+717;127;molybdenum cofactor cytidylyltransferase [EC:2.7.7.76];(GenBank);sai:Saci_0918;sai00790;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0918
+718;136;4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96];phs;sai:Saci_2299;sai00790;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2299
+719;180;GTP cyclohydrolase IA [EC:3.5.4.16];folE;sai:Saci_1481;sai00790;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1481
+720;201;beta-ribofuranosylaminobenzene 5'-phosphate synthase [EC:2.4.2.54];(GenBank);sai:Saci_1486;sai00790;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1486
+721;49;anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase [EC:1.21.98.3];(GenBank);sai:Saci_1785;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1785
+722;50;anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase [EC:1.21.98.3];(GenBank);sai:Saci_1785;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1785
+723;51;anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase [EC:1.21.98.3];(GenBank);sai:Saci_1785;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1785
+724;267;heme o synthase [EC:2.5.1.141];ctaB;sai:Saci_1635;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1635
+725;275;uroporphyrinogen-III synthase [EC:4.2.1.75];(GenBank);sai:Saci_0781;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0781
+726;276;uroporphyrin-III C-methyltransferase [EC:2.1.1.107];(GenBank);sai:Saci_0914;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0914+sai:Saci_2200
+727;278;hydroxymethylbilane synthase [EC:2.5.1.61];pbg;sai:Saci_0780;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0780
+728;279;porphobilinogen synthase [EC:4.2.1.24];alaD;sai:Saci_0778;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0778
+729;281;glutamate-1-semialdehyde 2,1-aminomutase [EC:5.4.3.8];hemL;sai:Saci_0779;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0779
+730;283;glutamyl-tRNA reductase [EC:1.2.1.70];gluTR;sai:Saci_0777;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0777
+731;284;glutamyl-tRNA synthetase [EC:6.1.1.17];(GenBank);sai:Saci_1519;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1519
+732;285;precorrin-2 dehydrogenase / sirohydrochlorin ferrochelatase [EC:1.3.1.76 4.99.1.4];(GenBank);sai:Saci_0776;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0776
+733;286;precorrin-2 dehydrogenase / sirohydrochlorin ferrochelatase [EC:1.3.1.76 4.99.1.4];(GenBank);sai:Saci_0776;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0776
+734;287;sirohydrochlorin cobaltochelatase [EC:4.99.1.3];(GenBank);sai:Saci_0830;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0830
+735;288;precorrin-2/cobalt-factor-2 C20-methyltransferase [EC:2.1.1.130 2.1.1.151];(GenBank);sai:Saci_0395;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0395
+736;289;precorrin-3B C17-methyltransferase [EC:2.1.1.131];(GenBank);sai:Saci_0398;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0398
+737;290;precorrin-4/cobalt-precorrin-4 C11-methyltransferase [EC:2.1.1.133 2.1.1.271];(GenBank);sai:Saci_0394;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0394
+738;292;cobalt-precorrin-7 (C5)-methyltransferase [EC:2.1.1.289];(GenBank);sai:Saci_0400;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0400
+739;293;cobalt-precorrin-6B (C15)-methyltransferase [EC:2.1.1.196];(GenBank);sai:Saci_0396;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0396
+740;294;precorrin-2/cobalt-factor-2 C20-methyltransferase [EC:2.1.1.130 2.1.1.151];(GenBank);sai:Saci_0395;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0395
+741;296;precorrin-3B C17-methyltransferase [EC:2.1.1.131];(GenBank);sai:Saci_0398;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0398
+742;297;precorrin-4/cobalt-precorrin-4 C11-methyltransferase [EC:2.1.1.133 2.1.1.271];(GenBank);sai:Saci_0394;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0394
+743;300;precorrin-8X/cobalt-precorrin-8 methylmutase [EC:5.4.99.61 5.4.99.60];(GenBank);sai:Saci_0399;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0399
+744;301;cobyrinic acid a,c-diamide synthase [EC:6.3.5.9 6.3.5.11];(GenBank);sai:Saci_0825;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0825
+745;303;precorrin-8X/cobalt-precorrin-8 methylmutase [EC:5.4.99.61 5.4.99.60];(GenBank);sai:Saci_0399;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0399
+746;304;cobyrinic acid a,c-diamide synthase [EC:6.3.5.9 6.3.5.11];(GenBank);sai:Saci_0825;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0825
+747;306;cob(I)alamin adenosyltransferase [EC:2.5.1.17];(GenBank);sai:Saci_2373;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2373
+748;307;adenosylcobyric acid synthase [EC:6.3.5.10];(GenBank);sai:Saci_0413;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0413
+749;309;cob(I)alamin adenosyltransferase [EC:2.5.1.17];(GenBank);sai:Saci_2373;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2373
+750;312;cob(I)alamin adenosyltransferase [EC:2.5.1.17];(GenBank);sai:Saci_2373;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2373
+751;315;adenosylcobinamide-GDP ribazoletransferase [EC:2.7.8.26];(GenBank);sai:Saci_0412;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0412
+752;320;adenosylcobinamide-phosphate synthase [EC:6.3.1.10];cobD;sai:Saci_0411;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0411
+753;321;adenosylcobinamide-phosphate synthase [EC:6.3.1.10];cobD;sai:Saci_0411;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0411
+754;323;cobalt-precorrin 5A hydrolase [EC:3.7.1.12];cbiG;sai:Saci_0401;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0401+sai:Saci_2322
+755;324;cobalt-precorrin-5B (C1)-methyltransferase [EC:2.1.1.195];(GenBank);sai:Saci_0397;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0397
+756;460;cob(I)alamin adenosyltransferase [EC:2.5.1.17];(GenBank);sai:Saci_2373;sai00860;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2373
+757;70;mevalonate kinase [EC:2.7.1.36];mvk;sai:Saci_2365;sai00900;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2365
+758;71;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(GenBank);sai:Saci_0963;sai00900;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0963+sai:Saci_1114+sai:Saci_1121+sai:Saci_1361+sai:Saci_2209+sai:Saci_2232+sai:Saci_2233+sai:Saci_2288
+759;72;hydroxymethylglutaryl-CoA synthase [EC:2.3.3.10];(GenBank);sai:Saci_1362;sai00900;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1362
+760;75;hydroxymethylglutaryl-CoA reductase (NADPH) [EC:1.1.1.34];(GenBank);sai:Saci_1359;sai00900;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1359
+761;98;isopentenyl-diphosphate Delta-isomerase [EC:5.3.3.2];(GenBank);sai:Saci_0091;sai00900;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0091
+762;100;diphosphomevalonate decarboxylase [EC:4.1.1.33];mvd;sai:Saci_1245;sai00900;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1245
+763;101;phosphomevalonate kinase [EC:2.7.4.2];(GenBank);sai:Saci_1244;sai00900;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1244
+764;103;geranylgeranyl diphosphate synthase, type I [EC:2.5.1.1 2.5.1.10 2.5.1.29];gds;sai:Saci_0092;sai00900;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0092
+765;105;geranylgeranyl diphosphate synthase, type I [EC:2.5.1.1 2.5.1.10 2.5.1.29];gds;sai:Saci_0092;sai00900;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0092
+766;116;geranylgeranyl diphosphate synthase, type I [EC:2.5.1.1 2.5.1.10 2.5.1.29];gds;sai:Saci_0092;sai00900;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0092
+767;125;hexaprenyl diphosphate synthase [EC:2.5.1.82];(GenBank);sai:Saci_0995;sai00900;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0995
+768;132;tritrans,polycis-undecaprenyl-diphosphate synthase [geranylgeranyl-diphosphate specific] [EC:2.5.1.89];(GenBank);sai:Saci_0757;sai00900;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0757
+769;103;beta-carotene 3-hydroxylase [EC:1.14.15.24];crtZ;sai:Saci_1733;sai00906;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1733
+770;224;beta-carotene 3-hydroxylase [EC:1.14.15.24];crtZ;sai:Saci_1733;sai00906;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1733
+771;225;beta-carotene 3-hydroxylase [EC:1.14.15.24];crtZ;sai:Saci_1733;sai00906;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1733
+772;226;beta-carotene 3-hydroxylase [EC:1.14.15.24];crtZ;sai:Saci_1733;sai00906;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1733
+773;227;beta-carotene 3-hydroxylase [EC:1.14.15.24];crtZ;sai:Saci_1733;sai00906;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1733
+774;228;beta-carotene 3-hydroxylase [EC:1.14.15.24];crtZ;sai:Saci_1733;sai00906;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1733
+775;229;beta-carotene 3-hydroxylase [EC:1.14.15.24];crtZ;sai:Saci_1733;sai00906;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1733
+776;244;beta-carotene 3-hydroxylase [EC:1.14.15.24];crtZ;sai:Saci_1733;sai00906;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1733
+777;245;beta-carotene 3-hydroxylase [EC:1.14.15.24];crtZ;sai:Saci_1733;sai00906;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1733
+778;246;beta-carotene 3-hydroxylase [EC:1.14.15.24];crtZ;sai:Saci_1733;sai00906;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1733
+779;325;15-cis-phytoene synthase [EC:2.5.1.32];(GenBank);sai:Saci_1734;sai00906;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1734
+780;326;15-cis-phytoene synthase [EC:2.5.1.32];(GenBank);sai:Saci_1734;sai00906;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1734
+781;345;phytoene desaturase [EC:1.3.99.26 1.3.99.28 1.3.99.29 1.3.99.31];(GenBank);sai:Saci_1732;sai00906;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1732
+782;347;phytoene desaturase [EC:1.3.99.26 1.3.99.28 1.3.99.29 1.3.99.31];(GenBank);sai:Saci_1732;sai00906;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1732
+783;348;phytoene desaturase [EC:1.3.99.26 1.3.99.28 1.3.99.29 1.3.99.31];(GenBank);sai:Saci_1732;sai00906;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1732
+784;366;phytoene desaturase [EC:1.3.99.26 1.3.99.28 1.3.99.29 1.3.99.31];(GenBank);sai:Saci_1732;sai00906;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1732
+785;383;phytoene desaturase [EC:1.3.99.26 1.3.99.28 1.3.99.29 1.3.99.31];(GenBank);sai:Saci_1732;sai00906;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1732
+786;385;phytoene desaturase [EC:1.3.99.26 1.3.99.28 1.3.99.29 1.3.99.31];(GenBank);sai:Saci_1732;sai00906;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1732
+787;387;phytoene desaturase [EC:1.3.99.26 1.3.99.28 1.3.99.29 1.3.99.31];(GenBank);sai:Saci_1732;sai00906;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1732
+788;389;phytoene desaturase [EC:1.3.99.26 1.3.99.28 1.3.99.29 1.3.99.31];(GenBank);sai:Saci_1732;sai00906;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1732
+789;390;phytoene desaturase [EC:1.3.99.26 1.3.99.28 1.3.99.29 1.3.99.31];(GenBank);sai:Saci_1732;sai00906;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1732
+790;391;phytoene desaturase [EC:1.3.99.26 1.3.99.28 1.3.99.29 1.3.99.31];(GenBank);sai:Saci_1732;sai00906;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1732
+791;392;phytoene desaturase [EC:1.3.99.26 1.3.99.28 1.3.99.29 1.3.99.31];(GenBank);sai:Saci_1732;sai00906;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1732
+792;83;glutamine synthetase [EC:6.3.1.2];glnA;sai:Saci_0558;sai00910;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0558+sai:Saci_1483+sai:Saci_2141
+793;93;glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3];gdhA;sai:Saci_0155;sai00910;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0155
+794;31;sulfite reductase (NADPH) hemoprotein beta-component [EC:1.8.1.2];sir;sai:Saci_2201;sai00920;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2201
+795;42;sulfate adenylyltransferase [EC:2.7.7.4];sat;sai:Saci_2203;sai00920;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2203
+796;48;phosphoadenosine phosphosulfate reductase [EC:1.8.4.8 1.8.4.10];cysH;sai:Saci_1925;sai00920;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1925+sai:Saci_2202
+797;69;methanethiol oxidase [EC:1.8.3.4];(GenBank);sai:Saci_0305;sai00920;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0305
+798;77;sulfide:quinone oxidoreductase [EC:1.8.5.4];(GenBank);sai:Saci_0331;sai00920;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0331
+799;90;thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2];(GenBank);sai:Saci_2198;sai00920;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2198
+800;103;cysteine synthase [EC:2.5.1.47];cysM;sai:Saci_1475;sai00920;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1475
+801;121;cystathionine gamma-synthase [EC:2.5.1.48];(GenBank);sai:Saci_0971;sai00920;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0971
+802;150;phosphoadenosine phosphosulfate reductase [EC:1.8.4.8 1.8.4.10];cysH;sai:Saci_1925;sai00920;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1925+sai:Saci_2202
+803;153;sulfite reductase (NADPH) hemoprotein beta-component [EC:1.8.1.2];sir;sai:Saci_2201;sai00920;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2201
+804;158;sulfate adenylyltransferase [EC:2.7.7.4];sat;sai:Saci_2203;sai00920;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2203
+805;164;sulfate adenylyltransferase [EC:2.7.7.4];sat;sai:Saci_2203;sai00920;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2203
+806;24;isoleucyl-tRNA synthetase [EC:6.1.1.5];ileS;sai:Saci_0599;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0599
+807;59;histidyl-tRNA synthetase [EC:6.1.1.21];(GenBank);sai:Saci_0663;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0663
+808;60;phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20];(GenBank);sai:Saci_1510;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1510+sai:Saci_1511
+809;61;arginyl-tRNA synthetase [EC:6.1.1.19];argS;sai:Saci_1396;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1396
+810;63;cysteinyl-tRNA synthetase [EC:6.1.1.16];cysRS;sai:Saci_0152;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0152
+811;64;glycyl-tRNA synthetase [EC:6.1.1.14];glyRS;sai:Saci_0862;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0862
+812;66;seryl-tRNA synthetase [EC:6.1.1.11];(GenBank);sai:Saci_1584;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1584
+813;67;methionyl-tRNA synthetase [EC:6.1.1.10];(GenBank);sai:Saci_1544;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1544
+814;68;valyl-tRNA synthetase [EC:6.1.1.9];valS;sai:Saci_1430;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1430
+815;69;alanyl-tRNA synthetase [EC:6.1.1.7];(GenBank);sai:Saci_1168;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1168+sai:Saci_1455
+816;70;lysyl-tRNA synthetase, class II [EC:6.1.1.6];lysS;sai:Saci_0067;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0067
+817;71;leucyl-tRNA synthetase [EC:6.1.1.4];(GenBank);sai:Saci_0373;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0373+sai:Saci_1572
+818;72;threonyl-tRNA synthetase [EC:6.1.1.3];(GenBank);sai:Saci_1261;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1261
+819;73;tryptophanyl-tRNA synthetase [EC:6.1.1.2];trpS;sai:Saci_0450;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0450
+820;75;tyrosyl-tRNA synthetase [EC:6.1.1.1];tys1;sai:Saci_0076;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0076
+821;76;prolyl-tRNA synthetase [EC:6.1.1.15];(GenBank);sai:Saci_1553;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1553
+822;77;glutamyl-tRNA synthetase [EC:6.1.1.17];(GenBank);sai:Saci_1519;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1519
+823;128;aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A [EC:6.3.5.6 6.3.5.7];gatA;sai:Saci_0361;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0361+sai:Saci_0700+sai:Saci_0910+sai:Saci_1329+sai:Saci_1330+sai:Saci_1349+sai:Saci_1350+sai:Saci_2168
+824;131;aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A [EC:6.3.5.6 6.3.5.7];gatA;sai:Saci_0361;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0361+sai:Saci_0700+sai:Saci_0910+sai:Saci_1329+sai:Saci_1330+sai:Saci_2168
+825;132;nondiscriminating aspartyl-tRNA synthetase [EC:6.1.1.23];aspS;sai:Saci_0768;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0768
+826;137;seryl-tRNA synthetase [EC:6.1.1.11];(GenBank);sai:Saci_1584;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1584
+827;151;nondiscriminating aspartyl-tRNA synthetase [EC:6.1.1.23];aspS;sai:Saci_0768;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0768
+828;156;tRNA Glu;(GenBank);sai:Saci_0470;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0470+sai:Saci_0868
+829;157;tRNA Gln;(GenBank);sai:Saci_0540;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0540+sai:Saci_1451
+830;158;tRNA Ala;(GenBank);sai:Saci_0723;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0723+sai:Saci_1273+sai:Saci_2358
+831;159;tRNA Asp;(GenBank);sai:Saci_0519;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0519+sai:Saci_0522
+832;160;tRNA Ser;(GenBank);sai:Saci_0096;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0096+sai:Saci_0644+sai:Saci_0683+sai:Saci_0809
+833;161;tRNA Thr;(GenBank);sai:Saci_0705;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0705+sai:Saci_1258+sai:Saci_1392
+834;162;tRNA Asn;(GenBank);sai:Saci_2335;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_2335
+835;163;tRNA Gly;(GenBank);sai:Saci_0537;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0537+sai:Saci_0561+sai:Saci_2315
+836;164;tRNA Cys;(GenBank);sai:Saci_0764;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0764
+837;166;tRNA Met;(GenBank);sai:Saci_0521;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0521+sai:Saci_0648+sai:Saci_1365
+838;167;tRNA Val;(GenBank);sai:Saci_0629;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0629+sai:Saci_0638+sai:Saci_0649+sai:Saci_0741
+839;168;tRNA Leu;(GenBank);sai:Saci_0628;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0628+sai:Saci_0645+sai:Saci_0890+sai:Saci_1000+sai:Saci_1303
+840;169;tRNA Ile;(GenBank);sai:Saci_1268;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_1268
+841;170;tRNA Lys;(GenBank);sai:Saci_0760;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0760+sai:Saci_0762
+842;172;tRNA Arg;(GenBank);sai:Saci_0170;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0170+sai:Saci_0674+sai:Saci_1395+sai:Saci_1453+sai:Saci_1522
+843;173;tRNA Pro;(GenBank);sai:Saci_0063;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0063+sai:Saci_1291+sai:Saci_2360
+844;174;tRNA His;(GenBank);sai:Saci_0457;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0457
+845;175;tRNA Phe;(GenBank);sai:Saci_0563;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0563
+846;177;tRNA Trp;(GenBank);sai:Saci_0066;sai00970;http://www.kegg.jp/dbget-bin/www_bget?sai:Saci_0066

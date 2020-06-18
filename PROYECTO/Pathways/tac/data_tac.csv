@@ -1,0 +1,695 @@
+;n;enzima;gen;nob_Keeg;path;link
+1;'14';fructose 1,6-bisphosphate aldolase/phosphatase [EC:4.1.2.13 3.1.3.11];(GenBank);tac:Ta1428;tac00010;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1428
+1;14;fructose 1,6-bisphosphate aldolase/phosphatase [EC:4.1.2.13 3.1.3.11];(GenBank);tac:Ta1428;tac00010;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1428
+2;38;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);tac:Ta0439;tac00010;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0439
+3;39;acetate---CoA ligase (ADP-forming) [EC:6.2.1.13];(GenBank);tac:Ta1153;tac00010;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1153
+4;48;pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1];(GenBank);tac:Ta1437;tac00010;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1437+tac:Ta1438
+5;49;pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1];(GenBank);tac:Ta1437;tac00010;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1437+tac:Ta1438
+6;50;pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12];(GenBank);tac:Ta1436;tac00010;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1436
+7;53;pyruvate kinase [EC:2.7.1.40];(GenBank);tac:Ta0896;tac00010;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0896
+8;55;enolase [EC:4.2.1.11];(GenBank);tac:Ta0882;tac00010;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0882
+9;58;triosephosphate isomerase (TIM) [EC:5.3.1.1];(GenBank);tac:Ta0313;tac00010;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0313
+10;60;fructose 1,6-bisphosphate aldolase/phosphatase [EC:4.1.2.13 3.1.3.11];(GenBank);tac:Ta1428;tac00010;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1428
+11;62;glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8];(GenBank);tac:Ta1419;tac00010;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1419
+12;63;phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2];(GenBank);tac:Ta0568;tac00010;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0568
+13;64;glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8];(GenBank);tac:Ta1419;tac00010;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1419
+14;66;glucokinase [EC:2.7.1.2];(GenBank);tac:Ta0825;tac00010;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0825
+15;67;glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8];(GenBank);tac:Ta1419;tac00010;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1419
+16;69;aldose 1-epimerase [EC:5.1.3.3];(GenBank);tac:Ta0674;tac00010;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0674+tac:Ta0911
+17;70;glucokinase [EC:2.7.1.2];(GenBank);tac:Ta0825;tac00010;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0825
+18;75;dihydrolipoamide dehydrogenase [EC:1.8.1.4];(GenBank);tac:Ta0208;tac00010;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0208+tac:Ta1435
+19;76;phosphoglycerate kinase [EC:2.7.2.3];(GenBank);tac:Ta1075;tac00010;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1075
+20;112;phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32];(GenBank);tac:Ta0123;tac00010;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0123
+21;119;glyceraldehyde-3-phosphate dehydrogenase (NAD(P)) [EC:1.2.1.59];(GenBank);tac:Ta1103;tac00010;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1103
+22;124;2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit [EC:1.2.7.7 1.2.7.1];(GenBank);tac:Ta0626;tac00010;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0626
+23;131;acetyl-CoA synthetase [EC:6.2.1.1];(GenBank);tac:Ta0229;tac00010;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0229+tac:Ta0421+tac:Ta0769+tac:Ta1508
+24;137;2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12];(GenBank);tac:Ta0413;tac00010;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0413+tac:Ta0823+tac:Ta1347
+25;144;2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11];(GenBank);tac:Ta0259;tac00010;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0259+tac:Ta0260+tac:Ta0772+tac:Ta0773
+26;28;dihydrolipoamide dehydrogenase [EC:1.8.1.4];(GenBank);tac:Ta0208;tac00020;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0208+tac:Ta1435
+27;32;succinyl-CoA synthetase alpha subunit [EC:6.2.1.5];(GenBank);tac:Ta1331;tac00020;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1331+tac:Ta1332
+28;34;isocitrate dehydrogenase [EC:1.1.1.42];(GenBank);tac:Ta0117;tac00020;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0117
+29;36;isocitrate dehydrogenase [EC:1.1.1.42];(GenBank);tac:Ta0117;tac00020;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0117
+30;38;fumarate hydratase, class II [EC:4.2.1.2];(GenBank);tac:Ta0258;tac00020;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0258
+31;39;aconitate hydratase [EC:4.2.1.3];(GenBank);tac:Ta0112;tac00020;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0112
+32;40;aconitate hydratase [EC:4.2.1.3];(GenBank);tac:Ta0112;tac00020;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0112
+33;41;citrate synthase [EC:2.3.3.1];(GenBank);tac:Ta0169;tac00020;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0169+tac:Ta0819
+34;42;malate dehydrogenase [EC:1.1.1.37];(GenBank);tac:Ta0952;tac00020;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0952
+35;75;pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1];(GenBank);tac:Ta1437;tac00020;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1437+tac:Ta1438
+36;77;pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1];(GenBank);tac:Ta1437;tac00020;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1437+tac:Ta1438
+37;80;dihydrolipoamide dehydrogenase [EC:1.8.1.4];(GenBank);tac:Ta0208;tac00020;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0208+tac:Ta1435
+38;82;pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12];(GenBank);tac:Ta1436;tac00020;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1436
+39;87;phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32];(GenBank);tac:Ta0123;tac00020;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0123
+40;92;succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4];(GenBank);tac:Ta1001;tac00020;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1001+tac:Ta1002+tac:Ta1003+tac:Ta1004
+41;95;succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4];(GenBank);tac:Ta1001;tac00020;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1001+tac:Ta1002+tac:Ta1003+tac:Ta1004
+42;99;2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11];(GenBank);tac:Ta0259;tac00020;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0259+tac:Ta0260+tac:Ta0772+tac:Ta0773
+43;101;2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit [EC:1.2.7.7 1.2.7.1];(GenBank);tac:Ta0626;tac00020;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0626
+44;102;2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11];(GenBank);tac:Ta0259;tac00020;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0259+tac:Ta0260+tac:Ta0772+tac:Ta0773
+45;103;2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11];(GenBank);tac:Ta0259;tac00020;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0259+tac:Ta0260+tac:Ta0772+tac:Ta0773
+46;37;glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8];(GenBank);tac:Ta1419;tac00030;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1419
+47;42;deoxyribose-phosphate aldolase [EC:4.1.2.4];(GenBank);tac:Ta0684;tac00030;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0684
+48;43;ribose-phosphate pyrophosphokinase [EC:2.7.6.1];(GenBank);tac:Ta0119;tac00030;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0119
+49;46;transketolase [EC:2.2.1.1];(GenBank);tac:Ta0617;tac00030;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0617+tac:Ta0618
+50;47;ribose 5-phosphate isomerase A [EC:5.3.1.6];(GenBank);tac:Ta0878;tac00030;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0878
+51;48;ribulose-phosphate 3-epimerase [EC:5.1.3.1];(GenBank);tac:Ta1315;tac00030;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1315
+52;49;transketolase [EC:2.2.1.1];(GenBank);tac:Ta0617;tac00030;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0617+tac:Ta0618
+53;50;fructose 1,6-bisphosphate aldolase/phosphatase [EC:4.1.2.13 3.1.3.11];(GenBank);tac:Ta1428;tac00030;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1428
+54;52;fructose 1,6-bisphosphate aldolase/phosphatase [EC:4.1.2.13 3.1.3.11];(GenBank);tac:Ta1428;tac00030;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1428
+55;53;glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8];(GenBank);tac:Ta1419;tac00030;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1419
+56;77;transaldolase [EC:2.2.1.2];(GenBank);tac:Ta0616;tac00030;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0616
+57;78;phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2];(GenBank);tac:Ta0568;tac00030;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0568
+58;84;2-dehydro-3-deoxy-phosphogluconate/2-dehydro-3-deoxy-6-phosphogalactonate aldolase [EC:4.1.2.55];(GenBank);tac:Ta0619;tac00030;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0619
+59;86;aldehyde:ferredoxin oxidoreductase [EC:1.2.7.5];(GenBank);tac:Ta0810;tac00030;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0810+tac:Ta0834+tac:Ta1142
+60;88;glycerate 2-kinase [EC:2.7.1.165];(GenBank);tac:Ta0453;tac00030;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0453
+61;91;2-dehydro-3-deoxy-phosphogluconate/2-dehydro-3-deoxy-6-phosphogalactonate aldolase [EC:4.1.2.55];(GenBank);tac:Ta0619;tac00030;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0619
+62;147;2-dehydro-3-deoxy-D-gluconate aldolase [EC:4.1.2.51];(GenBank);tac:Ta1157;tac00030;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1157
+63;149;glucose/galactose 1-dehydrogenase (NADP+) [EC:1.1.1.360];(GenBank);tac:Ta0897;tac00030;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0897
+64;152;D-glyceraldehyde dehydrogenase (NADP+) [EC:1.2.1.89];(GenBank);tac:Ta0809;tac00030;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0809
+65;78;ribulose-phosphate 3-epimerase [EC:5.1.3.1];(GenBank);tac:Ta1315;tac00040;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1315
+66;108;mannonate dehydratase [EC:4.2.1.8];(GenBank);tac:Ta0753;tac00040;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0753
+67;78;glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8];(GenBank);tac:Ta1419;tac00051;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1419
+68;79;phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2];(GenBank);tac:Ta0568;tac00051;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0568
+69;84;mannose-1-phosphate guanylyltransferase [EC:2.7.7.13];(GenBank);tac:Ta1486;tac00051;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1486
+70;93;triosephosphate isomerase (TIM) [EC:5.3.1.1];(GenBank);tac:Ta0313;tac00051;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0313
+71;94;fructose 1,6-bisphosphate aldolase/phosphatase [EC:4.1.2.13 3.1.3.11];(GenBank);tac:Ta1428;tac00051;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1428
+72;96;fructose 1,6-bisphosphate aldolase/phosphatase [EC:4.1.2.13 3.1.3.11];(GenBank);tac:Ta1428;tac00051;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1428
+73;100;L-rhamnose 1-dehydrogenase [EC:1.1.1.378 1.1.1.377 1.1.1.173];(GenBank);tac:Ta0747;tac00051;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0747
+74;105;fructose 1,6-bisphosphate aldolase/phosphatase [EC:4.1.2.13 3.1.3.11];(GenBank);tac:Ta1428;tac00051;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1428
+75;218;L-rhamnose 1-dehydrogenase [EC:1.1.1.378 1.1.1.377 1.1.1.173];(GenBank);tac:Ta0747;tac00051;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0747
+76;219;L-rhamnose 1-dehydrogenase [EC:1.1.1.378 1.1.1.377 1.1.1.173];(GenBank);tac:Ta0747;tac00051;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0747
+77;64;alpha-glucosidase [EC:3.2.1.20];(GenBank);tac:Ta0298;tac00052;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0298
+78;73;glucokinase [EC:2.7.1.2];(GenBank);tac:Ta0825;tac00052;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0825
+79;76;beta-galactosidase [EC:3.2.1.23];(GenBank);tac:Ta1323;tac00052;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1323
+80;77;phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2];(GenBank);tac:Ta0568;tac00052;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0568
+81;79;UDP-glucose 4-epimerase [EC:5.1.3.2];(GenBank);tac:Ta0011;tac00052;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0011+tac:Ta0343
+82;84;galactonate dehydratase [EC:4.2.1.6];(GenBank);tac:Ta0756;tac00052;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0756
+83;94;beta-galactosidase [EC:3.2.1.23];(GenBank);tac:Ta1323;tac00052;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1323
+84;157;2-dehydro-3-deoxy-D-gluconate aldolase [EC:4.1.2.51];(GenBank);tac:Ta1157;tac00052;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1157
+85;159;2-dehydro-3-deoxy-phosphogluconate/2-dehydro-3-deoxy-6-phosphogalactonate aldolase [EC:4.1.2.55];(GenBank);tac:Ta0619;tac00052;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0619
+86;161;2-dehydro-3-deoxy-phosphogluconate/2-dehydro-3-deoxy-6-phosphogalactonate aldolase [EC:4.1.2.55];(GenBank);tac:Ta0619;tac00052;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0619
+87;165;glucose/galactose 1-dehydrogenase (NADP+) [EC:1.1.1.360];(GenBank);tac:Ta0897;tac00052;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0897
+88;172;aldose 1-epimerase [EC:5.1.3.3];(GenBank);tac:Ta0674;tac00052;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0674+tac:Ta0911
+89;62;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];(GenBank);tac:Ta0251;tac00061;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0251+tac:Ta0441+tac:Ta0822
+90;83;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];(GenBank);tac:Ta0251;tac00061;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0251+tac:Ta0441+tac:Ta0822
+91;94;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];(GenBank);tac:Ta0251;tac00061;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0251+tac:Ta0441+tac:Ta0822
+92;105;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];(GenBank);tac:Ta0251;tac00061;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0251+tac:Ta0441+tac:Ta0822
+93;116;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];(GenBank);tac:Ta0251;tac00061;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0251+tac:Ta0441+tac:Ta0822
+94;127;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];(GenBank);tac:Ta0251;tac00061;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0251+tac:Ta0441+tac:Ta0822
+95;138;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];(GenBank);tac:Ta0251;tac00061;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0251+tac:Ta0441+tac:Ta0822
+96;150;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];(GenBank);tac:Ta0251;tac00061;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0251+tac:Ta0441+tac:Ta0822
+97;363;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];(GenBank);tac:Ta0251;tac00061;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0251+tac:Ta0441+tac:Ta0822
+98;419;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];(GenBank);tac:Ta0251;tac00061;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0251+tac:Ta0441+tac:Ta0822
+99;49;acyl-CoA dehydrogenase [EC:1.3.8.7];(GenBank);tac:Ta0398;tac00071;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0398
+100;53;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(GenBank);tac:Ta0030;tac00071;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0030+tac:Ta0296+tac:Ta0351+tac:Ta0582+tac:Ta1456
+101;58;acyl-CoA dehydrogenase [EC:1.3.8.7];(GenBank);tac:Ta0398;tac00071;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0398
+102;65;acyl-CoA dehydrogenase [EC:1.3.8.7];(GenBank);tac:Ta0398;tac00071;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0398
+103;72;acyl-CoA dehydrogenase [EC:1.3.8.7];(GenBank);tac:Ta0398;tac00071;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0398
+104;82;acyl-CoA dehydrogenase [EC:1.3.8.7];(GenBank);tac:Ta0398;tac00071;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0398
+105;96;acyl-CoA dehydrogenase [EC:1.3.8.7];(GenBank);tac:Ta0398;tac00071;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0398
+106;108;acyl-CoA dehydrogenase [EC:1.3.8.7];(GenBank);tac:Ta0398;tac00071;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0398
+107;202;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(GenBank);tac:Ta0030;tac00071;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0030+tac:Ta0296+tac:Ta0351+tac:Ta0582+tac:Ta1456
+108;213;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);tac:Ta0439;tac00071;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0439
+109;11;hydroxymethylglutaryl-CoA synthase [EC:2.3.3.10];(GenBank);tac:Ta1455;tac00072;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1455
+110;14;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(GenBank);tac:Ta0030;tac00072;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0030+tac:Ta0296+tac:Ta0351+tac:Ta0582+tac:Ta1456
+111;61;O-succinylbenzoate synthase [EC:4.2.1.113];(GenBank);tac:Ta0249;tac00130;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0249
+112;65;flavin prenyltransferase [EC:2.5.1.129];(GenBank);tac:Ta1100;tac00130;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1100+tac:Ta1199
+113;92;4-hydroxybenzoate polyprenyltransferase [EC:2.5.1.39];(GenBank);tac:Ta1198;tac00130;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1198
+114;105;demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201];(GenBank);tac:Ta0801;tac00130;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0801
+115;136;demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201];(GenBank);tac:Ta0801;tac00130;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0801
+116;191;1,4-dihydroxy-6-naphthoate synthase [EC:1.14.-.-];(GenBank);tac:Ta0174;tac00130;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0174
+117;70;NADH-quinone oxidoreductase subunit N [EC:7.1.1.2];(GenBank);tac:Ta0959;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0959
+118;71;NADH-quinone oxidoreductase subunit M [EC:7.1.1.2];(GenBank);tac:Ta0960;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0960
+119;72;NADH-quinone oxidoreductase subunit L [EC:7.1.1.2];(GenBank);tac:Ta0961;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0961
+120;73;NADH-quinone oxidoreductase subunit K [EC:7.1.1.2];(GenBank);tac:Ta0962;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0962
+121;74;NADH-quinone oxidoreductase subunit J [EC:7.1.1.2];(GenBank);tac:Ta0963;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0963+tac:Ta0964
+122;75;NADH-quinone oxidoreductase subunit I [EC:7.1.1.2];(GenBank);tac:Ta0965;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0965
+123;76;NADH-quinone oxidoreductase subunit H [EC:7.1.1.2];(GenBank);tac:Ta0966;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0966
+124;80;NADH-quinone oxidoreductase subunit D [EC:7.1.1.2];(GenBank);tac:Ta0967;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0967
+125;81;NADH-quinone oxidoreductase subunit C [EC:7.1.1.2];(GenBank);tac:Ta0968;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0968
+126;82;NADH-quinone oxidoreductase subunit B [EC:7.1.1.2];(GenBank);tac:Ta0969;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0969
+127;83;NADH-quinone oxidoreductase subunit A [EC:7.1.1.2];(GenBank);tac:Ta0970;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0970
+128;109;NADH-quinone oxidoreductase subunit N [EC:7.1.1.2];(GenBank);tac:Ta0959;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0959+tac:Ta0960+tac:Ta0961+tac:Ta0962+tac:Ta0963+tac:Ta0964+tac:Ta0965+tac:Ta0966+tac:Ta0967+tac:Ta0968+tac:Ta0969+tac:Ta0970
+129;112;V/A-type H+/Na+-transporting ATPase subunit E;(GenBank);tac:Ta0001;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0001+tac:Ta0002+tac:Ta0003+tac:Ta0004+tac:Ta0005+tac:Ta0006+tac:Ta0008
+130;114;H+-transporting ATPase [EC:7.1.2.1];(GenBank);tac:Ta1045;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1045
+131;115;inorganic pyrophosphatase [EC:3.6.1.1];(GenBank);tac:Ta0399;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0399
+132;140;succinate dehydrogenase / fumarate reductase, cytochrome b subunit;(GenBank);tac:Ta1003;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1003
+133;141;succinate dehydrogenase / fumarate reductase, membrane anchor subunit;(GenBank);tac:Ta1004;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1004
+134;142;succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4];(GenBank);tac:Ta1001;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1001
+135;143;succinate dehydrogenase / fumarate reductase, iron-sulfur subunit [EC:1.3.5.1 1.3.5.4];(GenBank);tac:Ta1002;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1002
+136;158;cytochrome bd ubiquinol oxidase subunit II [EC:7.1.1.7];(GenBank);tac:Ta0993;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0993
+137;159;cytochrome bd ubiquinol oxidase subunit I [EC:7.1.1.7];(GenBank);tac:Ta0992;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0992+tac:Ta1484
+138;171;heme o synthase [EC:2.5.1.141];(GenBank);tac:Ta0435;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0435
+139;176;heme o synthase [EC:2.5.1.141];(GenBank);tac:Ta0435;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0435
+140;202;V/A-type H+/Na+-transporting ATPase subunit A [EC:7.1.2.2 7.2.2.1];(GenBank);tac:Ta0004;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0004
+141;203;V/A-type H+/Na+-transporting ATPase subunit B;(GenBank);tac:Ta0005;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0005
+142;204;V/A-type H+/Na+-transporting ATPase subunit C;(GenBank);tac:Ta0002;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0002
+143;205;V/A-type H+/Na+-transporting ATPase subunit D;(GenBank);tac:Ta0006;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0006
+144;206;V/A-type H+/Na+-transporting ATPase subunit E;(GenBank);tac:Ta0001;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0001
+145;207;V/A-type H+/Na+-transporting ATPase subunit F;(GenBank);tac:Ta0003;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0003
+146;208;V/A-type H+/Na+-transporting ATPase subunit I;(GenBank);tac:Ta0008;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0008
+147;255;succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4];(GenBank);tac:Ta1001;tac00190;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1001+tac:Ta1002+tac:Ta1003+tac:Ta1004
+148;45;phosphoribosylformylglycinamidine synthase subunit PurQ / glutaminase [EC:6.3.5.3 3.5.1.2];(GenBank);tac:Ta1318;tac00220;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1318
+149;46;glutamine synthetase [EC:6.3.1.2];(GenBank);tac:Ta1498;tac00220;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1498
+150;47;carbamate kinase [EC:2.7.2.2];(GenBank);tac:Ta1350;tac00220;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1350
+151;49;ornithine carbamoyltransferase [EC:2.1.3.3];(GenBank);tac:Ta1330;tac00220;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1330
+152;50;argininosuccinate synthase [EC:6.3.4.5];(GenBank);tac:Ta0650;tac00220;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0650
+153;52;argininosuccinate lyase [EC:4.3.2.1];(GenBank);tac:Ta0649;tac00220;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0649
+154;64;arginine deiminase [EC:3.5.3.6];(GenBank);tac:Ta0987;tac00220;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0987
+155;67;glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3];(GenBank);tac:Ta0635;tac00220;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0635+tac:Ta0776
+156;88;aspartate aminotransferase [EC:2.6.1.1];(GenBank);tac:Ta0529;tac00220;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0529
+157;137;ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1];(GenBank);tac:Ta1475;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1475
+158;157;ribose-phosphate pyrophosphokinase [EC:2.7.6.1];(GenBank);tac:Ta0119;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0119
+159;158;amidophosphoribosyltransferase [EC:2.4.2.14];(GenBank);tac:Ta1242;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1242
+160;160;phosphoribosylamine---glycine ligase [EC:6.3.4.13];(GenBank);tac:Ta0594;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0594+tac:Ta0595
+161;161;phosphoribosylglycinamide formyltransferase 1 [EC:2.1.2.2];(GenBank);tac:Ta0082;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0082
+162;162;phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1];(GenBank);tac:Ta0090;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0090
+163;163;phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10];(GenBank);tac:Ta0060;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0060
+164;164;adenylosuccinate lyase [EC:4.3.2.2];(GenBank);tac:Ta0523;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0523
+165;165;phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:6.3.2.6];(GenBank);tac:Ta0309;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0309
+166;167;phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10];(GenBank);tac:Ta0060;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0060
+167;173;nucleoside-diphosphate kinase [EC:2.7.4.6];(GenBank);tac:Ta1113;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1113
+168;174;nucleoside-diphosphate kinase [EC:2.7.4.6];(GenBank);tac:Ta1113;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1113
+169;175;ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1];(GenBank);tac:Ta1475;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1475
+170;177;adenylate kinase [EC:2.7.4.3];(GenBank);tac:Ta0570;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0570+tac:Ta1247
+171;178;adenylosuccinate lyase [EC:4.3.2.2];(GenBank);tac:Ta0523;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0523
+172;179;adenylosuccinate synthase [EC:6.3.4.4];(GenBank);tac:Ta1367;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1367
+173;190;nucleoside kinase [EC:2.7.1.73 2.7.1.213 2.7.1.-];(GenBank);tac:Ta0880;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0880
+174;197;nucleoside-diphosphate kinase [EC:2.7.4.6];(GenBank);tac:Ta1113;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1113
+175;200;IMP dehydrogenase [EC:1.1.1.205];(GenBank);tac:Ta0219;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0219
+176;201;GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2];(GenBank);tac:Ta0944;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0944+tac:Ta1361
+177;212;nucleoside kinase [EC:2.7.1.73 2.7.1.213 2.7.1.-];(GenBank);tac:Ta0880;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0880
+178;232;nucleoside-diphosphate kinase [EC:2.7.4.6];(GenBank);tac:Ta1113;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1113
+179;234;nucleoside-diphosphate kinase [EC:2.7.4.6];(GenBank);tac:Ta1113;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1113
+180;252;phosphoribosylformylglycinamidine synthase subunit PurS [EC:6.3.5.3];(GenBank);tac:Ta1044;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1044+tac:Ta1066+tac:Ta1318
+181;279;adenylate kinase [EC:2.7.4.3];(GenBank);tac:Ta0570;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0570+tac:Ta1247
+182;287;nucleoside-diphosphate kinase [EC:2.7.4.6];(GenBank);tac:Ta1113;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1113
+183;292;pyruvate kinase [EC:2.7.1.40];(GenBank);tac:Ta0896;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0896
+184;293;pyruvate kinase [EC:2.7.1.40];(GenBank);tac:Ta0896;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0896
+185;304;pyruvate kinase [EC:2.7.1.40];(GenBank);tac:Ta0896;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0896
+186;305;pyruvate kinase [EC:2.7.1.40];(GenBank);tac:Ta0896;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0896
+187;306;nucleoside-triphosphatase [EC:3.6.1.15];(GenBank);tac:Ta0998;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0998
+188;412;carbamate kinase [EC:2.7.2.2];(GenBank);tac:Ta1350;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1350
+189;419;5-(carboxyamino)imidazole ribonucleotide synthase [EC:6.3.4.18];(GenBank);tac:Ta1107;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1107
+190;420;5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18];(GenBank);tac:Ta0303;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0303
+191;423;phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2];(GenBank);tac:Ta0568;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0568
+192;429;XTP/dITP diphosphohydrolase [EC:3.6.1.66];(GenBank);tac:Ta0325;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0325
+193;430;XTP/dITP diphosphohydrolase [EC:3.6.1.66];(GenBank);tac:Ta0325;tac00230;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0325
+194;81;ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1];(GenBank);tac:Ta1475;tac00240;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1475
+195;84;uridylate kinase [EC:2.7.4.22];(GenBank);tac:Ta0486;tac00240;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0486
+196;88;carbamoyl-phosphate synthase large subunit [EC:6.3.5.5];(GenBank);tac:Ta0791;tac00240;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0791+tac:Ta0792
+197;94;aspartate carbamoyltransferase regulatory subunit;(GenBank);tac:Ta0574;tac00240;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0574+tac:Ta0575
+198;95;dihydroorotase [EC:3.5.2.3];(GenBank);tac:Ta1319;tac00240;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1319
+199;96;dihydroorotate dehydrogenase electron transfer subunit;(GenBank);tac:Ta0403;tac00240;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0403+tac:Ta0404
+200;98;orotate phosphoribosyltransferase [EC:2.4.2.10];(GenBank);tac:Ta0056;tac00240;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0056+tac:Ta1164
+201;99;nucleoside-diphosphate kinase [EC:2.7.4.6];(GenBank);tac:Ta1113;tac00240;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1113
+202;101;dCTP deaminase [EC:3.5.4.13];(GenBank);tac:Ta0598;tac00240;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0598
+203;102;CTP synthase [EC:6.3.4.2];(GenBank);tac:Ta0044;tac00240;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0044
+204;117;nucleoside-diphosphate kinase [EC:2.7.4.6];(GenBank);tac:Ta1113;tac00240;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1113
+205;131;ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1];(GenBank);tac:Ta1475;tac00240;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1475
+206;132;nucleoside-diphosphate kinase [EC:2.7.4.6];(GenBank);tac:Ta1113;tac00240;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1113
+207;133;dCTP deaminase [EC:3.5.4.13];(GenBank);tac:Ta0598;tac00240;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0598
+208;139;dCMP deaminase [EC:3.5.4.12];(GenBank);tac:Ta0312;tac00240;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0312
+209;140;nucleoside-diphosphate kinase [EC:2.7.4.6];(GenBank);tac:Ta1113;tac00240;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1113
+210;142;dTMP kinase [EC:2.7.4.9];(GenBank);tac:Ta0081;tac00240;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0081
+211;143;thymidine kinase [EC:2.7.1.21];(GenBank);tac:Ta1214;tac00240;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1214
+212;149;nucleoside-diphosphate kinase [EC:2.7.4.6];(GenBank);tac:Ta1113;tac00240;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1113
+213;152;dTMP kinase [EC:2.7.4.9];(GenBank);tac:Ta0081;tac00240;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0081
+214;155;thymidine kinase [EC:2.7.1.21];(GenBank);tac:Ta1214;tac00240;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1214
+215;169;orotidine-5'-phosphate decarboxylase [EC:4.1.1.23];(GenBank);tac:Ta0073;tac00240;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0073
+216;274;nucleoside-diphosphate kinase [EC:2.7.4.6];(GenBank);tac:Ta1113;tac00240;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1113
+217;289;CMP/dCMP kinase [EC:2.7.4.25];(GenBank);tac:Ta1245;tac00240;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1245
+218;290;CMP/dCMP kinase [EC:2.7.4.25];(GenBank);tac:Ta1245;tac00240;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1245
+219;293;nucleoside kinase [EC:2.7.1.73 2.7.1.213 2.7.1.-];(GenBank);tac:Ta0880;tac00240;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0880
+220;35;asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4];(GenBank);tac:Ta0315;tac00250;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0315
+221;38;L-asparaginase [EC:3.5.1.1];(GenBank);tac:Ta0338;tac00250;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0338
+222;49;aspartate aminotransferase [EC:2.6.1.1];(GenBank);tac:Ta0529;tac00250;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0529
+223;55;argininosuccinate synthase [EC:6.3.4.5];(GenBank);tac:Ta0650;tac00250;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0650
+224;56;adenylosuccinate synthase [EC:6.3.4.4];(GenBank);tac:Ta1367;tac00250;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1367
+225;58;argininosuccinate lyase [EC:4.3.2.1];(GenBank);tac:Ta0649;tac00250;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0649
+226;59;adenylosuccinate lyase [EC:4.3.2.2];(GenBank);tac:Ta0523;tac00250;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0523
+227;66;alanine dehydrogenase [EC:1.4.1.1];(GenBank);tac:Ta0480;tac00250;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0480
+228;71;aspartate carbamoyltransferase regulatory subunit;(GenBank);tac:Ta0574;tac00250;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0574+tac:Ta0575
+229;89;glutamate synthase (NADPH) small chain [EC:1.4.1.13];(GenBank);tac:Ta0414;tac00250;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0414
+230;93;glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3];(GenBank);tac:Ta0635;tac00250;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0635+tac:Ta0776
+231;97;4-aminobutyrate aminotransferase [EC:2.6.1.19];(GenBank);tac:Ta0068;tac00250;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0068
+232;102;glutamine synthetase [EC:6.3.1.2];(GenBank);tac:Ta1498;tac00250;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1498
+233;105;phosphoribosylformylglycinamidine synthase subunit PurQ / glutaminase [EC:6.3.5.3 3.5.1.2];(GenBank);tac:Ta1318;tac00250;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1318
+234;110;carbamoyl-phosphate synthase large subunit [EC:6.3.5.5];(GenBank);tac:Ta0791;tac00250;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0791+tac:Ta0792
+235;121;1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88];(GenBank);tac:Ta0603;tac00250;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0603
+236;123;glutamine---fructose-6-phosphate transaminase (isomerizing) [EC:2.6.1.16];(GenBank);tac:Ta0479;tac00250;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0479
+237;125;amidophosphoribosyltransferase [EC:2.4.2.14];(GenBank);tac:Ta1242;tac00250;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1242
+238;81;glycerate dehydrogenase [EC:1.1.1.29];(GenBank);tac:Ta0858;tac00260;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0858
+239;84;cystathionine gamma-lyase [EC:4.4.1.1];(GenBank);tac:Ta0080;tac00260;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0080
+240;86;aspartate kinase [EC:2.7.2.4];(GenBank);tac:Ta0364;tac00260;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0364
+241;91;phosphoserine phosphatase [EC:3.1.3.3];(GenBank);tac:Ta0936;tac00260;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0936
+242;92;glycine hydroxymethyltransferase [EC:2.1.2.1];(GenBank);tac:Ta0811;tac00260;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0811+tac:Ta1509
+243;93;threonine dehydratase [EC:4.3.1.19];(GenBank);tac:Ta0113;tac00260;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0113
+244;97;threonine synthase [EC:4.2.3.1];(GenBank);tac:Ta0026;tac00260;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0026+tac:Ta0495
+245;102;glycine C-acetyltransferase [EC:2.3.1.29];(GenBank);tac:Ta1189;tac00260;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1189
+246;103;aspartate-semialdehyde dehydrogenase [EC:1.2.1.11];(GenBank);tac:Ta0363;tac00260;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0363
+247;109;homoserine kinase [EC:2.7.1.39];(GenBank);tac:Ta0530;tac00260;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0530
+248;111;glycine dehydrogenase subunit 2 [EC:1.4.4.2];(GenBank);tac:Ta1357;tac00260;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1357+tac:Ta1358
+249;113;homoserine dehydrogenase [EC:1.1.1.3];(GenBank);tac:Ta1179;tac00260;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1179
+250;120;aminomethyltransferase [EC:2.1.2.10];(GenBank);tac:Ta0010;tac00260;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0010
+251;123;dihydrolipoamide dehydrogenase [EC:1.8.1.4];(GenBank);tac:Ta0208;tac00260;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0208+tac:Ta1435
+252;126;threonine dehydratase [EC:4.3.1.19];(GenBank);tac:Ta0113;tac00260;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0113
+253;199;tryptophan synthase beta chain [EC:4.2.1.20];(GenBank);tac:Ta0669;tac00260;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0669+tac:Ta0803
+254;216;glycerate 2-kinase [EC:2.7.1.165];(GenBank);tac:Ta0453;tac00260;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0453
+255;227;2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12];(GenBank);tac:Ta0413;tac00260;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0413+tac:Ta0823+tac:Ta1347
+256;228;glycine cleavage system H protein;(GenBank);tac:Ta1366;tac00260;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1366
+257;62;aspartate kinase [EC:2.7.2.4];(GenBank);tac:Ta0364;tac00261;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0364
+258;63;aspartate-semialdehyde dehydrogenase [EC:1.2.1.11];(GenBank);tac:Ta0363;tac00261;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0363
+259;86;5'-methylthioadenosine phosphorylase [EC:2.4.2.28];(GenBank);tac:Ta0332;tac00270;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0332
+260;89;spermidine synthase [EC:2.5.1.16];(GenBank);tac:Ta0355;tac00270;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0355
+261;90;S-adenosylmethionine decarboxylase [EC:4.1.1.50];(GenBank);tac:Ta1196;tac00270;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1196
+262;91;L-methionine (R)-S-oxide reductase [EC:1.8.4.14];(GenBank);tac:Ta0848;tac00270;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0848
+263;94;cystathionine gamma-lyase [EC:4.4.1.1];(GenBank);tac:Ta0080;tac00270;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0080
+264;99;5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14];(GenBank);tac:Ta0977;tac00270;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0977+tac:Ta0978
+265;101;S-adenosylmethionine synthetase [EC:2.5.1.6];(GenBank);tac:Ta0059;tac00270;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0059
+266;102;adenosylhomocysteinase [EC:3.3.1.1];(GenBank);tac:Ta0469;tac00270;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0469
+267;110;cystathionine gamma-synthase [EC:2.5.1.48];(GenBank);tac:Ta0531;tac00270;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0531
+268;132;cysteine synthase [EC:2.5.1.47];(GenBank);tac:Ta0535;tac00270;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0535
+269;158;aspartate aminotransferase [EC:2.6.1.1];(GenBank);tac:Ta0529;tac00270;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0529
+270;162;(2R)-sulfolactate sulfo-lyase subunit alpha [EC:4.4.1.24];(GenBank);tac:Ta1392;tac00270;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1392+tac:Ta1393
+271;179;cystathionine gamma-lyase [EC:4.4.1.1];(GenBank);tac:Ta0080;tac00270;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0080
+272;185;aspartate aminotransferase [EC:2.6.1.1];(GenBank);tac:Ta0529;tac00270;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0529
+273;195;cystathionine gamma-lyase [EC:4.4.1.1];(GenBank);tac:Ta0080;tac00270;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0080
+274;199;aspartate aminotransferase [EC:2.6.1.1];(GenBank);tac:Ta0529;tac00270;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0529
+275;212;cystathionine gamma-synthase [EC:2.5.1.48];(GenBank);tac:Ta0531;tac00270;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0531
+276;213;cystathionine gamma-synthase [EC:2.5.1.48];(GenBank);tac:Ta0531;tac00270;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0531
+277;214;cystathionine gamma-synthase [EC:2.5.1.48];(GenBank);tac:Ta0531;tac00270;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0531
+278;217;cystathionine gamma-synthase [EC:2.5.1.48];(GenBank);tac:Ta0531;tac00270;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0531
+279;224;homoserine dehydrogenase [EC:1.1.1.3];(GenBank);tac:Ta1179;tac00270;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1179
+280;227;aspartate-semialdehyde dehydrogenase [EC:1.2.1.11];(GenBank);tac:Ta0363;tac00270;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0363
+281;230;aspartate kinase [EC:2.7.2.4];(GenBank);tac:Ta0364;tac00270;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0364
+282;253;malate dehydrogenase [EC:1.1.1.37];(GenBank);tac:Ta0952;tac00270;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0952
+283;271;5-methylthioadenosine/S-adenosylhomocysteine deaminase [EC:3.5.4.31 3.5.4.28];(GenBank);tac:Ta1060;tac00270;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1060
+284;295;cysteine synthase [EC:2.5.1.47];(GenBank);tac:Ta0535;tac00270;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0535
+285;54;dihydrolipoamide dehydrogenase [EC:1.8.1.4];(GenBank);tac:Ta0208;tac00280;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0208+tac:Ta1435
+286;62;dihydrolipoamide dehydrogenase [EC:1.8.1.4];(GenBank);tac:Ta0208;tac00280;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0208+tac:Ta1435
+287;68;dihydrolipoamide dehydrogenase [EC:1.8.1.4];(GenBank);tac:Ta0208;tac00280;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0208+tac:Ta1435
+288;72;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(GenBank);tac:Ta0030;tac00280;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0030+tac:Ta0296+tac:Ta0351+tac:Ta0582+tac:Ta1456
+289;75;hydroxymethylglutaryl-CoA synthase [EC:2.3.3.10];(GenBank);tac:Ta1455;tac00280;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1455
+290;81;isovaleryl-CoA dehydrogenase [EC:1.3.8.4];(GenBank);tac:Ta0230;tac00280;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0230
+291;94;methylmalonyl-CoA mutase, N-terminal domain [EC:5.4.99.2];(GenBank);tac:Ta0462;tac00280;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0462+tac:Ta0463
+292;98;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);tac:Ta0439;tac00280;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0439
+293;102;3-hydroxyisobutyrate dehydrogenase [EC:1.1.1.31];(GenBank);tac:Ta0161;tac00280;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0161
+294;106;acyl-CoA dehydrogenase [EC:1.3.8.7];(GenBank);tac:Ta0398;tac00280;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0398
+295;116;acyl-CoA dehydrogenase [EC:1.3.8.7];(GenBank);tac:Ta0398;tac00280;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0398
+296;117;acyl-CoA dehydrogenase [EC:1.3.8.7];(GenBank);tac:Ta0398;tac00280;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0398
+297;118;2-oxoisovalerate ferredoxin oxidoreductase delta subunit [EC:1.2.7.7];(GenBank);tac:Ta0627;tac00280;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0627+tac:Ta0629
+298;119;2-oxoisovalerate ferredoxin oxidoreductase delta subunit [EC:1.2.7.7];(GenBank);tac:Ta0627;tac00280;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0627+tac:Ta0629
+299;120;2-oxoisovalerate ferredoxin oxidoreductase delta subunit [EC:1.2.7.7];(GenBank);tac:Ta0627;tac00280;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0627+tac:Ta0629
+300;24;threonine dehydratase [EC:4.3.1.19];(GenBank);tac:Ta0113;tac00290;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0113
+301;48;acetolactate synthase I/II/III large subunit [EC:2.2.1.6];(GenBank);tac:Ta0691;tac00290;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0691
+302;86;acetolactate synthase I/II/III large subunit [EC:2.2.1.6];(GenBank);tac:Ta0691;tac00290;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0691
+303;55;aspartate kinase [EC:2.7.2.4];(GenBank);tac:Ta0364;tac00300;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0364
+304;56;aspartate-semialdehyde dehydrogenase [EC:1.2.1.11];(GenBank);tac:Ta0363;tac00300;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0363
+305;57;homoserine dehydrogenase [EC:1.1.1.3];(GenBank);tac:Ta1179;tac00300;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1179
+306;66;succinyl-diaminopimelate desuccinylase [EC:3.5.1.18];(GenBank);tac:Ta0934;tac00300;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0934
+307;68;diaminopimelate decarboxylase [EC:4.1.1.20];(GenBank);tac:Ta0788;tac00300;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0788
+308;73;2-aminoadipate transaminase [EC:2.6.1.-];(GenBank);tac:Ta1193;tac00300;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1193
+309;90;dihydrolipoamide dehydrogenase [EC:1.8.1.4];(GenBank);tac:Ta0208;tac00310;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0208+tac:Ta1435
+310;91;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(GenBank);tac:Ta0030;tac00310;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0030+tac:Ta0296+tac:Ta0351+tac:Ta0582+tac:Ta1456
+311;151;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);tac:Ta0439;tac00310;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0439
+312;66;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);tac:Ta0439;tac00330;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0439
+313;67;spermidine synthase [EC:2.5.1.16];(GenBank);tac:Ta0355;tac00330;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0355
+314;68;S-adenosylmethionine decarboxylase [EC:4.1.1.50];(GenBank);tac:Ta1196;tac00330;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1196
+315;73;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);tac:Ta0439;tac00330;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0439
+316;126;arginine decarboxylase [EC:4.1.1.19];(GenBank);tac:Ta0778;tac00330;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0778
+317;127;agmatinase [EC:3.5.3.11];(GenBank);tac:Ta1058;tac00330;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1058
+318;173;pyrroline-5-carboxylate reductase [EC:1.5.1.2];(GenBank);tac:Ta0139;tac00330;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0139
+319;175;1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88];(GenBank);tac:Ta0603;tac00330;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0603
+320;181;1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88];(GenBank);tac:Ta0603;tac00330;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0603
+321;206;pyrroline-5-carboxylate reductase [EC:1.5.1.2];(GenBank);tac:Ta0139;tac00330;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0139
+322;207;1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88];(GenBank);tac:Ta0603;tac00330;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0603
+323;208;1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88];(GenBank);tac:Ta0603;tac00330;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0603
+324;209;aspartate aminotransferase [EC:2.6.1.1];(GenBank);tac:Ta0529;tac00330;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0529
+325;233;proline iminopeptidase [EC:3.4.11.5];(GenBank);tac:Ta0830;tac00330;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0830
+326;42;glutamate formiminotransferase / 5-formyltetrahydrofolate cyclo-ligase [EC:2.1.2.5 6.3.3.2];(GenBank);tac:Ta1476;tac00340;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1476
+327;43;imidazolonepropionase [EC:3.5.2.7];(GenBank);tac:Ta0238;tac00340;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0238
+328;44;urocanate hydratase [EC:4.2.1.49];(GenBank);tac:Ta0239;tac00340;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0239
+329;45;histidine ammonia-lyase [EC:4.3.1.3];(GenBank);tac:Ta0242;tac00340;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0242
+330;53;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);tac:Ta0439;tac00340;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0439
+331;117;aspartate aminotransferase [EC:2.6.1.1];(GenBank);tac:Ta0529;tac00360;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0529
+332;227;3-hydroxybutyryl-CoA dehydrogenase [EC:1.1.1.157];(GenBank);tac:Ta0476;tac00360;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0476+tac:Ta0947
+333;62;carboxymethylenebutenolidase [EC:3.1.1.45];(GenBank);tac:Ta0228;tac00361;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0228
+334;115;carboxymethylenebutenolidase [EC:3.1.1.45];(GenBank);tac:Ta0228;tac00361;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0228
+335;151;carboxymethylenebutenolidase [EC:3.1.1.45];(GenBank);tac:Ta0228;tac00361;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0228
+336;169;carboxymethylenebutenolidase [EC:3.1.1.45];(GenBank);tac:Ta0228;tac00361;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0228
+337;198;carboxymethylenebutenolidase [EC:3.1.1.45];(GenBank);tac:Ta0228;tac00361;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0228
+338;231;carboxymethylenebutenolidase [EC:3.1.1.45];(GenBank);tac:Ta0228;tac00361;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0228
+339;129;3-hydroxybutyryl-CoA dehydrogenase [EC:1.1.1.157];(GenBank);tac:Ta0476;tac00362;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0476+tac:Ta0947
+340;132;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(GenBank);tac:Ta0030;tac00362;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0030+tac:Ta0296+tac:Ta0351+tac:Ta0582+tac:Ta1456
+341;32;carboxymethylenebutenolidase [EC:3.1.1.45];(GenBank);tac:Ta0228;tac00364;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0228
+342;33;carboxymethylenebutenolidase [EC:3.1.1.45];(GenBank);tac:Ta0228;tac00364;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0228
+343;101;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(GenBank);tac:Ta0030;tac00380;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0030+tac:Ta0296+tac:Ta0351+tac:Ta0582+tac:Ta1456
+344;104;dihydrolipoamide dehydrogenase [EC:1.8.1.4];(GenBank);tac:Ta0208;tac00380;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0208+tac:Ta1435
+345;131;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);tac:Ta0439;tac00380;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0439
+346;138;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);tac:Ta0439;tac00380;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0439
+347;11;3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54];(GenBank);tac:Ta0247;tac00400;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0247
+348;51;chorismate synthase [EC:4.2.3.5];(GenBank);tac:Ta0824;tac00400;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0824
+349;52;tryptophan synthase beta chain [EC:4.2.1.20];(GenBank);tac:Ta0669;tac00400;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0669+tac:Ta0803
+350;53;tryptophan synthase alpha chain [EC:4.2.1.20];(GenBank);tac:Ta0803;tac00400;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0803
+351;54;tryptophan synthase beta chain [EC:4.2.1.20];(GenBank);tac:Ta0669;tac00400;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0669
+352;55;indole-3-glycerol phosphate synthase [EC:4.1.1.48];(GenBank);tac:Ta0808;tac00400;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0808
+353;56;phosphoribosylanthranilate isomerase [EC:5.3.1.24];(GenBank);tac:Ta0805;tac00400;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0805
+354;57;anthranilate phosphoribosyltransferase [EC:2.4.2.18];(GenBank);tac:Ta0804;tac00400;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0804
+355;58;anthranilate synthase component I [EC:4.1.3.27];(GenBank);tac:Ta0806;tac00400;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0806+tac:Ta0807
+356;61;prephenate dehydratase [EC:4.2.1.51];(GenBank);tac:Ta0915;tac00400;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0915
+357;68;prephenate dehydratase [EC:4.2.1.51];(GenBank);tac:Ta0915;tac00400;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0915
+358;75;3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19];(GenBank);tac:Ta0282;tac00400;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0282
+359;76;shikimate kinase [EC:2.7.1.71];(GenBank);tac:Ta0283;tac00400;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0283
+360;77;shikimate dehydrogenase [EC:1.1.1.25];(GenBank);tac:Ta0284;tac00400;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0284
+361;78;3-dehydroquinate dehydratase I [EC:4.2.1.10];(GenBank);tac:Ta0116;tac00400;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0116
+362;80;3-dehydroquinate synthase [EC:4.2.3.4];(GenBank);tac:Ta0285;tac00400;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0285
+363;83;aspartate aminotransferase [EC:2.6.1.1];(GenBank);tac:Ta0529;tac00400;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0529
+364;84;aspartate aminotransferase [EC:2.6.1.1];(GenBank);tac:Ta0529;tac00400;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0529
+365;53;4-aminobutyrate aminotransferase [EC:2.6.1.19];(GenBank);tac:Ta0068;tac00410;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0068
+366;65;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);tac:Ta0439;tac00410;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0439
+367;30;alanine dehydrogenase [EC:1.4.1.1];(GenBank);tac:Ta0480;tac00430;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0480
+368;56;gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13];(GenBank);tac:Ta0994;tac00430;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0994
+369;11;thioredoxin reductase (NADPH) [EC:1.8.1.9];(GenBank);tac:Ta0984;tac00450;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0984
+370;15;methionyl-tRNA synthetase [EC:6.1.1.10];(GenBank);tac:Ta1162;tac00450;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1162
+371;58;cystathionine gamma-lyase [EC:4.4.1.1];(GenBank);tac:Ta0080;tac00450;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0080
+372;59;cystathionine gamma-synthase [EC:2.5.1.48];(GenBank);tac:Ta0531;tac00450;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0531
+373;80;L-seryl-tRNA(Ser) seleniumtransferase [EC:2.9.1.1];(GenBank);tac:Ta0673;tac00450;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0673
+374;82;5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14];(GenBank);tac:Ta0977;tac00450;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0977+tac:Ta0978
+375;89;thioredoxin reductase (NADPH) [EC:1.8.1.9];(GenBank);tac:Ta0984;tac00450;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0984
+376;91;cystathionine gamma-lyase [EC:4.4.1.1];(GenBank);tac:Ta0080;tac00450;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0080
+377;41;gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13];(GenBank);tac:Ta0994;tac00460;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0994
+378;44;L-asparaginase [EC:3.5.1.1];(GenBank);tac:Ta0338;tac00460;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0338
+379;46;gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13];(GenBank);tac:Ta0994;tac00460;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0994
+380;50;glycine hydroxymethyltransferase [EC:2.1.2.1];(GenBank);tac:Ta0811;tac00460;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0811+tac:Ta1509
+381;24;glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3];(GenBank);tac:Ta0635;tac00471;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0635+tac:Ta0776
+382;28;phosphoribosylformylglycinamidine synthase subunit PurQ / glutaminase [EC:6.3.5.3 3.5.1.2];(GenBank);tac:Ta1318;tac00471;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1318
+383;29;phosphoribosylformylglycinamidine synthase subunit PurQ / glutaminase [EC:6.3.5.3 3.5.1.2];(GenBank);tac:Ta1318;tac00471;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1318
+384;38;gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13];(GenBank);tac:Ta0994;tac00480;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0994
+385;51;isocitrate dehydrogenase [EC:1.1.1.42];(GenBank);tac:Ta0117;tac00480;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0117
+386;54;gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13];(GenBank);tac:Ta0994;tac00480;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0994
+387;58;gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13];(GenBank);tac:Ta0994;tac00480;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0994
+388;147;spermidine synthase [EC:2.5.1.16];(GenBank);tac:Ta0355;tac00480;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0355
+389;155;spermidine synthase [EC:2.5.1.16];(GenBank);tac:Ta0355;tac00480;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0355
+390;90;alpha-glucosidase [EC:3.2.1.20];(GenBank);tac:Ta0298;tac00500;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0298
+391;102;cellulose synthase (UDP-forming) [EC:2.4.1.12];(GenBank);tac:Ta0484;tac00500;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0484
+392;111;trehalose 6-phosphate synthase [EC:2.4.1.15 2.4.1.347];(GenBank);tac:Ta1210;tac00500;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1210
+393;114;phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2];(GenBank);tac:Ta0568;tac00500;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0568
+394;118;glucokinase [EC:2.7.1.2];(GenBank);tac:Ta0825;tac00500;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0825
+395;119;glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8];(GenBank);tac:Ta1419;tac00500;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1419
+396;121;trehalose 6-phosphate phosphatase [EC:3.1.3.12];(GenBank);tac:Ta1209;tac00500;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1209
+397;132;alpha-glucosidase [EC:3.2.1.20];(GenBank);tac:Ta0298;tac00500;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0298
+398;4;beta-galactosidase [EC:3.2.1.23];(GenBank);tac:Ta1323;tac00511;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1323
+399;12;beta-galactosidase [EC:3.2.1.23];(GenBank);tac:Ta1323;tac00511;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1323
+400;20;beta-galactosidase [EC:3.2.1.23];(GenBank);tac:Ta1323;tac00511;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1323
+401;26;beta-galactosidase [EC:3.2.1.23];(GenBank);tac:Ta1323;tac00511;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1323
+402;7;N-acetylglucosamine kinase [EC:2.7.1.59];(GenBank);tac:Ta0122;tac00520;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0122
+403;30;glutamine---fructose-6-phosphate transaminase (isomerizing) [EC:2.6.1.16];(GenBank);tac:Ta0479;tac00520;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0479
+404;194;UDP-glucose 4-epimerase [EC:5.1.3.2];(GenBank);tac:Ta0011;tac00520;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0011+tac:Ta0343
+405;201;glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8];(GenBank);tac:Ta1419;tac00520;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1419
+406;202;phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2];(GenBank);tac:Ta0568;tac00520;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0568
+407;204;phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2];(GenBank);tac:Ta0568;tac00520;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0568
+408;211;mannose-1-phosphate guanylyltransferase [EC:2.7.7.13];(GenBank);tac:Ta1486;tac00520;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1486
+409;229;UDP-sulfoquinovose synthase [EC:3.13.1.1];(GenBank);tac:Ta1073;tac00520;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1073
+410;247;phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2];(GenBank);tac:Ta0568;tac00520;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0568
+411;282;glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8];(GenBank);tac:Ta1419;tac00520;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1419
+412;310;glucokinase [EC:2.7.1.2];(GenBank);tac:Ta0825;tac00520;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0825
+413;311;glucokinase [EC:2.7.1.2];(GenBank);tac:Ta0825;tac00520;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0825
+414;16;glucokinase [EC:2.7.1.2];(GenBank);tac:Ta0825;tac00521;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0825
+415;44;glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24];(GenBank);tac:Ta1074;tac00521;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1074
+416;45;phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2];(GenBank);tac:Ta0568;tac00521;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0568
+417;36;UDP-sulfoquinovose synthase [EC:3.13.1.1];(GenBank);tac:Ta1073;tac00561;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1073
+418;55;glycerol kinase [EC:2.7.1.30];(GenBank);tac:Ta1096;tac00561;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1096
+419;60;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);tac:Ta0439;tac00561;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0439
+420;141;glycerate 2-kinase [EC:2.7.1.165];(GenBank);tac:Ta0453;tac00561;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0453
+421;103;glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46];(GenBank);tac:Ta0634;tac00564;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0634
+422;117;glycerol-3-phosphate dehydrogenase [EC:1.1.5.3];(GenBank);tac:Ta0633;tac00564;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0633
+423;141;glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46];(GenBank);tac:Ta0634;tac00564;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0634
+424;228;glycerol-1-phosphate dehydrogenase [NAD(P)+] [EC:1.1.1.261];(GenBank);tac:Ta1158;tac00564;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1158
+425;232;phosphoglycerol geranylgeranyltransferase [EC:2.5.1.41];(GenBank);tac:Ta0995;tac00564;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0995
+426;235;geranylgeranylglycerol-phosphate geranylgeranyltransferase [EC:2.5.1.42];(GenBank);tac:Ta0996;tac00564;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0996
+427;238;CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol synthase [EC:2.7.7.67];(GenBank);tac:Ta0107;tac00564;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0107
+428;245;digeranylgeranylglycerophospholipid reductase [EC:1.3.1.101 1.3.7.11];(GenBank);tac:Ta0516;tac00564;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0516
+429;246;digeranylgeranylglycerophospholipid reductase [EC:1.3.1.101 1.3.7.11];(GenBank);tac:Ta0516;tac00564;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0516
+430;68;3-dehydrosphinganine reductase [EC:1.1.1.102];(GenBank);tac:Ta0191;tac00600;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0191
+431;74;beta-galactosidase [EC:3.2.1.23];(GenBank);tac:Ta1323;tac00600;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1323
+432;55;pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1];(GenBank);tac:Ta1437;tac00620;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1437+tac:Ta1438
+433;60;phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32];(GenBank);tac:Ta0123;tac00620;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0123
+434;63;pyruvate, orthophosphate dikinase [EC:2.7.9.1];(GenBank);tac:Ta0886;tac00620;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0886
+435;65;pyruvate kinase [EC:2.7.1.40];(GenBank);tac:Ta0896;tac00620;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0896
+436;80;malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38];(GenBank);tac:Ta0456;tac00620;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0456
+437;85;2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit [EC:1.2.7.7 1.2.7.1];(GenBank);tac:Ta0626;tac00620;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0626
+438;86;malate dehydrogenase [EC:1.1.1.37];(GenBank);tac:Ta0952;tac00620;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0952
+439;95;pyruvate dehydrogenase (quinone) [EC:1.2.5.1];(GenBank);tac:Ta0816;tac00620;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0816
+440;98;acetyl-CoA synthetase [EC:6.2.1.1];(GenBank);tac:Ta0229;tac00620;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0229+tac:Ta0421+tac:Ta0769+tac:Ta1508
+441;101;acetate---CoA ligase (ADP-forming) [EC:6.2.1.13];(GenBank);tac:Ta1153;tac00620;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1153
+442;103;acetyl-CoA synthetase [EC:6.2.1.1];(GenBank);tac:Ta0229;tac00620;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0229+tac:Ta0421+tac:Ta0769+tac:Ta1508
+443;104;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);tac:Ta0439;tac00620;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0439
+444;109;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(GenBank);tac:Ta0030;tac00620;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0030+tac:Ta0296+tac:Ta0351+tac:Ta0582+tac:Ta1456
+445;123;pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1];(GenBank);tac:Ta1437;tac00620;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1437+tac:Ta1438
+446;124;pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12];(GenBank);tac:Ta1436;tac00620;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1436
+447;125;dihydrolipoamide dehydrogenase [EC:1.8.1.4];(GenBank);tac:Ta0208;tac00620;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0208+tac:Ta1435
+448;130;acylphosphatase [EC:3.6.1.7];(GenBank);tac:Ta0064;tac00620;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0064
+449;174;fumarate hydratase, class II [EC:4.2.1.2];(GenBank);tac:Ta0258;tac00620;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0258
+450;179;2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11];(GenBank);tac:Ta0259;tac00620;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0259+tac:Ta0260+tac:Ta0772+tac:Ta0773
+451;106;carboxymethylenebutenolidase [EC:3.1.1.45];(GenBank);tac:Ta0228;tac00623;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0228
+452;110;carboxymethylenebutenolidase [EC:3.1.1.45];(GenBank);tac:Ta0228;tac00623;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0228
+453;62;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);tac:Ta0439;tac00625;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0439
+454;64;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);tac:Ta0439;tac00625;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0439
+455;102;aldehyde dehydrogenase (NAD+) [EC:1.2.1.3];(GenBank);tac:Ta0439;tac00625;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0439
+456;133;flavin prenyltransferase [EC:2.5.1.129];(GenBank);tac:Ta1100;tac00627;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1100
+457;162;acylphosphatase [EC:3.6.1.7];(GenBank);tac:Ta0064;tac00627;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0064
+458;197;benzoylformate decarboxylase [EC:4.1.1.7];(GenBank);tac:Ta0500;tac00627;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0500+tac:Ta0780
+459;208;benzoylformate decarboxylase [EC:4.1.1.7];(GenBank);tac:Ta0500;tac00627;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0500+tac:Ta0780
+460;84;aconitate hydratase [EC:4.2.1.3];(GenBank);tac:Ta0112;tac00630;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0112
+461;98;aconitate hydratase [EC:4.2.1.3];(GenBank);tac:Ta0112;tac00630;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0112
+462;102;glycolate oxidase [EC:1.1.3.15];(GenBank);tac:Ta0542;tac00630;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0542
+463;111;formate dehydrogenase major subunit [EC:1.17.1.9];(GenBank);tac:Ta0425;tac00630;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0425
+464;114;citrate synthase [EC:2.3.3.1];(GenBank);tac:Ta0169;tac00630;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0169+tac:Ta0819
+465;131;malate dehydrogenase [EC:1.1.1.37];(GenBank);tac:Ta0952;tac00630;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0952
+466;147;phosphoglycolate phosphatase [EC:3.1.3.18];(GenBank);tac:Ta0175;tac00630;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0175+tac:Ta0845
+467;148;glycerate dehydrogenase [EC:1.1.1.29];(GenBank);tac:Ta0858;tac00630;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0858
+468;149;glycerate dehydrogenase [EC:1.1.1.29];(GenBank);tac:Ta0858;tac00630;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0858
+469;208;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(GenBank);tac:Ta0030;tac00630;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0030+tac:Ta0296+tac:Ta0351+tac:Ta0582+tac:Ta1456
+470;219;methylmalonyl-CoA mutase, N-terminal domain [EC:5.4.99.2];(GenBank);tac:Ta0462;tac00630;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0462+tac:Ta0463
+471;230;glycine hydroxymethyltransferase [EC:2.1.2.1];(GenBank);tac:Ta0811;tac00630;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0811+tac:Ta1509
+472;231;aminomethyltransferase [EC:2.1.2.10];(GenBank);tac:Ta0010;tac00630;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0010+tac:Ta0208+tac:Ta1357+tac:Ta1358+tac:Ta1366+tac:Ta1435
+473;245;glutamine synthetase [EC:6.3.1.2];(GenBank);tac:Ta1498;tac00630;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1498
+474;264;glycerate 2-kinase [EC:2.7.1.165];(GenBank);tac:Ta0453;tac00630;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0453
+475;271;acetyl-CoA synthetase [EC:6.2.1.1];(GenBank);tac:Ta0229;tac00630;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0229+tac:Ta0421+tac:Ta0769+tac:Ta1508
+476;26;4-aminobutyrate aminotransferase [EC:2.6.1.19];(GenBank);tac:Ta0068;tac00640;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0068
+477;70;acetate---CoA ligase (ADP-forming) [EC:6.2.1.13];(GenBank);tac:Ta1153;tac00640;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1153
+478;71;acetyl-CoA synthetase [EC:6.2.1.1];(GenBank);tac:Ta0229;tac00640;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0229+tac:Ta0421+tac:Ta0769+tac:Ta1508
+479;72;acetyl-CoA synthetase [EC:6.2.1.1];(GenBank);tac:Ta0229;tac00640;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0229+tac:Ta0421+tac:Ta0769+tac:Ta1508
+480;76;2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit [EC:1.2.7.7 1.2.7.1];(GenBank);tac:Ta0626;tac00640;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0626
+481;108;2-methylcitrate dehydratase [EC:4.2.1.79];(GenBank);tac:Ta1226;tac00640;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1226
+482;110;methylmalonyl-CoA mutase, N-terminal domain [EC:5.4.99.2];(GenBank);tac:Ta0462;tac00640;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0462+tac:Ta0463
+483;119;succinyl-CoA synthetase alpha subunit [EC:6.2.1.5];(GenBank);tac:Ta1331;tac00640;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1331+tac:Ta1332
+484;121;methylisocitrate lyase [EC:4.1.3.30];(GenBank);tac:Ta1227;tac00640;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1227
+485;129;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(GenBank);tac:Ta0030;tac00640;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0030+tac:Ta0296+tac:Ta0351+tac:Ta0582+tac:Ta1456
+486;197;dihydrolipoamide dehydrogenase [EC:1.8.1.4];(GenBank);tac:Ta0208;tac00640;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0208+tac:Ta1435
+487;63;hydroxymethylglutaryl-CoA synthase [EC:2.3.3.10];(GenBank);tac:Ta1455;tac00650;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1455
+488;64;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(GenBank);tac:Ta0030;tac00650;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0030+tac:Ta0296+tac:Ta0351+tac:Ta0582+tac:Ta1456
+489;65;3-hydroxybutyryl-CoA dehydrogenase [EC:1.1.1.157];(GenBank);tac:Ta0476;tac00650;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0476+tac:Ta0947
+490;75;4-aminobutyrate aminotransferase [EC:2.6.1.19];(GenBank);tac:Ta0068;tac00650;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0068
+491;77;2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit [EC:1.2.7.7 1.2.7.1];(GenBank);tac:Ta0626;tac00650;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0626
+492;92;succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4];(GenBank);tac:Ta1001;tac00650;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1001+tac:Ta1002+tac:Ta1003+tac:Ta1004
+493;162;acetolactate synthase I/II/III large subunit [EC:2.2.1.6];(GenBank);tac:Ta0691;tac00650;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0691
+494;182;succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4];(GenBank);tac:Ta1001;tac00650;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1001+tac:Ta1002+tac:Ta1003+tac:Ta1004
+495;183;2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11];(GenBank);tac:Ta0259;tac00650;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0259+tac:Ta0260+tac:Ta0772+tac:Ta0773
+496;48;succinyl-CoA synthetase alpha subunit [EC:6.2.1.5];(GenBank);tac:Ta1331;tac00660;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1331+tac:Ta1332
+497;52;acetolactate synthase I/II/III large subunit [EC:2.2.1.6];(GenBank);tac:Ta0691;tac00660;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0691
+498;18;glutamate formiminotransferase / 5-formyltetrahydrofolate cyclo-ligase [EC:2.1.2.5 6.3.3.2];(GenBank);tac:Ta1476;tac00670;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1476
+499;20;phosphoribosylglycinamide formyltransferase 1 [EC:2.1.2.2];(GenBank);tac:Ta0082;tac00670;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0082
+500;25;glutamate formiminotransferase / 5-formyltetrahydrofolate cyclo-ligase [EC:2.1.2.5 6.3.3.2];(GenBank);tac:Ta1476;tac00670;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1476
+501;28;methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9];(GenBank);tac:Ta0898;tac00670;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0898
+502;29;methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9];(GenBank);tac:Ta0898;tac00670;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0898
+503;41;glutamate formiminotransferase / 5-formyltetrahydrofolate cyclo-ligase [EC:2.1.2.5 6.3.3.2];(GenBank);tac:Ta1476;tac00670;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1476
+504;42;aminomethyltransferase [EC:2.1.2.10];(GenBank);tac:Ta0010;tac00670;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0010
+505;49;formate--tetrahydrofolate ligase [EC:6.3.4.3];(GenBank);tac:Ta1478;tac00670;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1478
+506;50;phosphoribosylglycinamide formyltransferase 1 [EC:2.1.2.2];(GenBank);tac:Ta0082;tac00670;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0082
+507;51;phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10];(GenBank);tac:Ta0060;tac00670;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0060
+508;61;glycine hydroxymethyltransferase [EC:2.1.2.1];(GenBank);tac:Ta0811;tac00670;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0811+tac:Ta1509
+509;64;aminomethyltransferase [EC:2.1.2.10];(GenBank);tac:Ta0010;tac00670;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0010
+510;40;formate dehydrogenase major subunit [EC:1.17.1.9];(GenBank);tac:Ta0425;tac00680;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0425
+511;55;formylmethanofuran dehydrogenase subunit E [EC:1.2.7.12];(GenBank);tac:Ta1109;tac00680;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1109
+512;59;formylmethanofuran dehydrogenase subunit E [EC:1.2.7.12];(GenBank);tac:Ta1109;tac00680;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1109
+513;127;glycine hydroxymethyltransferase [EC:2.1.2.1];(GenBank);tac:Ta0811;tac00680;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0811+tac:Ta1509
+514;136;2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit [EC:1.2.7.7 1.2.7.1];(GenBank);tac:Ta0626;tac00680;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0626
+515;142;enolase [EC:4.2.1.11];(GenBank);tac:Ta0882;tac00680;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0882
+516;153;phosphoserine phosphatase [EC:3.1.3.3];(GenBank);tac:Ta0936;tac00680;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0936
+517;163;glycerate dehydrogenase [EC:1.1.1.29];(GenBank);tac:Ta0858;tac00680;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0858
+518;166;glycerate 2-kinase [EC:2.7.1.165];(GenBank);tac:Ta0453;tac00680;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0453
+519;167;malate dehydrogenase [EC:1.1.1.37];(GenBank);tac:Ta0952;tac00680;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0952
+520;181;fructose 1,6-bisphosphate aldolase/phosphatase [EC:4.1.2.13 3.1.3.11];(GenBank);tac:Ta1428;tac00680;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1428
+521;194;fructose 1,6-bisphosphate aldolase/phosphatase [EC:4.1.2.13 3.1.3.11];(GenBank);tac:Ta1428;tac00680;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1428
+522;198;glycine hydroxymethyltransferase [EC:2.1.2.1];(GenBank);tac:Ta0811;tac00680;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0811+tac:Ta1509
+523;206;acetyl-CoA synthetase [EC:6.2.1.1];(GenBank);tac:Ta0229;tac00680;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0229+tac:Ta0421+tac:Ta0769+tac:Ta1508
+524;253;2-phosphosulfolactate phosphatase [EC:3.1.3.71];(GenBank);tac:Ta1432;tac00680;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1432
+525;293;2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12];(GenBank);tac:Ta0413;tac00680;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0413+tac:Ta0823+tac:Ta1347
+526;322;formate dehydrogenase (coenzyme F420) alpha subunit [EC:1.17.98.3 1.8.98.6];(GenBank);tac:Ta0045;tac00680;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0045
+527;323;formate dehydrogenase (coenzyme F420) alpha subunit [EC:1.17.98.3 1.8.98.6];(GenBank);tac:Ta0045;tac00680;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0045
+528;56;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(GenBank);tac:Ta0030;tac00720;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0030+tac:Ta0296+tac:Ta0351+tac:Ta0582+tac:Ta1456
+529;57;2-oxoisovalerate/pyruvate ferredoxin oxidoreductase gamma subunit [EC:1.2.7.7 1.2.7.1];(GenBank);tac:Ta0626;tac00720;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0626
+530;60;malate dehydrogenase [EC:1.1.1.37];(GenBank);tac:Ta0952;tac00720;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0952
+531;61;fumarate hydratase, class II [EC:4.2.1.2];(GenBank);tac:Ta0258;tac00720;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0258
+532;62;succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4];(GenBank);tac:Ta1001;tac00720;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1001+tac:Ta1002+tac:Ta1003+tac:Ta1004
+533;63;succinyl-CoA synthetase alpha subunit [EC:6.2.1.5];(GenBank);tac:Ta1331;tac00720;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1331+tac:Ta1332
+534;68;enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase [EC:4.2.1.17 1.1.1.35];(GenBank);tac:Ta0291;tac00720;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0291
+535;69;enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase [EC:4.2.1.17 1.1.1.35];(GenBank);tac:Ta0291;tac00720;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0291
+536;70;2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11];(GenBank);tac:Ta0259;tac00720;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0259+tac:Ta0260+tac:Ta0772+tac:Ta0773
+537;71;isocitrate dehydrogenase [EC:1.1.1.42];(GenBank);tac:Ta0117;tac00720;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0117
+538;72;aconitate hydratase [EC:4.2.1.3];(GenBank);tac:Ta0112;tac00720;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0112
+539;73;aconitate hydratase [EC:4.2.1.3];(GenBank);tac:Ta0112;tac00720;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0112
+540;75;acetyl-CoA synthetase [EC:6.2.1.1];(GenBank);tac:Ta0229;tac00720;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0229+tac:Ta0421+tac:Ta0769+tac:Ta1508
+541;86;3-hydroxypropionyl-coenzyme A dehydratase [EC:4.2.1.116];(GenBank);tac:Ta0121;tac00720;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0121
+542;87;acryloyl-coenzyme A reductase [EC:1.3.1.84];(GenBank);tac:Ta0841;tac00720;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0841
+543;90;methylmalonyl-CoA mutase, N-terminal domain [EC:5.4.99.2];(GenBank);tac:Ta0462;tac00720;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0462+tac:Ta0463
+544;107;formate--tetrahydrofolate ligase [EC:6.3.4.3];(GenBank);tac:Ta1478;tac00720;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1478
+545;108;methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9];(GenBank);tac:Ta0898;tac00720;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0898
+546;109;methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9];(GenBank);tac:Ta0898;tac00720;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0898
+547;165;pyruvate, orthophosphate dikinase [EC:2.7.9.1];(GenBank);tac:Ta0886;tac00720;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0886
+548;167;succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4];(GenBank);tac:Ta1001;tac00720;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1001+tac:Ta1002+tac:Ta1003+tac:Ta1004
+549;59;adenylate kinase [EC:2.7.4.3];(GenBank);tac:Ta1247;tac00730;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1247
+550;62;nucleoside-triphosphatase [EC:3.6.1.15];(GenBank);tac:Ta0998;tac00730;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0998
+551;63;thiamine-monophosphate kinase [EC:2.7.4.16];(GenBank);tac:Ta0526;tac00730;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0526
+552;71;tRNA uracil 4-sulfurtransferase [EC:2.8.1.4];(GenBank);tac:Ta0506;tac00730;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0506
+553;75;hydroxymethylpyrimidine/phosphomethylpyrimidine kinase [EC:2.7.1.49 2.7.4.7];(GenBank);tac:Ta1281;tac00730;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1281
+554;76;hydroxymethylpyrimidine/phosphomethylpyrimidine kinase [EC:2.7.1.49 2.7.4.7];(GenBank);tac:Ta1281;tac00730;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1281
+555;93;thiamine-phosphate pyrophosphorylase [EC:2.5.1.3];(GenBank);tac:Ta1277;tac00730;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1277
+556;97;thiamine-phosphate pyrophosphorylase [EC:2.5.1.3];(GenBank);tac:Ta1277;tac00730;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1277
+557;35;FAD synthetase [EC:2.7.7.2];(GenBank);tac:Ta1139;tac00740;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1139
+558;38;GTP cyclohydrolase II [EC:3.5.4.25];(GenBank);tac:Ta1014;tac00740;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1014
+559;44;riboflavin kinase, archaea type [EC:2.7.1.161];(GenBank);tac:Ta1064;tac00740;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1064
+560;7;5'-phosphate synthase pdxT subunit [EC:4.3.3.6];(GenBank);tac:Ta0009;tac00750;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0009+tac:Ta0522
+561;89;threonine synthase [EC:4.2.3.1];(GenBank);tac:Ta0026;tac00750;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0026+tac:Ta0495
+562;91;nicotinamide-nucleotide adenylyltransferase [EC:2.7.7.1];(GenBank);tac:Ta0774;tac00760;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0774
+563;93;NAD+ synthase [EC:6.3.1.5];(GenBank);tac:Ta0899;tac00760;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0899
+564;95;nicotinate phosphoribosyltransferase [EC:6.3.4.21];(GenBank);tac:Ta1145;tac00760;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1145
+565;101;nicotinamide-nucleotide adenylyltransferase [EC:2.7.7.1];(GenBank);tac:Ta0774;tac00760;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0774
+566;111;NAD+ kinase [EC:2.7.1.23];(GenBank);tac:Ta0622;tac00760;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0622
+567;72;phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase [EC:4.1.1.36 6.3.2.5];(GenBank);tac:Ta0889;tac00770;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0889
+568;75;phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase [EC:4.1.1.36 6.3.2.5];(GenBank);tac:Ta0889;tac00770;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0889
+569;87;acetolactate synthase I/II/III large subunit [EC:2.2.1.6];(GenBank);tac:Ta0691;tac00770;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0691
+570;92;inosine/xanthosine triphosphatase [EC:3.6.1.73];(GenBank);tac:Ta1194;tac00770;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1194
+571;56;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];(GenBank);tac:Ta0251;tac00780;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0251+tac:Ta0441+tac:Ta0822
+572;70;3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100];(GenBank);tac:Ta0251;tac00780;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0251+tac:Ta0441+tac:Ta0822
+573;24;lipoate---protein ligase [EC:6.3.1.20];(GenBank);tac:Ta0513;tac00785;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0513+tac:Ta0514
+574;27;lipoate---protein ligase [EC:6.3.1.20];(GenBank);tac:Ta0513;tac00785;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0513+tac:Ta0514
+575;33;lipoate---protein ligase [EC:6.3.1.20];(GenBank);tac:Ta0513;tac00785;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0513+tac:Ta0514
+576;50;lipoate---protein ligase [EC:6.3.1.20];(GenBank);tac:Ta0513;tac00785;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0513+tac:Ta0514
+577;67;dihydrofolate synthase / folylpolyglutamate synthase [EC:6.3.2.12 6.3.2.17];(GenBank);tac:Ta0637;tac00790;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0637
+578;68;dihydrofolate synthase / folylpolyglutamate synthase [EC:6.3.2.12 6.3.2.17];(GenBank);tac:Ta0637;tac00790;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0637
+579;71;dihydrofolate synthase / folylpolyglutamate synthase [EC:6.3.2.12 6.3.2.17];(GenBank);tac:Ta0637;tac00790;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0637
+580;72;dihydropteroate synthase [EC:2.5.1.15];(GenBank);tac:Ta0079;tac00790;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0079
+581;73;dihydropteroate synthase [EC:2.5.1.15];(GenBank);tac:Ta0079;tac00790;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0079
+582;74;2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase [EC:2.7.6.3];(GenBank);tac:Ta1431;tac00790;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1431
+583;75;dihydroneopterin aldolase [EC:4.1.2.25];(GenBank);tac:Ta0999;tac00790;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0999
+584;83;dihydrofolate synthase / folylpolyglutamate synthase [EC:6.3.2.12 6.3.2.17];(GenBank);tac:Ta0637;tac00790;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0637
+585;86;6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase [EC:4.2.3.12 4.1.2.50];(GenBank);tac:Ta0950;tac00790;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0950
+586;93;GTP 3',8-cyclase [EC:4.1.99.22];(GenBank);tac:Ta0443;tac00790;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0443
+587;94;molybdopterin synthase catalytic subunit [EC:2.8.1.12];(GenBank);tac:Ta1480;tac00790;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1480
+588;96;6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase [EC:4.2.3.12 4.1.2.50];(GenBank);tac:Ta0950;tac00790;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0950
+589;102;7-carboxy-7-deazaguanine synthase [EC:4.3.99.3];(GenBank);tac:Ta1359;tac00790;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1359
+590;103;7-cyano-7-deazaguanine synthase [EC:6.3.4.20];(GenBank);tac:Ta0951;tac00790;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0951
+591;117;cyclic pyranopterin monophosphate synthase [EC:4.6.1.17];(GenBank);tac:Ta0492;tac00790;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0492
+592;118;molybdopterin adenylyltransferase [EC:2.7.7.75];(GenBank);tac:Ta0493;tac00790;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0493
+593;122;molybdopterin molybdotransferase [EC:2.10.1.1];(GenBank);tac:Ta1022;tac00790;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1022+tac:Ta1023
+594;139;GTP cyclohydrolase IV [EC:3.5.4.39];(GenBank);tac:Ta1138;tac00790;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1138
+595;181;GTP cyclohydrolase II [EC:3.5.4.25];(GenBank);tac:Ta1014;tac00790;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1014
+596;267;heme o synthase [EC:2.5.1.141];(GenBank);tac:Ta0435;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0435
+597;268;protoporphyrin/coproporphyrin ferrochelatase [EC:4.99.1.1 4.99.1.9];(GenBank);tac:Ta0311;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0311
+598;272;magnesium chelatase subunit D [EC:6.6.1.1];(GenBank);tac:Ta0576;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0576
+599;274;uroporphyrinogen decarboxylase [EC:4.1.1.37];(GenBank);tac:Ta0310;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0310
+600;275;uroporphyrinogen-III synthase [EC:4.2.1.75];(GenBank);tac:Ta0573;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0573
+601;276;uroporphyrin-III C-methyltransferase [EC:2.1.1.107];(GenBank);tac:Ta0653;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0653
+602;277;uroporphyrinogen decarboxylase [EC:4.1.1.37];(GenBank);tac:Ta0310;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0310
+603;278;hydroxymethylbilane synthase [EC:2.5.1.61];(GenBank);tac:Ta0572;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0572
+604;279;porphobilinogen synthase [EC:4.2.1.24];(GenBank);tac:Ta0955;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0955
+605;281;glutamate-1-semialdehyde 2,1-aminomutase [EC:5.4.3.8];(GenBank);tac:Ta0571;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0571
+606;283;glutamyl-tRNA reductase [EC:1.2.1.70];(GenBank);tac:Ta0536;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0536
+607;284;glutamyl-tRNA synthetase [EC:6.1.1.17];(GenBank);tac:Ta0942;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0942
+608;285;precorrin-2 dehydrogenase / sirohydrochlorin ferrochelatase [EC:1.3.1.76 4.99.1.4];(GenBank);tac:Ta0652;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0652
+609;286;precorrin-2 dehydrogenase / sirohydrochlorin ferrochelatase [EC:1.3.1.76 4.99.1.4];(GenBank);tac:Ta0652;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0652
+610;288;precorrin-2/cobalt-factor-2 C20-methyltransferase [EC:2.1.1.130 2.1.1.151];(GenBank);tac:Ta0658;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0658
+611;289;precorrin-3B C17-methyltransferase [EC:2.1.1.131];(GenBank);tac:Ta0655;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0655
+612;290;precorrin-4/cobalt-precorrin-4 C11-methyltransferase [EC:2.1.1.133 2.1.1.271];(GenBank);tac:Ta0659;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0659
+613;293;cobalt-precorrin-6B (C15)-methyltransferase [EC:2.1.1.196];(GenBank);tac:Ta0657;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0657
+614;294;precorrin-2/cobalt-factor-2 C20-methyltransferase [EC:2.1.1.130 2.1.1.151];(GenBank);tac:Ta0658;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0658
+615;296;precorrin-3B C17-methyltransferase [EC:2.1.1.131];(GenBank);tac:Ta0655;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0655
+616;297;precorrin-4/cobalt-precorrin-4 C11-methyltransferase [EC:2.1.1.133 2.1.1.271];(GenBank);tac:Ta0659;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0659
+617;300;precorrin-8X/cobalt-precorrin-8 methylmutase [EC:5.4.99.61 5.4.99.60];(GenBank);tac:Ta0654;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0654
+618;301;cobyrinic acid a,c-diamide synthase [EC:6.3.5.9 6.3.5.11];(GenBank);tac:Ta1200;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1200
+619;303;precorrin-8X/cobalt-precorrin-8 methylmutase [EC:5.4.99.61 5.4.99.60];(GenBank);tac:Ta0654;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0654
+620;304;cobyrinic acid a,c-diamide synthase [EC:6.3.5.9 6.3.5.11];(GenBank);tac:Ta1200;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1200
+621;306;cob(I)alamin adenosyltransferase [EC:2.5.1.17];(GenBank);tac:Ta1121;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1121
+622;307;adenosylcobyric acid synthase [EC:6.3.5.10];(GenBank);tac:Ta0075;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0075
+623;309;cob(I)alamin adenosyltransferase [EC:2.5.1.17];(GenBank);tac:Ta1121;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1121
+624;312;cob(I)alamin adenosyltransferase [EC:2.5.1.17];(GenBank);tac:Ta1121;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1121
+625;314;threonine-phosphate decarboxylase [EC:4.1.1.81];(GenBank);tac:Ta0021;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0021
+626;315;adenosylcobinamide-GDP ribazoletransferase [EC:2.7.8.26];(GenBank);tac:Ta1079;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1079
+627;320;adenosylcobinamide-phosphate synthase [EC:6.3.1.10];(GenBank);tac:Ta0076;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0076
+628;321;adenosylcobinamide-phosphate synthase [EC:6.3.1.10];(GenBank);tac:Ta0076;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0076
+629;324;cobalt-precorrin-5B (C1)-methyltransferase [EC:2.1.1.195];(GenBank);tac:Ta0656;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0656
+630;418;protoporphyrin/coproporphyrin ferrochelatase [EC:4.99.1.1 4.99.1.9];(GenBank);tac:Ta0311;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0311
+631;460;cob(I)alamin adenosyltransferase [EC:2.5.1.17];(GenBank);tac:Ta1121;tac00860;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1121
+632;71;acetyl-CoA C-acetyltransferase [EC:2.3.1.9];(GenBank);tac:Ta0030;tac00900;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0030+tac:Ta0296+tac:Ta0351+tac:Ta0582+tac:Ta1456
+633;72;hydroxymethylglutaryl-CoA synthase [EC:2.3.3.10];(GenBank);tac:Ta1455;tac00900;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1455
+634;74;hydroxymethylglutaryl-CoA reductase [EC:1.1.1.88];(GenBank);tac:Ta0406;tac00900;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0406
+635;98;isopentenyl-diphosphate Delta-isomerase [EC:5.3.3.2];(GenBank);tac:Ta0102;tac00900;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0102
+636;103;geranylgeranyl diphosphate synthase, type I [EC:2.5.1.1 2.5.1.10 2.5.1.29];(GenBank);tac:Ta1313;tac00900;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1313
+637;105;geranylgeranyl diphosphate synthase, type I [EC:2.5.1.1 2.5.1.10 2.5.1.29];(GenBank);tac:Ta1313;tac00900;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1313
+638;116;geranylgeranyl diphosphate synthase, type I [EC:2.5.1.1 2.5.1.10 2.5.1.29];(GenBank);tac:Ta1313;tac00900;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1313
+639;122;octaprenyl-diphosphate synthase [EC:2.5.1.90];(GenBank);tac:Ta0436;tac00900;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0436
+640;132;tritrans,polycis-undecaprenyl-diphosphate synthase [geranylgeranyl-diphosphate specific] [EC:2.5.1.89];(GenBank);tac:Ta0546;tac00900;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0546
+641;158;isopentenyl phosphate kinase [EC:2.7.4.26];(GenBank);tac:Ta0103;tac00900;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0103
+642;161;mevalonate-3-kinase [EC:2.7.1.185];(GenBank);tac:Ta1305;tac00900;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1305
+643;163;mevalonate-3-phosphate-5-kinase [EC:2.7.1.186];(GenBank);tac:Ta0762;tac00900;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0762
+644;168;bisphosphomevalonate decarboxylase [EC:4.1.1.110];(GenBank);tac:Ta0893;tac00900;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0893
+645;70;carbamate kinase [EC:2.7.2.2];(GenBank);tac:Ta1350;tac00910;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1350
+646;83;glutamine synthetase [EC:6.3.1.2];(GenBank);tac:Ta1498;tac00910;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1498
+647;87;glutamate synthase (NADPH) small chain [EC:1.4.1.13];(GenBank);tac:Ta0414;tac00910;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0414
+648;93;glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3];(GenBank);tac:Ta0635;tac00910;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0635+tac:Ta0776
+649;77;sulfide:quinone oxidoreductase [EC:1.8.5.4];(GenBank);tac:Ta1129;tac00920;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1129+tac:Ta1413+tac:Ta1467
+650;103;cysteine synthase [EC:2.5.1.47];(GenBank);tac:Ta0535;tac00920;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0535
+651;121;cystathionine gamma-synthase [EC:2.5.1.48];(GenBank);tac:Ta0531;tac00920;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0531
+652;24;isoleucyl-tRNA synthetase [EC:6.1.1.5];(GenBank);tac:Ta0879;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0879
+653;58;asparaginyl-tRNA synthetase [EC:6.1.1.22];(GenBank);tac:Ta0519;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0519+tac:Ta0609
+654;59;histidyl-tRNA synthetase [EC:6.1.1.21];(GenBank);tac:Ta0099;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0099
+655;60;phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20];(GenBank);tac:Ta0551;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0551+tac:Ta0639
+656;61;arginyl-tRNA synthetase [EC:6.1.1.19];(GenBank);tac:Ta0281;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0281
+657;63;cysteinyl-tRNA synthetase [EC:6.1.1.16];(GenBank);tac:Ta1147;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1147
+658;64;glycyl-tRNA synthetase [EC:6.1.1.14];(GenBank);tac:Ta0206;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0206
+659;66;seryl-tRNA synthetase [EC:6.1.1.11];(GenBank);tac:Ta0468;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0468
+660;67;methionyl-tRNA synthetase [EC:6.1.1.10];(GenBank);tac:Ta1162;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1162
+661;68;valyl-tRNA synthetase [EC:6.1.1.9];(GenBank);tac:Ta0040;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0040
+662;69;alanyl-tRNA synthetase [EC:6.1.1.7];(GenBank);tac:Ta0499;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0499+tac:Ta0849
+663;70;lysyl-tRNA synthetase, class I [EC:6.1.1.6];(GenBank);tac:Ta1163;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1163
+664;71;leucyl-tRNA synthetase [EC:6.1.1.4];(GenBank);tac:Ta0777;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0777
+665;72;threonyl-tRNA synthetase [EC:6.1.1.3];(GenBank);tac:Ta0330;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0330
+666;73;tryptophanyl-tRNA synthetase [EC:6.1.1.2];(GenBank);tac:Ta1211;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta1211
+667;75;tyrosyl-tRNA synthetase [EC:6.1.1.1];(GenBank);tac:Ta0512;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0512
+668;76;prolyl-tRNA synthetase [EC:6.1.1.15];(GenBank);tac:Ta0937;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0937
+669;77;glutamyl-tRNA synthetase [EC:6.1.1.17];(GenBank);tac:Ta0942;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0942
+670;128;glutamyl-tRNA(Gln) amidotransferase subunit E [EC:6.3.5.7];(GenBank);tac:Ta0971;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0971+tac:Ta0972
+671;132;nondiscriminating aspartyl-tRNA synthetase [EC:6.1.1.23];(GenBank);tac:Ta0946;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0946
+672;137;seryl-tRNA synthetase [EC:6.1.1.11];(GenBank);tac:Ta0468;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0468
+673;145;L-seryl-tRNA(Ser) seleniumtransferase [EC:2.9.1.1];(GenBank);tac:Ta0673;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0673
+674;151;nondiscriminating aspartyl-tRNA synthetase [EC:6.1.1.23];(GenBank);tac:Ta0946;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:Ta0946
+675;156;tRNA Glu;(GenBank);tac:tRNA-Glu-1;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:tRNA-Glu-1+tac:tRNA-Glu-2
+676;157;tRNA Gln;(GenBank);tac:tRNA-Gln-1;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:tRNA-Gln-1+tac:tRNA-Gln-2
+677;158;tRNA Ala;(GenBank);tac:tRNA-Ala-1;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:tRNA-Ala-1+tac:tRNA-Ala-2+tac:tRNA-Ala-3
+678;159;tRNA Asp;(GenBank);tac:tRNA-Asp;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:tRNA-Asp
+679;160;tRNA Ser;(GenBank);tac:tRNA-Ser-1;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:tRNA-Ser-1+tac:tRNA-Ser-2+tac:tRNA-Ser-3+tac:tRNA-Ser-4
+680;161;tRNA Thr;(GenBank);tac:tRNA-Thr-1;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:tRNA-Thr-1+tac:tRNA-Thr-2+tac:tRNA-Thr-3
+681;162;tRNA Asn;(GenBank);tac:tRNA-Asn;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:tRNA-Asn
+682;163;tRNA Gly;(GenBank);tac:tRNA-Gly-1;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:tRNA-Gly-1+tac:tRNA-Gly-2+tac:tRNA-Gly-3
+683;164;tRNA Cys;(GenBank);tac:tRNA-Cys;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:tRNA-Cys
+684;166;tRNA Met;(GenBank);tac:tRNA-Met-1;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:tRNA-Met-1+tac:tRNA-Met-2+tac:tRNA-Met-3
+685;167;tRNA Val;(GenBank);tac:tRNA-Val-1;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:tRNA-Val-1+tac:tRNA-Val-2+tac:tRNA-Val-3
+686;168;tRNA Leu;(GenBank);tac:tRNA-Leu-1;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:tRNA-Leu-1+tac:tRNA-Leu-2+tac:tRNA-Leu-3+tac:tRNA-Leu-4+tac:tRNA-Leu-5
+687;169;tRNA Ile;(GenBank);tac:tRNA-Ile;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:tRNA-Ile
+688;170;tRNA Lys;(GenBank);tac:tRNA-Lys-1;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:tRNA-Lys-1+tac:tRNA-Lys-2
+689;172;tRNA Arg;(GenBank);tac:tRNA-Arg-1;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:tRNA-Arg-1+tac:tRNA-Arg-2+tac:tRNA-Arg-3+tac:tRNA-Arg-4
+690;173;tRNA Pro;(GenBank);tac:tRNA-Pro-1;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:tRNA-Pro-1+tac:tRNA-Pro-2+tac:tRNA-Pro-3
+691;174;tRNA His;(GenBank);tac:tRNA-His;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:tRNA-His
+692;176;tRNA Tyr;(GenBank);tac:tRNA-Tyr;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:tRNA-Tyr
+693;177;tRNA Trp;(GenBank);tac:tRNA-Trp;tac00970;http://www.kegg.jp/dbget-bin/www_bget?tac:tRNA-Trp

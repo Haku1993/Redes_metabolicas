@@ -1,0 +1,1245 @@
+;Origen;Destino
+EC:5.1.3.3;alpha-D-glucose [CPD:C00267]
+beta-D-glucose [CPD:C00221];EC:5.1.3.3
+EC:2.7.1.1;"ATP [CPD:C00002];"
+EC:2.7.1.1;D-hexose [CPD:C00738]
+"ADP [CPD:C00008];";EC:2.7.1.1
+D-hexose 6-phosphate [CPD:C02965];EC:2.7.1.1
+EC:2.7.1.2;"ATP [CPD:C00002];"
+EC:2.7.1.2;D-glucose [CPD:C00031]
+"ADP [CPD:C00008];";EC:2.7.1.2
+D-glucose 6-phosphate [CPD:C00092];EC:2.7.1.2
+EC:5.3.1.9;D-glucose 6-phosphate [CPD:C00092]
+D-fructose 6-phosphate [CPD:C00085];EC:5.3.1.9
+EC:5.1.3.15;alpha-D-glucose 6-phosphate [CPD:C00668]
+beta-D-glucose 6-phosphate [CPD:C01172];EC:5.1.3.15
+EC:5.4.2.2;alpha-D-glucose 1-phosphate [CPD:C00103]
+D-glucose 6-phosphate [CPD:C00092];EC:5.4.2.2
+EC:3.1.3.11;"D-fructose 1,6-bisphosphate [CPD:C00354];"
+EC:3.1.3.11;H2O [CPD:C00001]
+"D-fructose 6-phosphate [CPD:C00085];";EC:3.1.3.11
+phosphate [CPD:C00009];EC:3.1.3.11
+EC:2.7.1.11;"ATP [CPD:C00002];"
+EC:2.7.1.11;D-fructose 6-phosphate [CPD:C00085]
+"ADP [CPD:C00008];";EC:2.7.1.11
+D-fructose 1,6-bisphosphate [CPD:C00354];EC:2.7.1.11
+EC:4.1.2.13;D-fructose 1,6-bisphosphate [CPD:C00354]
+"glycerone phosphate [CPD:C00111];";EC:4.1.2.13
+D-glyceraldehyde 3-phosphate [CPD:C00118];EC:4.1.2.13
+EC:5.3.1.1;D-glyceraldehyde 3-phosphate [CPD:C00118]
+glycerone phosphate [CPD:C00111];EC:5.3.1.1
+EC:1.2.1.12;"D-glyceraldehyde 3-phosphate [CPD:C00118];"
+EC:1.2.1.12;"phosphate [CPD:C00009];"
+EC:1.2.1.12;NAD+ [CPD:C00003]
+"3-phospho-D-glyceroyl phosphate [CPD:C00236];";EC:1.2.1.12
+"NADH [CPD:C00004];";EC:1.2.1.12
+H+ [CPD:C00080];EC:1.2.1.12
+EC:2.7.2.3;"ATP [CPD:C00002];"
+EC:2.7.2.3;3-phospho-D-glycerate [CPD:C00197]
+"ADP [CPD:C00008];";EC:2.7.2.3
+3-phospho-D-glyceroyl phosphate [CPD:C00236];EC:2.7.2.3
+EC:1.2.4.1;"pyruvate [CPD:C00022];"
+EC:1.2.4.1;[dihydrolipoyllysine-residue acetyltransferase] lipoyllysine [CPD:C15972]
+"[dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine [CPD:C16255];";EC:1.2.4.1
+CO2 [CPD:C00011];EC:1.2.4.1
+EC:2.3.1.12;"acetyl-CoA [CPD:C00024];"
+EC:2.3.1.12;enzyme N6-(dihydrolipoyl)lysine [CPD:C15973]
+"CoA [CPD:C00010];";EC:2.3.1.12
+enzyme N6-(S-acetyldihydrolipoyl)lysine [CPD:C16255];EC:2.3.1.12
+EC:1.8.1.4;"protein N6-(dihydrolipoyl)lysine [CPD:C16832];"
+EC:1.8.1.4;NAD+ [CPD:C00003]
+"protein N6-(lipoyl)lysine [CPD:C16237];";EC:1.8.1.4
+"NADH [CPD:C00004];";EC:1.8.1.4
+H+ [CPD:C00080];EC:1.8.1.4
+EC:1.2.1.3;"aldehyde [CPD:C00071];"
+EC:1.2.1.3;"NAD+ [CPD:C00003];"
+EC:1.2.1.3;H2O [CPD:C00001]
+"carboxylate [CPD:C00060];";EC:1.2.1.3
+"NADH [CPD:C00004];";EC:1.2.1.3
+H+ [CPD:C00080];EC:1.2.1.3
+EC:1.1.1.2;"alcohol [CPD:C00069];"
+EC:1.1.1.2;NADP+ [CPD:C00006]
+"aldehyde [CPD:C00071];";EC:1.1.1.2
+"NADPH [CPD:C00005];";EC:1.1.1.2
+H+ [CPD:C00080];EC:1.1.1.2
+EC:2.7.1.40;"ATP [CPD:C00002];"
+EC:2.7.1.40;pyruvate [CPD:C00022]
+"ADP [CPD:C00008];";EC:2.7.1.40
+phosphoenolpyruvate [CPD:C00074];EC:2.7.1.40
+EC:4.2.1.11;2-phospho-D-glycerate [CPD:C00631]
+"phosphoenolpyruvate [CPD:C00074];";EC:4.2.1.11
+H2O [CPD:C00001];EC:4.2.1.11
+EC:4.1.1.49;"ATP [CPD:C00002];"
+EC:4.1.1.49;oxaloacetate [CPD:C00036]
+"ADP [CPD:C00008];";EC:4.1.1.49
+"phosphoenolpyruvate [CPD:C00074];";EC:4.1.1.49
+CO2 [CPD:C00011];EC:4.1.1.49
+EC:6.2.1.1;"ATP [CPD:C00002];"
+EC:6.2.1.1;"acetate [CPD:C00033];"
+EC:6.2.1.1;CoA [CPD:C00010]
+"AMP [CPD:C00020];";EC:6.2.1.1
+"diphosphate [CPD:C00013];";EC:6.2.1.1
+acetyl-CoA [CPD:C00024];EC:6.2.1.1
+EC:5.4.2.12;2-phospho-D-glycerate [CPD:C00631]
+3-phospho-D-glycerate [CPD:C00197];EC:5.4.2.12
+EC:2.3.3.1;"acetyl-CoA [CPD:C00024];"
+EC:2.3.3.1;"H2O [CPD:C00001];"
+EC:2.3.3.1;oxaloacetate [CPD:C00036]
+"citrate [CPD:C00158];";EC:2.3.3.1
+CoA [CPD:C00010];EC:2.3.3.1
+EC:1.1.1.37;"(S)-malate [CPD:C00149];"
+EC:1.1.1.37;NAD+ [CPD:C00003]
+"oxaloacetate [CPD:C00036];";EC:1.1.1.37
+"NADH [CPD:C00004];";EC:1.1.1.37
+H+ [CPD:C00080];EC:1.1.1.37
+EC:4.2.1.2;(S)-malate [CPD:C00149]
+"fumarate [CPD:C00122];";EC:4.2.1.2
+H2O [CPD:C00001];EC:4.2.1.2
+EC:1.3.5.1;"succinate [CPD:C00042];"
+EC:1.3.5.1;quinone [CPD:C15602]
+"fumarate [CPD:C00122];";EC:1.3.5.1
+quinol [CPD:C15603];EC:1.3.5.1
+EC:6.2.1.4 6.2.1.5;"GTP [CPD:C00044];"
+EC:6.2.1.4 6.2.1.5;"succinate [CPD:C00042];"
+EC:6.2.1.4 6.2.1.5;CoA [CPD:C00010]
+"GDP [CPD:C00035];";EC:6.2.1.4 6.2.1.5
+"phosphate [CPD:C00009];";EC:6.2.1.4 6.2.1.5
+succinyl-CoA [CPD:C00091];EC:6.2.1.4 6.2.1.5
+EC:2.3.1.61;"succinyl-CoA [CPD:C00091];"
+EC:2.3.1.61;enzyme N6-(dihydrolipoyl)lysine [CPD:C15973]
+"CoA [CPD:C00010];";EC:2.3.1.61
+enzyme N6-(S-succinyldihydrolipoyl)lysine [CPD:C16254];EC:2.3.1.61
+EC:1.2.4.2;"2-oxoglutarate [CPD:C00026];"
+EC:1.2.4.2;[dihydrolipoyllysine-residue succinyltransferase] lipoyllysine
+"[dihydrolipoyllysine-residue succinyltransferase] S-succinyldihydrolipoyllysine [CPD:C16254];";EC:1.2.4.2
+CO2 [CPD:C00011];EC:1.2.4.2
+EC:1.1.1.42;"isocitrate [CPD:C00311];"
+EC:1.1.1.42;"NADP+ [CPD:C00006];"
+EC:1.1.1.42;oxalosuccinate [CPD:C05379]
+"2-oxoglutarate [CPD:C00026];";EC:1.1.1.42
+"CO2 [CPD:C00011];";EC:1.1.1.42
+"NADPH [CPD:C00005];";EC:1.1.1.42
+"H+ [CPD:C00080];";EC:1.1.1.42
+oxalosuccinate [CPD:C05379];EC:1.1.1.42
+EC:4.2.1.3;"citrate [CPD:C00158];"
+EC:4.2.1.3;"cis-aconitate [CPD:C00417];"
+EC:4.2.1.3;H2O [CPD:C00001]
+"isocitrate [CPD:C00311];";EC:4.2.1.3
+"cis-aconitate [CPD:C00417];";EC:4.2.1.3
+H2O [CPD:C00001];EC:4.2.1.3
+EC:1.1.1.49 1.1.1.363;"D-glucose 6-phosphate [CPD:C00092];"
+EC:1.1.1.49 1.1.1.363;NADP+ [CPD:C00006]
+"6-phospho-D-glucono-1,5-lactone [CPD:C01236];";EC:1.1.1.49 1.1.1.363
+"NADPH [CPD:C00005];";EC:1.1.1.49 1.1.1.363
+H+ [CPD:C00080];EC:1.1.1.49 1.1.1.363
+EC:5.1.3.1;D-ribulose 5-phosphate [CPD:C00199]
+D-xylulose 5-phosphate [CPD:C00231];EC:5.1.3.1
+EC:1.1.1.44 1.1.1.343;"6-phospho-D-gluconate [CPD:C00345];"
+EC:1.1.1.44 1.1.1.343;NADP+ [CPD:C00006]
+"D-ribulose 5-phosphate [CPD:C00199];";EC:1.1.1.44 1.1.1.343
+"CO2 [CPD:C00011];";EC:1.1.1.44 1.1.1.343
+"NADPH [CPD:C00005];";EC:1.1.1.44 1.1.1.343
+H+ [CPD:C00080];EC:1.1.1.44 1.1.1.343
+EC:5.3.1.6;D-ribose 5-phosphate [CPD:C00117]
+D-ribulose 5-phosphate [CPD:C00199];EC:5.3.1.6
+EC:2.2.1.1;"sedoheptulose 7-phosphate [CPD:C05382];"
+EC:2.2.1.1;D-glyceraldehyde 3-phosphate [CPD:C00118]
+"D-ribose 5-phosphate [CPD:C00117];";EC:2.2.1.1
+D-xylulose 5-phosphate [CPD:C00231];EC:2.2.1.1
+EC:2.7.1.15;"ATP [CPD:C00002];"
+EC:2.7.1.15;D-ribose [CPD:C00121]
+"ADP [CPD:C00008];";EC:2.7.1.15
+D-ribose 5-phosphate [CPD:C00117];EC:2.7.1.15
+EC:2.7.6.1;"ATP [CPD:C00002];"
+EC:2.7.6.1;D-ribose 5-phosphate [CPD:C00117]
+"AMP [CPD:C00020];";EC:2.7.6.1
+5-phospho-alpha-D-ribose 1-diphosphate [CPD:C00119];EC:2.7.6.1
+EC:2.2.1.2;"sedoheptulose 7-phosphate [CPD:C05382];"
+EC:2.2.1.2;D-glyceraldehyde 3-phosphate [CPD:C00118]
+"D-erythrose 4-phosphate [CPD:C00279];";EC:2.2.1.2
+D-fructose 6-phosphate [CPD:C00085];EC:2.2.1.2
+EC:4.1.2.4;2-deoxy-D-ribose 5-phosphate [CPD:C00673]
+"D-glyceraldehyde 3-phosphate [CPD:C00118];";EC:4.1.2.4
+acetaldehyde [CPD:C00084];EC:4.1.2.4
+EC:2.7.1.17;"ATP [CPD:C00002];"
+EC:2.7.1.17;D-xylulose [CPD:C00310]
+"ADP [CPD:C00008];";EC:2.7.1.17
+D-xylulose 5-phosphate [CPD:C00231];EC:2.7.1.17
+EC:2.7.1.16;"ATP [CPD:C00002];"
+EC:2.7.1.16;"L-ribulose [CPD:C00508];"
+EC:2.7.1.16;D-ribulose [CPD:C00309]
+"ADP [CPD:C00008];";EC:2.7.1.16
+"L-ribulose 5-phosphate [CPD:C01101];";EC:2.7.1.16
+D-ribulose 5-phosphate [CPD:C00199];EC:2.7.1.16
+EC:5.3.1.8;D-mannose 6-phosphate [CPD:C00275]
+D-fructose 6-phosphate [CPD:C00085];EC:5.3.1.8
+EC:5.4.2.8;alpha-D-mannose 1-phosphate [CPD:C00636]
+D-mannose 6-phosphate [CPD:C00275];EC:5.4.2.8
+EC:2.7.7.13;"GTP [CPD:C00044];"
+EC:2.7.7.13;alpha-D-mannose 1-phosphate [CPD:C00636]
+"diphosphate [CPD:C00013];";EC:2.7.7.13
+GDP-mannose [CPD:C00096];EC:2.7.7.13
+EC:2.7.1.28 2.7.1.29 4.6.1.15;"ATP [CPD:C00002];"
+EC:2.7.1.28 2.7.1.29 4.6.1.15;D-glyceraldehyde [CPD:C00577]
+"ADP [CPD:C00008];";EC:2.7.1.28 2.7.1.29 4.6.1.15
+D-glyceraldehyde 3-phosphate [CPD:C00118];EC:2.7.1.28 2.7.1.29 4.6.1.15
+EC:2.7.7.9;"UTP [CPD:C00075];"
+EC:2.7.7.9;alpha-D-glucose 1-phosphate [CPD:C00103]
+"diphosphate [CPD:C00013];";EC:2.7.7.9
+UDP-glucose [CPD:C00029];EC:2.7.7.9
+EC:5.1.3.2;UDP-alpha-D-glucose [CPD:C00029]
+UDP-alpha-D-galactose [CPD:C00052];EC:5.1.3.2
+EC:2.7.1.6;"ATP [CPD:C00002];"
+EC:2.7.1.6;alpha-D-galactose [CPD:C00984]
+"ADP [CPD:C00008];";EC:2.7.1.6
+alpha-D-galactose 1-phosphate [CPD:C00446];EC:2.7.1.6
+EC:2.7.7.64;"diphosphate [CPD:C00013];"
+EC:2.7.7.64;UDP-monosaccharide [CPD:C05227]
+Requires Mg2+ or Mn2+ for maximal activity. The reaction can occur in either direction and it has been postulated that MgUTP and Mg-diphosphate are the actual substrates [1,2]. The enzyme catalyses the formation of UDP-Glc, UDP-Gal, UDP-GlcA, UDP-L-Ara and UDP-Xyl, showing broad substrate specificity towards monosaccharide 1-phosphates. Mannose 1-phosphate, L-Fucose 1-phosphate and glucose 6-phosphate are not substrates and UTP cannot be replaced by other nucleotide triphosphates [1].;EC:2.7.7.64
+EC:1.11.1.11;"L-ascorbate [CPD:C00072];"
+EC:1.11.1.11;"H2O2 [CPD:C00027];"
+EC:1.11.1.11;"H+ [CPD:C00080];"
+EC:1.11.1.11;monodehydroascorbate [CPD:C01041]
+"L-ascorbate [CPD:C00072];";EC:1.11.1.11
+"L-dehydroascorbate [CPD:C05422];";EC:1.11.1.11
+"H2O [CPD:C00001];";EC:1.11.1.11
+monodehydroascorbate [CPD:C01041];EC:1.11.1.11
+EC:1.1.3.8;"L-gulono-1,4-lactone [CPD:C01040];"
+EC:1.1.3.8;"O2 [CPD:C00007];"
+EC:1.1.3.8;L-xylo-hex-2-ulono-1,4-lactone [CPD:C03289]
+"L-ascorbate [CPD:C00072];";EC:1.1.3.8
+"H2O2 [CPD:C00027];";EC:1.1.3.8
+L-xylo-hex-2-ulono-1,4-lactone [CPD:C03289];EC:1.1.3.8
+EC:2.3.1.179;"(Z)-hexadec-11-enoyl-[acyl-carrier protein];"
+EC:2.3.1.179;malonyl-[acyl-carrier protein] [CPD:C01209]
+"(Z)-3-oxooctadec-13-enoyl-[acyl-carrier protein];";EC:2.3.1.179
+"CO2 [CPD:C00011];";EC:2.3.1.179
+[acyl-carrier protein] [CPD:C00229];EC:2.3.1.179
+EC:1.1.1.100;"(3R)-3-hydroxyacyl-[acyl-carrier protein] [CPD:C01271];"
+EC:1.1.1.100;NADP+ [CPD:C00006]
+"3-oxoacyl-[acyl-carrier protein] [CPD:C00685];";EC:1.1.1.100
+"NADPH [CPD:C00005];";EC:1.1.1.100
+H+ [CPD:C00080];EC:1.1.1.100
+EC:1.3.1.9;"acyl-[acyl-carrier protein] [CPD:C00173];"
+EC:1.3.1.9;NAD+ [CPD:C00003]
+"trans-2,3-dehydroacyl-[acyl-carrier protein] [CPD:C00693];";EC:1.3.1.9
+"NADH [CPD:C00004];";EC:1.3.1.9
+H+ [CPD:C00080];EC:1.3.1.9
+EC:4.2.1.17;(3S)-3-hydroxyacyl-CoA [CPD:C00640]
+"trans-2-enoyl-CoA [CPD:C00658];";EC:4.2.1.17
+"trans-3-enoyl-CoA [CPD:C05067];";EC:4.2.1.17
+H2O [CPD:C00001];EC:4.2.1.17
+EC:1.1.1.35;"(S)-3-hydroxyacyl-CoA [CPD:C00640];"
+EC:1.1.1.35;NAD+ [CPD:C00003]
+"3-oxoacyl-CoA [CPD:C00264];";EC:1.1.1.35
+"NADH [CPD:C00004];";EC:1.1.1.35
+H+ [CPD:C00080];EC:1.1.1.35
+EC:1.1.1.62 1.1.1.330;"17beta-estradiol;"
+EC:1.1.1.62 1.1.1.330;"NAD+ [CPD:C00003];"
+EC:1.1.1.62 1.1.1.330;NADP+ [CPD:C00006]
+"estrone [CPD:C00468];";EC:1.1.1.62 1.1.1.330
+"NADH [CPD:C00004];";EC:1.1.1.62 1.1.1.330
+"NADPH [CPD:C00005];";EC:1.1.1.62 1.1.1.330
+H+ [CPD:C00080];EC:1.1.1.62 1.1.1.330
+EC:4.2.1.134;very-long-chain (3R)-3-hydroxyacyl-CoA [CPD:C20878]
+"very-long-chain trans-2,3-dehydroacyl-CoA [CPD:C20879];";EC:4.2.1.134
+H2O [CPD:C00001];EC:4.2.1.134
+EC:1.3.1.93;"very-long-chain acyl-CoA [CPD:C20876];"
+EC:1.3.1.93;NADP+ [CPD:C00006]
+"very-long-chain trans-2,3-dehydroacyl-CoA [CPD:C20879];";EC:1.3.1.93
+"NADPH [CPD:C00005];";EC:1.3.1.93
+H+ [CPD:C00080];EC:1.3.1.93
+EC:2.3.1.199;"very-long-chain acyl-CoA [CPD:C20876];"
+EC:2.3.1.199;malonyl-CoA [CPD:C00083]
+"very-long-chain 3-oxoacyl-CoA [CPD:C20877];";EC:2.3.1.199
+"CO2 [CPD:C00011];";EC:2.3.1.199
+CoA [CPD:C00010];EC:2.3.1.199
+EC:1.3.8.7;"medium-chain acyl-CoA [CPD:C21926];"
+EC:1.3.8.7;electron-transfer flavoprotein [CPD:C04253]
+"medium-chain trans-2,3-dehydroacyl-CoA;";EC:1.3.8.7
+reduced electron-transfer flavoprotein [CPD:C04570];EC:1.3.8.7
+EC:2.3.1.21;"palmitoyl-CoA [CPD:C00154];"
+EC:2.3.1.21;L-carnitine [CPD:C00318]
+"CoA [CPD:C00010];";EC:2.3.1.21
+L-palmitoylcarnitine [CPD:C02990];EC:2.3.1.21
+EC:2.3.1.16;"acyl-CoA [CPD:C00040];"
+EC:2.3.1.16;"acetyl-CoA [CPD:C00024];"
+EC:2.3.1.16;"[acetyl-CoA C-acyltransferase]-S-acyl-L-cysteine;"
+EC:2.3.1.16;[acetyl-CoA C-acyltransferase]-L-cysteine
+"CoA [CPD:C00010];";EC:2.3.1.16
+"3-oxoacyl-CoA [CPD:C00264];";EC:2.3.1.16
+"[acetyl-CoA C-acyltransferase]-L-cysteine;";EC:2.3.1.16
+[acetyl-CoA C-acyltransferase]-S-acyl-L-cysteine;EC:2.3.1.16
+EC:2.3.1.21;"palmitoyl-CoA [CPD:C00154];"
+EC:2.3.1.21;L-carnitine [CPD:C00318]
+"CoA [CPD:C00010];";EC:2.3.1.21
+L-palmitoylcarnitine [CPD:C02990];EC:2.3.1.21
+EC:6.2.1.3;"ATP [CPD:C00002];"
+EC:6.2.1.3;"long-chain fatty acid [CPD:C00638];"
+EC:6.2.1.3;CoA [CPD:C00010]
+"AMP [CPD:C00020];";EC:6.2.1.3
+"diphosphate [CPD:C00013];";EC:6.2.1.3
+acyl-CoA [CPD:C00040];EC:6.2.1.3
+EC:1.14.14.154 1.14.15.36;"14alpha-methylsteroid [CPD:C21918];"
+EC:1.14.14.154 1.14.15.36;"[reduced NADPH---hemoprotein reductase] [CPD:C03024];"
+EC:1.14.14.154 1.14.15.36;"O2 [CPD:C00007];"
+EC:1.14.14.154 1.14.15.36;"14alpha-hydroxysteroid;"
+EC:1.14.14.154 1.14.15.36;14alpha-formylsteroid [CPD:C21921]
+"Delta14-steroid [CPD:C21919];";EC:1.14.14.154 1.14.15.36
+"formate [CPD:C00058];";EC:1.14.14.154 1.14.15.36
+"[oxidized NADPH---hemoprotein reductase] [CPD:C03161];";EC:1.14.14.154 1.14.15.36
+"H2O [CPD:C00001];";EC:1.14.14.154 1.14.15.36
+"14alpha-hydroxymethylsteroid [CPD:C21920];";EC:1.14.14.154 1.14.15.36
+14alpha-formylsteroid [CPD:C21921];EC:1.14.14.154 1.14.15.36
+EC:1.3.1.70;"4,4-dimethyl-5alpha-cholesta-8,24-dien-3beta-ol [CPD:C05108];"
+EC:1.3.1.70;NADP+ [CPD:C00006]
+"4,4-dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol [CPD:C11455];";EC:1.3.1.70
+"NADPH [CPD:C00005];";EC:1.3.1.70
+H+ [CPD:C00080];EC:1.3.1.70
+EC:5.4.99.7;(3S)-2,3-epoxy-2,3-dihydrosqualene [CPD:C01054]
+lanosterol [CPD:C01724];EC:5.4.99.7
+EC:2.1.1.41;"S-adenosyl-L-methionine [CPD:C00019];"
+EC:2.1.1.41;5alpha-cholesta-8,24-dien-3beta-ol [CPD:C05437]
+"S-adenosyl-L-homocysteine [CPD:C00021];";EC:2.1.1.41
+24-methylene-5alpha-cholest-8-en-3beta-ol [CPD:C04525];EC:2.1.1.41
+EC:1.14.19.20;"Delta7-sterol;"
+EC:1.14.19.20;"ferrocytochrome b5 [CPD:C00999];"
+EC:1.14.19.20;"O2 [CPD:C00007];"
+EC:1.14.19.20;H+ [CPD:C00080]
+"Delta5,7-sterol;";EC:1.14.19.20
+"ferricytochrome b5 [CPD:C00996];";EC:1.14.19.20
+H2O [CPD:C00001];EC:1.14.19.20
+EC:2.5.1.21;"(2E,6E)-farnesyl diphosphate [CPD:C00448];"
+EC:2.5.1.21;"NADH [CPD:C00004];"
+EC:2.5.1.21;"NADPH [CPD:C00005];"
+EC:2.5.1.21;"H+ [CPD:C00080];"
+EC:2.5.1.21;presqualene diphosphate [CPD:C03428]
+"squalene [CPD:C00751];";EC:2.5.1.21
+"diphosphate [CPD:C00013];";EC:2.5.1.21
+"NAD+ [CPD:C00003];";EC:2.5.1.21
+"NADP+ [CPD:C00006];";EC:2.5.1.21
+presqualene diphosphate [CPD:C03428];EC:2.5.1.21
+EC:1.14.14.17;"squalene [CPD:C00751];"
+EC:1.14.14.17;"[reduced NADPH---hemoprotein reductase] [CPD:C03024];"
+EC:1.14.14.17;O2 [CPD:C00007]
+"(3S)-2,3-epoxy-2,3-dihydrosqualene [CPD:C01054];";EC:1.14.14.17
+"[oxidized NADPH---hemoprotein reductase] [CPD:C03161];";EC:1.14.14.17
+H2O [CPD:C00001];EC:1.14.14.17
+EC:2.1.1.201;"S-adenosyl-L-methionine [CPD:C00019];"
+EC:2.1.1.201;2-methoxy-6-all-trans-polyprenyl-1,4-benzoquinol [CPD:C19858]
+"S-adenosyl-L-homocysteine [CPD:C00021];";EC:2.1.1.201
+6-methoxy-3-methyl-2-all-trans-polyprenyl-1,4-benzoquinol [CPD:C19859];EC:2.1.1.201
+EC:1.14.99.60;"6-methoxy-3-methyl-2-all-trans-polyprenyl-1,4-benzoquinol [CPD:C19859];"
+EC:1.14.99.60;"reduced acceptor [CPD:C00030];"
+EC:1.14.99.60;O2 [CPD:C00007]
+"3-demethylubiquinol [CPD:C21860];";EC:1.14.99.60
+"acceptor [CPD:C00028];";EC:1.14.99.60
+H2O [CPD:C00001];EC:1.14.99.60
+EC:2.1.1.222 2.1.1.64;"S-adenosyl-L-methionine [CPD:C00019];"
+EC:2.1.1.222 2.1.1.64;3-(all-trans-polyprenyl)benzene-1,2-diol [CPD:C17551]
+"S-adenosyl-L-homocysteine [CPD:C00021];";EC:2.1.1.222 2.1.1.64
+2-methoxy-6-(all-trans-polyprenyl)phenol;EC:2.1.1.222 2.1.1.64
+EC:3.6.1.1;"diphosphate [CPD:C00013];"
+EC:3.6.1.1;H2O [CPD:C00001]
+phosphate [CPD:C00009];EC:3.6.1.1
+EC:7.1.2.1;"ADP [CPD:C00008];"
+EC:7.1.2.1;"phosphate [CPD:C00009];"
+EC:7.1.2.1;H+[side 2]
+A P-type ATPase that undergoes covalent phosphorylation during the transport cycle. This enzyme occurs in protozoa, fungi and plants, and generates an electrochemical potential gradient of protons across the plasma membrane.;EC:7.1.2.1
+EC:6.3.1.2;"ATP [CPD:C00002];"
+EC:6.3.1.2;"L-glutamate [CPD:C00025];"
+EC:6.3.1.2;NH3 [CPD:C00014]
+"ADP [CPD:C00008];";EC:6.3.1.2
+"phosphate [CPD:C00009];";EC:6.3.1.2
+L-glutamine [CPD:C00064];EC:6.3.1.2
+EC:1.4.1.2;"L-glutamate [CPD:C00025];"
+EC:1.4.1.2;"H2O [CPD:C00001];"
+EC:1.4.1.2;NAD+ [CPD:C00003]
+"2-oxoglutarate [CPD:C00026];";EC:1.4.1.2
+"NH3 [CPD:C00014];";EC:1.4.1.2
+"NADH [CPD:C00004];";EC:1.4.1.2
+H+ [CPD:C00080];EC:1.4.1.2
+EC:1.4.1.4;"L-glutamate [CPD:C00025];"
+EC:1.4.1.4;"H2O [CPD:C00001];"
+EC:1.4.1.4;NADP+ [CPD:C00006]
+"2-oxoglutarate [CPD:C00026];";EC:1.4.1.4
+"NH3 [CPD:C00014];";EC:1.4.1.4
+"NADPH [CPD:C00005];";EC:1.4.1.4
+H+ [CPD:C00080];EC:1.4.1.4
+EC:2.6.1.1;"L-aspartate [CPD:C00049];"
+EC:2.6.1.1;2-oxoglutarate [CPD:C00026]
+"oxaloacetate [CPD:C00036];";EC:2.6.1.1
+L-glutamate [CPD:C00025];EC:2.6.1.1
+EC:2.6.1.2;"L-alanine [CPD:C00041];"
+EC:2.6.1.2;2-oxoglutarate [CPD:C00026]
+"pyruvate [CPD:C00022];";EC:2.6.1.2
+L-glutamate [CPD:C00025];EC:2.6.1.2
+EC:3.5.1.16;"N2-acetyl-L-ornithine [CPD:C00437];"
+EC:3.5.1.16;H2O [CPD:C00001]
+"acetate [CPD:C00033];";EC:3.5.1.16
+L-ornithine [CPD:C00077];EC:3.5.1.16
+EC:3.5.3.1;"L-arginine [CPD:C00062];"
+EC:3.5.3.1;H2O [CPD:C00001]
+"L-ornithine [CPD:C00077];";EC:3.5.3.1
+urea [CPD:C00086];EC:3.5.3.1
+EC:6.3.4.5;"ATP [CPD:C00002];"
+EC:6.3.4.5;"L-citrulline [CPD:C00327];"
+EC:6.3.4.5;L-aspartate [CPD:C00049]
+"AMP [CPD:C00020];";EC:6.3.4.5
+"diphosphate [CPD:C00013];";EC:6.3.4.5
+2-(Nomega-L-arginino)succinate [CPD:C03406];EC:6.3.4.5
+EC:4.3.2.2;"N6-(1,2-dicarboxyethyl)AMP [CPD:C03794];"
+EC:4.3.2.2;(S)-2-[5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate [CPD:C04823]
+"fumarate [CPD:C00122];";EC:4.3.2.2
+"AMP [CPD:C00020];";EC:4.3.2.2
+5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide [CPD:C04677];EC:4.3.2.2
+EC:2.4.2.7;"AMP [CPD:C00020];"
+EC:2.4.2.7;diphosphate [CPD:C00013]
+"adenine [CPD:C00147];";EC:2.4.2.7
+5-phospho-alpha-D-ribose 1-diphosphate [CPD:C00119];EC:2.4.2.7
+EC:2.7.4.6;"ATP [CPD:C00002];"
+EC:2.7.4.6;nucleoside diphosphate [CPD:C00454]
+"ADP [CPD:C00008];";EC:2.7.4.6
+nucleoside triphosphate [CPD:C00201];EC:2.7.4.6
+EC:3.5.4.6;"AMP [CPD:C00020];"
+EC:3.5.4.6;H2O [CPD:C00001]
+"IMP [CPD:C00130];";EC:3.5.4.6
+NH3 [CPD:C00014];EC:3.5.4.6
+EC:6.3.4.4;"GTP [CPD:C00044];"
+EC:6.3.4.4;"IMP [CPD:C00130];"
+EC:6.3.4.4;L-aspartate [CPD:C00049]
+"GDP [CPD:C00035];";EC:6.3.4.4
+"phosphate [CPD:C00009];";EC:6.3.4.4
+N6-(1,2-dicarboxyethyl)-AMP [CPD:C03794];EC:6.3.4.4
+EC:3.6.1.6;"nucleoside diphosphate [CPD:C00454];"
+EC:3.6.1.6;H2O [CPD:C00001]
+"nucleoside phosphate [CPD:C01329];";EC:3.6.1.6
+phosphate [CPD:C00009];EC:3.6.1.6
+EC:1.1.1.205;"IMP [CPD:C00130];"
+EC:1.1.1.205;"NAD+ [CPD:C00003];"
+EC:1.1.1.205;H2O [CPD:C00001]
+"XMP [CPD:C00655];";EC:1.1.1.205
+"NADH [CPD:C00004];";EC:1.1.1.205
+H+ [CPD:C00080];EC:1.1.1.205
+EC:2.4.2.8;"IMP [CPD:C00130];"
+EC:2.4.2.8;diphosphate [CPD:C00013]
+"hypoxanthine [CPD:C00262];";EC:2.4.2.8
+5-phospho-alpha-D-ribose 1-diphosphate [CPD:C00119];EC:2.4.2.8
+EC:3.5.4.4;"adenosine [CPD:C00212];"
+EC:3.5.4.4;H2O [CPD:C00001]
+"inosine [CPD:C00294];";EC:3.5.4.4
+NH3 [CPD:C00014];EC:3.5.4.4
+EC:3.2.2.1;"purine nucleoside [CPD:C15586];"
+EC:3.2.2.1;H2O [CPD:C00001]
+"D-ribose [CPD:C00121];";EC:3.2.2.1
+purine base [CPD:C15587];EC:3.2.2.1
+EC:2.7.4.3;"ATP [CPD:C00002];"
+EC:2.7.4.3;AMP [CPD:C00020]
+ADP [CPD:C00008];EC:2.7.4.3
+EC:2.7.1.20;"ATP [CPD:C00002];"
+EC:2.7.1.20;adenosine [CPD:C00212]
+"ADP [CPD:C00008];";EC:2.7.1.20
+AMP [CPD:C00020];EC:2.7.1.20
+EC:1.17.4.1;"2'-deoxyribonucleoside 5'-diphosphate [CPD:C04232];"
+EC:1.17.4.1;"thioredoxin disulfide [CPD:C00343];"
+EC:1.17.4.1;H2O [CPD:C00001]
+"ribonucleoside 5'-diphosphate [CPD:C03723];";EC:1.17.4.1
+thioredoxin [CPD:C00342];EC:1.17.4.1
+EC:4.6.1.1;ATP [CPD:C00002]
+"3',5'-cyclic AMP [CPD:C00575];";EC:4.6.1.1
+diphosphate [CPD:C00013];EC:4.6.1.1
+EC:3.1.4.17;"nucleoside 3',5'-cyclic phosphate [CPD:C04212];"
+EC:3.1.4.17;H2O [CPD:C00001]
+nucleoside 5'-phosphate [CPD:C01117];EC:3.1.4.17
+EC:6.3.5.2;"ATP [CPD:C00002];"
+EC:6.3.5.2;"XMP [CPD:C00655];"
+EC:6.3.5.2;"L-glutamine [CPD:C00064];"
+EC:6.3.5.2;"H2O [CPD:C00001];"
+EC:6.3.5.2;NH3 [CPD:C00014]
+"AMP [CPD:C00020];";EC:6.3.5.2
+"diphosphate [CPD:C00013];";EC:6.3.5.2
+"GMP [CPD:C00144];";EC:6.3.5.2
+"L-glutamate [CPD:C00025];";EC:6.3.5.2
+NH3 [CPD:C00014];EC:6.3.5.2
+EC:3.5.4.3;"guanine [CPD:C00242];"
+EC:3.5.4.3;H2O [CPD:C00001]
+"xanthine [CPD:C00385];";EC:3.5.4.3
+NH3 [CPD:C00014];EC:3.5.4.3
+EC:2.7.4.8;"ATP [CPD:C00002];"
+EC:2.7.4.8;GMP [CPD:C00144]
+"ADP [CPD:C00008];";EC:2.7.4.8
+GDP [CPD:C00035];EC:2.7.4.8
+EC:3.1.4.53;"adenosine 3',5'-cyclic phosphate [CPD:C00575];"
+EC:3.1.4.53;H2O [CPD:C00001]
+AMP [CPD:C00020];EC:3.1.4.53
+EC:6.3.5.5;"ATP [CPD:C00002];"
+EC:6.3.5.5;"L-glutamine [CPD:C00064];"
+EC:6.3.5.5;"hydrogencarbonate [CPD:C00288];"
+EC:6.3.5.5;"H2O [CPD:C00001];"
+EC:6.3.5.5;"NH3 [CPD:C00014];"
+EC:6.3.5.5;"carboxyphosphate [CPD:C20969];"
+EC:6.3.5.5;carbamate [CPD:C01563]
+"ADP [CPD:C00008];";EC:6.3.5.5
+"phosphate [CPD:C00009];";EC:6.3.5.5
+"L-glutamate [CPD:C00025];";EC:6.3.5.5
+"carbamoyl phosphate [CPD:C00169];";EC:6.3.5.5
+"NH3 [CPD:C00014];";EC:6.3.5.5
+"carboxyphosphate [CPD:C20969];";EC:6.3.5.5
+carbamate [CPD:C01563];EC:6.3.5.5
+EC:2.1.3.2;"carbamoyl phosphate [CPD:C00169];"
+EC:2.1.3.2;L-aspartate [CPD:C00049]
+"phosphate [CPD:C00009];";EC:2.1.3.2
+N-carbamoyl-L-aspartate [CPD:C00438];EC:2.1.3.2
+EC:3.5.2.3;"(S)-dihydroorotate [CPD:C00337];"
+EC:3.5.2.3;H2O [CPD:C00001]
+N-carbamoyl-L-aspartate [CPD:C00438];EC:3.5.2.3
+EC:1.3.98.1;"(S)-dihydroorotate [CPD:C00337];"
+EC:1.3.98.1;fumarate [CPD:C00122]
+"orotate [CPD:C00295];";EC:1.3.98.1
+succinate [CPD:C00042];EC:1.3.98.1
+EC:2.4.2.10 4.1.1.23;"orotidine 5'-phosphate [CPD:C01103];"
+EC:2.4.2.10 4.1.1.23;diphosphate [CPD:C00013]
+"orotate [CPD:C00295];";EC:2.4.2.10 4.1.1.23
+5-phospho-alpha-D-ribose 1-diphosphate [CPD:C00119];EC:2.4.2.10 4.1.1.23
+EC:2.7.1.48;"ATP [CPD:C00002];"
+EC:2.7.1.48;uridine [CPD:C00299]
+"ADP [CPD:C00008];";EC:2.7.1.48
+UMP [CPD:C00105];EC:2.7.1.48
+EC:2.4.2.9;"UMP [CPD:C00105];"
+EC:2.4.2.9;diphosphate [CPD:C00013]
+"uracil [CPD:C00106];";EC:2.4.2.9
+5-phospho-alpha-D-ribose 1-diphosphate [CPD:C00119];EC:2.4.2.9
+EC:2.7.4.14;"ATP [CPD:C00002];"
+EC:2.7.4.14;"dCMP [CPD:C00239];"
+EC:2.7.4.14;UMP [CPD:C00105]
+"ADP [CPD:C00008];";EC:2.7.4.14
+"dCDP [CPD:C00705];";EC:2.7.4.14
+UDP [CPD:C00015];EC:2.7.4.14
+EC:6.3.4.2;"ATP [CPD:C00002];"
+EC:6.3.4.2;"UTP [CPD:C00075];"
+EC:6.3.4.2;"L-glutamine [CPD:C00064];"
+EC:6.3.4.2;"H2O [CPD:C00001];"
+EC:6.3.4.2;NH3 [CPD:C00014]
+"ADP [CPD:C00008];";EC:6.3.4.2
+"phosphate [CPD:C00009];";EC:6.3.4.2
+"CTP [CPD:C00063];";EC:6.3.4.2
+"L-glutamate [CPD:C00025];";EC:6.3.4.2
+NH3 [CPD:C00014];EC:6.3.4.2
+EC:3.5.4.5;"cytidine [CPD:C00475];"
+EC:3.5.4.5;"H2O [CPD:C00001];"
+EC:3.5.4.5;2'-deoxycytidine [CPD:C00881]
+"uridine [CPD:C00299];";EC:3.5.4.5
+"NH3 [CPD:C00014];";EC:3.5.4.5
+2'-deoxyuridine [CPD:C00526];EC:3.5.4.5
+EC:2.7.1.21;"ATP [CPD:C00002];"
+EC:2.7.1.21;thymidine [CPD:C00214]
+"ADP [CPD:C00008];";EC:2.7.1.21
+dTMP [CPD:C00364];EC:2.7.1.21
+EC:1.5.1.3 2.1.1.45;"5,6,7,8-tetrahydrofolate [CPD:C00101];"
+EC:1.5.1.3 2.1.1.45;NADP+ [CPD:C00006]
+"7,8-dihydrofolate [CPD:C00415];";EC:1.5.1.3 2.1.1.45
+"NADPH [CPD:C00005];";EC:1.5.1.3 2.1.1.45
+H+ [CPD:C00080];EC:1.5.1.3 2.1.1.45
+EC:2.7.4.9;"ATP [CPD:C00002];"
+EC:2.7.4.9;dTMP [CPD:C00364]
+"ADP [CPD:C00008];";EC:2.7.4.9
+dTDP [CPD:C00363];EC:2.7.4.9
+EC:3.6.1.23;"dUTP [CPD:C00460];"
+EC:3.6.1.23;H2O [CPD:C00001]
+"dUMP [CPD:C00365];";EC:3.6.1.23
+diphosphate [CPD:C00013];EC:3.6.1.23
+EC:3.5.1.3;"monoamide of dicarboxylate [CPD:C04131];"
+EC:3.5.1.3;H2O [CPD:C00001]
+"dicarboxylate [CPD:C02028];";EC:3.5.1.3
+NH3 [CPD:C00014];EC:3.5.1.3
+EC:2.6.1.16;"L-glutamine [CPD:C00064];"
+EC:2.6.1.16;D-fructose 6-phosphate [CPD:C00085]
+"L-glutamate [CPD:C00025];";EC:2.6.1.16
+D-glucosamine 6-phosphate [CPD:C00352];EC:2.6.1.16
+EC:1.2.1.88;"L-glutamate 5-semialdehyde [CPD:C01165];"
+EC:1.2.1.88;"NAD+ [CPD:C00003];"
+EC:1.2.1.88;H2O [CPD:C00001]
+"L-glutamate [CPD:C00025];";EC:1.2.1.88
+"NADH [CPD:C00004];";EC:1.2.1.88
+H+ [CPD:C00080];EC:1.2.1.88
+EC:6.3.1.1;"ATP [CPD:C00002];"
+EC:6.3.1.1;"L-aspartate [CPD:C00049];"
+EC:6.3.1.1;NH3 [CPD:C00014]
+"AMP [CPD:C00020];";EC:6.3.1.1
+"diphosphate [CPD:C00013];";EC:6.3.1.1
+L-asparagine [CPD:C00152];EC:6.3.1.1
+EC:3.5.1.1;"L-asparagine [CPD:C00152];"
+EC:3.5.1.1;H2O [CPD:C00001]
+"L-aspartate [CPD:C00049];";EC:3.5.1.1
+NH3 [CPD:C00014];EC:3.5.1.1
+EC:4.2.1.22;"L-serine [CPD:C00065];"
+EC:4.2.1.22;L-homocysteine [CPD:C00155]
+"L-cystathionine [CPD:C02291];";EC:4.2.1.22
+H2O [CPD:C00001];EC:4.2.1.22
+EC:2.1.2.1;"5,10-methylenetetrahydrofolate [CPD:C00143];"
+EC:2.1.2.1;"glycine [CPD:C00037];"
+EC:2.1.2.1;H2O [CPD:C00001]
+"tetrahydrofolate [CPD:C00101];";EC:2.1.2.1
+L-serine [CPD:C00065];EC:2.1.2.1
+EC:2.1.2.10;"[protein]-S8-aminomethyldihydrolipoyllysine [CPD:C01242];"
+EC:2.1.2.10;tetrahydrofolate [CPD:C00101]
+"[protein]-dihydrolipoyllysine;";EC:2.1.2.10
+"5,10-methylenetetrahydrofolate [CPD:C00143];";EC:2.1.2.10
+NH3 [CPD:C00014];EC:2.1.2.10
+EC:1.4.4.2;"glycine [CPD:C00037];"
+EC:1.4.4.2;[glycine-cleavage complex H protein]-N6-lipoyl-L-lysine [CPD:C02051]
+"[glycine-cleavage complex H protein]-S-aminomethyl-N6-dihydrolipoyl-L-lysine [CPD:C01242];";EC:1.4.4.2
+CO2 [CPD:C00011];EC:1.4.4.2
+EC:4.1.2.48;"L-threonine [CPD:C00188];"
+EC:4.1.2.48;L-allo-threonine [CPD:C05519]
+"glycine [CPD:C00037];";EC:4.1.2.48
+acetaldehyde [CPD:C00084];EC:4.1.2.48
+EC:4.2.3.1;"O-phospho-L-homoserine [CPD:C01102];"
+EC:4.2.3.1;H2O [CPD:C00001]
+"L-threonine [CPD:C00188];";EC:4.2.3.1
+phosphate [CPD:C00009];EC:4.2.3.1
+EC:2.7.1.39;"ATP [CPD:C00002];"
+EC:2.7.1.39;L-homoserine [CPD:C00263]
+"ADP [CPD:C00008];";EC:2.7.1.39
+O-phospho-L-homoserine [CPD:C01102];EC:2.7.1.39
+EC:1.1.1.3;"L-homoserine [CPD:C00263];"
+EC:1.1.1.3;"NAD+ [CPD:C00003];"
+EC:1.1.1.3;NADP+ [CPD:C00006]
+"L-aspartate 4-semialdehyde [CPD:C00441];";EC:1.1.1.3
+"NADH [CPD:C00004];";EC:1.1.1.3
+"NADPH [CPD:C00005];";EC:1.1.1.3
+H+ [CPD:C00080];EC:1.1.1.3
+EC:5.1.1.18;L-serine [CPD:C00065]
+D-serine [CPD:C00740];EC:5.1.1.18
+EC:1.1.1.95 1.1.1.399;"3-phospho-D-glycerate [CPD:C00197];"
+EC:1.1.1.95 1.1.1.399;NAD+ [CPD:C00003]
+"3-phosphooxypyruvate [CPD:C03232];";EC:1.1.1.95 1.1.1.399
+"NADH [CPD:C00004];";EC:1.1.1.95 1.1.1.399
+H+ [CPD:C00080];EC:1.1.1.95 1.1.1.399
+EC:2.3.1.30;"acetyl-CoA [CPD:C00024];"
+EC:2.3.1.30;L-serine [CPD:C00065]
+"CoA [CPD:C00010];";EC:2.3.1.30
+O-acetyl-L-serine [CPD:C00979];EC:2.3.1.30
+EC:2.5.1.47;"O-acetyl-L-serine [CPD:C00979];"
+EC:2.5.1.47;hydrogen sulfide [CPD:C00283]
+"L-cysteine [CPD:C00097];";EC:2.5.1.47
+acetate [CPD:C00033];EC:2.5.1.47
+EC:4.4.1.13;"L-cysteine-S-conjugate [CPD:C02882];"
+EC:4.4.1.13;"H2O [CPD:C00001];"
+EC:4.4.1.13;"2-aminoprop-2-enoate [CPD:C02218];"
+EC:4.4.1.13;2-iminopropanoate [CPD:C20904]
+"thiol [CPD:C00145];";EC:4.4.1.13
+"NH3 [CPD:C00014];";EC:4.4.1.13
+"pyruvate [CPD:C00022];";EC:4.4.1.13
+"2-aminoprop-2-enoate [CPD:C02218];";EC:4.4.1.13
+2-iminopropanoate [CPD:C20904];EC:4.4.1.13
+EC:2.8.1.1 2.8.1.2;"thiosulfate [CPD:C00320];"
+EC:2.8.1.1 2.8.1.2;cyanide [CPD:C00177]
+"sulfite [CPD:C00094];";EC:2.8.1.1 2.8.1.2
+thiocyanate [CPD:C01755];EC:2.8.1.1 2.8.1.2
+EC:2.1.1.13;"5-methyltetrahydrofolate [CPD:C00440];"
+EC:2.1.1.13;L-homocysteine [CPD:C00155]
+"tetrahydrofolate [CPD:C00101];";EC:2.1.1.13
+L-methionine [CPD:C00073];EC:2.1.1.13
+EC:3.3.1.1;"S-adenosyl-L-homocysteine [CPD:C00021];"
+EC:3.3.1.1;H2O [CPD:C00001]
+"L-homocysteine [CPD:C00155];";EC:3.3.1.1
+adenosine [CPD:C00212];EC:3.3.1.1
+EC:2.1.1.10;"S-methyl-L-methionine [CPD:C03172];"
+EC:2.1.1.10;L-homocysteine [CPD:C00155]
+L-methionine [CPD:C00073];EC:2.1.1.10
+EC:2.1.1.14;"5-methyltetrahydropteroyltri-L-glutamate [CPD:C04489];"
+EC:2.1.1.14;L-homocysteine [CPD:C00155]
+"tetrahydropteroyltri-L-glutamate [CPD:C04144];";EC:2.1.1.14
+L-methionine [CPD:C00073];EC:2.1.1.14
+EC:2.6.1.5;"L-tyrosine [CPD:C00082];"
+EC:2.6.1.5;2-oxoglutarate [CPD:C00026]
+"4-hydroxyphenylpyruvate [CPD:C01179];";EC:2.6.1.5
+L-glutamate [CPD:C00025];EC:2.6.1.5
+EC:2.5.1.6;"ATP [CPD:C00002];"
+EC:2.5.1.6;"L-methionine [CPD:C00073];"
+EC:2.5.1.6;H2O [CPD:C00001]
+"phosphate [CPD:C00009];";EC:2.5.1.6
+"diphosphate [CPD:C00013];";EC:2.5.1.6
+S-adenosyl-L-methionine [CPD:C00019];EC:2.5.1.6
+EC:2.1.1.37;"S-adenosyl-L-methionine [CPD:C00019];"
+EC:2.1.1.37;DNA containing cytosine
+"S-adenosyl-L-homocysteine [CPD:C00021];";EC:2.1.1.37
+DNA containing 5-methylcytosine [CPD:C02967];EC:2.1.1.37
+EC:4.1.1.50;S-adenosyl-L-methionine [CPD:C00019]
+"S-adenosyl 3-(methylsulfanyl)propylamine [CPD:C01137];";EC:4.1.1.50
+CO2 [CPD:C00011];EC:4.1.1.50
+EC:2.5.1.16;"S-adenosyl 3-(methylsulfanyl)propylamine [CPD:C01137];"
+EC:2.5.1.16;putrescine [CPD:C00134]
+"S-methyl-5'-thioadenosine [CPD:C00170];";EC:2.5.1.16
+spermidine [CPD:C00315];EC:2.5.1.16
+EC:2.4.2.28;"S-methyl-5'-thioadenosine [CPD:C00170];"
+EC:2.4.2.28;phosphate [CPD:C00009]
+"adenine [CPD:C00147];";EC:2.4.2.28
+S-methyl-5-thio-alpha-D-ribose 1-phosphate [CPD:C04188];EC:2.4.2.28
+EC:5.3.1.23;S-methyl-5-thio-alpha-D-ribose 1-phosphate [CPD:C04188]
+S-methyl-5-thio-D-ribulose 1-phosphate [CPD:C04582];EC:5.3.1.23
+EC:4.2.1.109;5-(methylsulfanyl)-D-ribulose 1-phosphate [CPD:C04582]
+"5-(methylsulfanyl)-2,3-dioxopentyl phosphate [CPD:C15650];";EC:4.2.1.109
+H2O [CPD:C00001];EC:4.2.1.109
+EC:1.13.11.53 1.13.11.54;"1,2-dihydroxy-5-(methylsulfanyl)pent-1-en-3-one [CPD:C15606];"
+EC:1.13.11.53 1.13.11.54;O2 [CPD:C00007]
+"3-(methylsulfanyl)propanoate [CPD:C08276];";EC:1.13.11.53 1.13.11.54
+"formate [CPD:C00058];";EC:1.13.11.53 1.13.11.54
+CO [CPD:C00237];EC:1.13.11.53 1.13.11.54
+EC:2.6.1.42;"L-leucine [CPD:C00123];"
+EC:2.6.1.42;2-oxoglutarate [CPD:C00026]
+"4-methyl-2-oxopentanoate [CPD:C00233];";EC:2.6.1.42
+L-glutamate [CPD:C00025];EC:2.6.1.42
+EC:6.3.2.2;"ATP [CPD:C00002];"
+EC:6.3.2.2;"L-glutamate [CPD:C00025];"
+EC:6.3.2.2;L-cysteine [CPD:C00097]
+"ADP [CPD:C00008];";EC:6.3.2.2
+"phosphate [CPD:C00009];";EC:6.3.2.2
+gamma-L-glutamyl-L-cysteine [CPD:C00669];EC:6.3.2.2
+EC:6.3.2.3;"ATP [CPD:C00002];"
+EC:6.3.2.3;"gamma-L-glutamyl-L-cysteine [CPD:C00669];"
+EC:6.3.2.3;glycine [CPD:C00037]
+"ADP [CPD:C00008];";EC:6.3.2.3
+"phosphate [CPD:C00009];";EC:6.3.2.3
+glutathione [CPD:C00051];EC:6.3.2.3
+EC:1.2.4.4;"3-methyl-2-oxobutanoate [CPD:C00141];"
+EC:1.2.4.4;[dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] lipoyllysine
+"[dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylpropanoyl)dihydrolipoyllysine [CPD:C15977];";EC:1.2.4.4
+CO2 [CPD:C00011];EC:1.2.4.4
+EC:2.3.1.168;"2-methylpropanoyl-CoA [CPD:C00630];"
+EC:2.3.1.168;enzyme N6-(dihydrolipoyl)lysine [CPD:C15973]
+"CoA [CPD:C00010];";EC:2.3.1.168
+enzyme N6-(S-[2-methylpropanoyl]dihydrolipoyl)lysine [CPD:C15977];EC:2.3.1.168
+EC:1.3.8.4;"isovaleryl-CoA [CPD:C02939];"
+EC:1.3.8.4;electron-transfer flavoprotein [CPD:C04253]
+"3-methylcrotonyl-CoA [CPD:C03069];";EC:1.3.8.4
+reduced electron-transfer flavoprotein [CPD:C04570];EC:1.3.8.4
+EC:6.4.1.4;"ATP [CPD:C00002];"
+EC:6.4.1.4;"3-methylcrotonoyl-CoA [CPD:C03069];"
+EC:6.4.1.4;HCO3- [CPD:C00288]
+"ADP [CPD:C00008];";EC:6.4.1.4
+"phosphate [CPD:C00009];";EC:6.4.1.4
+3-methylglutaconyl-CoA [CPD:C03231];EC:6.4.1.4
+EC:4.2.1.18;(S)-3-hydroxy-3-methylglutaryl-CoA [CPD:C00356]
+"trans-3-methylglutaconyl-CoA [CPD:C03231];";EC:4.2.1.18
+H2O [CPD:C00001];EC:4.2.1.18
+EC:5.4.99.2;(R)-methylmalonyl-CoA [CPD:C01213]
+succinyl-CoA [CPD:C00091];EC:5.4.99.2
+EC:5.1.99.1;(R)-methylmalonyl-CoA [CPD:C01213]
+(S)-methylmalonyl-CoA [CPD:C00683];EC:5.1.99.1
+EC:6.4.1.3;"ATP [CPD:C00002];"
+EC:6.4.1.3;"propanoyl-CoA [CPD:C00100];"
+EC:6.4.1.3;HCO3- [CPD:C00288]
+"ADP [CPD:C00008];";EC:6.4.1.3
+"phosphate [CPD:C00009];";EC:6.4.1.3
+(S)-methylmalonyl-CoA [CPD:C00683];EC:6.4.1.3
+EC:3.1.2.4;"3-hydroxy-2-methylpropanoyl-CoA [CPD:C04047];"
+EC:3.1.2.4;H2O [CPD:C00001]
+"CoA [CPD:C00010];";EC:3.1.2.4
+3-hydroxy-2-methylpropanoate [CPD:C01188];EC:3.1.2.4
+EC:3.5.3.11;"agmatine [CPD:C00179];"
+EC:3.5.3.11;H2O [CPD:C00001]
+"putrescine [CPD:C00134];";EC:3.5.3.11
+urea [CPD:C00086];EC:3.5.3.11
+EC:1.2.1.41;"L-glutamate 5-semialdehyde [CPD:C01165];"
+EC:1.2.1.41;"phosphate [CPD:C00009];"
+EC:1.2.1.41;NADP+ [CPD:C00006]
+"L-glutamyl 5-phosphate [CPD:C03287];";EC:1.2.1.41
+"NADPH [CPD:C00005];";EC:1.2.1.41
+H+ [CPD:C00080];EC:1.2.1.41
+EC:2.7.2.11;"ATP [CPD:C00002];"
+EC:2.7.2.11;L-glutamate [CPD:C00025]
+"ADP [CPD:C00008];";EC:2.7.2.11
+L-glutamate 5-phosphate [CPD:C03287];EC:2.7.2.11
+EC:4.1.1.17;L-ornithine [CPD:C00077]
+"putrescine [CPD:C00134];";EC:4.1.1.17
+CO2 [CPD:C00011];EC:4.1.1.17
+EC:1.5.5.2;"L-proline [CPD:C00148];"
+EC:1.5.5.2;quinone [CPD:C15602]
+"(S)-1-pyrroline-5-carboxylate [CPD:C03912];";EC:1.5.5.2
+quinol [CPD:C15603];EC:1.5.5.2
+EC:1.5.1.2;"L-proline [CPD:C00148];"
+EC:1.5.1.2;"NAD+ [CPD:C00003];"
+EC:1.5.1.2;NADP+ [CPD:C00006]
+"1-pyrroline-5-carboxylate [CPD:C03912];";EC:1.5.1.2
+"NADH [CPD:C00004];";EC:1.5.1.2
+"NADPH [CPD:C00005];";EC:1.5.1.2
+H+ [CPD:C00080];EC:1.5.1.2
+EC:4.1.2.52;4-hydroxy-2-oxoheptanedioate [CPD:C05601]
+"pyruvate [CPD:C00022];";EC:4.1.2.52
+succinate semialdehyde [CPD:C00232];EC:4.1.2.52
+EC:1.2.1.16 1.2.1.79 1.2.1.20;"succinate semialdehyde [CPD:C00232];"
+EC:1.2.1.16 1.2.1.79 1.2.1.20;"NAD+ [CPD:C00003];"
+EC:1.2.1.16 1.2.1.79 1.2.1.20;"NADP+ [CPD:C00006];"
+EC:1.2.1.16 1.2.1.79 1.2.1.20;H2O [CPD:C00001]
+"succinate [CPD:C00042];";EC:1.2.1.16 1.2.1.79 1.2.1.20
+"NADH [CPD:C00004];";EC:1.2.1.16 1.2.1.79 1.2.1.20
+"NADPH [CPD:C00005];";EC:1.2.1.16 1.2.1.79 1.2.1.20
+H+ [CPD:C00080];EC:1.2.1.16 1.2.1.79 1.2.1.20
+EC:1.14.16.1;"L-phenylalanine [CPD:C00079];"
+EC:1.14.16.1;"5,6,7,8-tetrahydropteridine [CPD:C05650];"
+EC:1.14.16.1;O2 [CPD:C00007]
+"L-tyrosine [CPD:C00082];";EC:1.14.16.1
+4a-hydroxy-5,6,7,8-tetrahydropteridine [CPD:C22239];EC:1.14.16.1
+EC:3.7.1.3;"L-kynurenine [CPD:C00328];"
+EC:3.7.1.3;H2O [CPD:C00001]
+"anthranilate [CPD:C00108];";EC:3.7.1.3
+L-alanine [CPD:C00041];EC:3.7.1.3
+EC:2.6.1.7 4.4.1.13 2.6.1.64;"L-kynurenine [CPD:C00328];"
+EC:2.6.1.7 4.4.1.13 2.6.1.64;2-oxoglutarate [CPD:C00026]
+"4-(2-aminophenyl)-2,4-dioxobutanoate [CPD:C01252];";EC:2.6.1.7 4.4.1.13 2.6.1.64
+L-glutamate [CPD:C00025];EC:2.6.1.7 4.4.1.13 2.6.1.64
+EC:2.7.7.14;"CTP [CPD:C00063];"
+EC:2.7.7.14;ethanolamine phosphate [CPD:C00346]
+"diphosphate [CPD:C00013];";EC:2.7.7.14
+CDP-ethanolamine [CPD:C00570];EC:2.7.7.14
+EC:2.7.8.1;"CDP-ethanolamine [CPD:C00570];"
+EC:2.7.8.1;1,2-diacyl-sn-glycerol [CPD:C00641]
+"CMP [CPD:C00055];";EC:2.7.8.1
+phosphatidylethanolamine [CPD:C00350];EC:2.7.8.1
+EC:6.1.1.10;"ATP [CPD:C00002];"
+EC:6.1.1.10;"L-methionine [CPD:C00073];"
+EC:6.1.1.10;tRNA(Met) [CPD:C01647]
+"AMP [CPD:C00020];";EC:6.1.1.10
+"diphosphate [CPD:C00013];";EC:6.1.1.10
+L-methionyl-tRNA(Met) [CPD:C02430];EC:6.1.1.10
+EC:2.9.1.2;"O-phospho-L-seryl-tRNASec;"
+EC:2.9.1.2;"selenophosphate [CPD:C05172];"
+EC:2.9.1.2;H2O [CPD:C00001]
+"L-selenocysteinyl-tRNA(Sec) [CPD:C06482];";EC:2.9.1.2
+phosphate [CPD:C00009];EC:2.9.1.2
+EC:2.7.9.3;"ATP [CPD:C00002];"
+EC:2.7.9.3;"selenide [CPD:C01528];"
+EC:2.7.9.3;H2O [CPD:C00001]
+"AMP [CPD:C00020];";EC:2.7.9.3
+"selenophosphate [CPD:C05172];";EC:2.7.9.3
+phosphate [CPD:C00009];EC:2.7.9.3
+EC:3.5.2.9;"ATP [CPD:C00002];"
+EC:3.5.2.9;"5-oxo-L-proline [CPD:C01879];"
+EC:3.5.2.9;H2O [CPD:C00001]
+"ADP [CPD:C00008];";EC:3.5.2.9
+"phosphate [CPD:C00009];";EC:3.5.2.9
+L-glutamate [CPD:C00025];EC:3.5.2.9
+EC:6.3.1.9 3.5.1.-;"glutathione [CPD:C00051];"
+EC:6.3.1.9 3.5.1.-;"spermidine [CPD:C00315];"
+EC:6.3.1.9 3.5.1.-;"ATP [CPD:C00002];"
+EC:6.3.1.9 3.5.1.-;glutathionylspermidine [CPD:C05730]
+"glutathionylspermidine [CPD:C05730];";EC:6.3.1.9 3.5.1.-
+"ADP [CPD:C00008];";EC:6.3.1.9 3.5.1.-
+"phosphate [CPD:C00009];";EC:6.3.1.9 3.5.1.-
+N1,N8-bis(glutathionyl)spermidine [CPD:C02090];EC:6.3.1.9 3.5.1.-
+EC:1.11.1.9;"glutathione [CPD:C00051];"
+EC:1.11.1.9;H2O2 [CPD:C00027]
+"glutathione disulfide [CPD:C00127];";EC:1.11.1.9
+H2O [CPD:C00001];EC:1.11.1.9
+EC:1.8.1.12;"trypanothione [CPD:C02090];"
+EC:1.8.1.12;NADP+ [CPD:C00006]
+"trypanothione disulfide [CPD:C03170];";EC:1.8.1.12
+"NADPH [CPD:C00005];";EC:1.8.1.12
+H+ [CPD:C00080];EC:1.8.1.12
+EC:3.4.11.1;EC 3.4.11.1 created 1961 as EC 3.4.1.1, transferred 1972 to EC 3.4.11.1
+EC:4.3.2.7;glutathione [CPD:C00051]
+"L-cysteinylglycine [CPD:C01419];";EC:4.3.2.7
+5-oxo-L-proline [CPD:C01879];EC:4.3.2.7
+EC:3.2.1.26;"Substrates include sucrose; also catalyses fructotransferase reactions."
+EC 3.2.1.26 created 1961;EC:3.2.1.26
+EC:3.6.1.43;"dolichyl diphosphate [CPD:C00621];"
+EC:3.6.1.43;H2O [CPD:C00001]
+"dolichyl phosphate [CPD:C00110];";EC:3.6.1.43
+phosphate [CPD:C00009];EC:3.6.1.43
+EC:2.7.8.15;"UDP-N-acetyl-alpha-D-glucosamine [CPD:C00043];"
+EC:2.7.8.15;dolichyl phosphate [CPD:C00110]
+"UMP [CPD:C00105];";EC:2.7.8.15
+N-acetyl-alpha-D-glucosaminyl-diphosphodolichol;EC:2.7.8.15
+EC:2.4.1.258;"dolichyl beta-D-mannosyl phosphate [CPD:C03862];"
+EC:2.4.1.258;alpha-D-Man-(1->2)-alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-alpha-D-GlcNAc-diphosphodolichol
+"alpha-D-Man-(1->2)-alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->3)-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-alpha-D-GlcNAc-diphosphodolichol;";EC:2.4.1.258
+dolichyl phosphate [CPD:C00110];EC:2.4.1.258
+EC:2.4.1.142;"GDP-alpha-D-mannose [CPD:C00096];"
+EC:2.4.1.142;N-acetyl-beta-D-glucosaminyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphosphodolichol
+"GDP [CPD:C00035];";EC:2.4.1.142
+beta-D-mannosyl-(1->4)-N-acetyl-beta-D-glucosaminyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphosphodolichol;EC:2.4.1.142
+EC:2.4.99.18;"dolichyl diphosphooligosaccharide [CPD:C04213];"
+EC:2.4.99.18;[protein]-L-asparagine
+"dolichyl diphosphate [CPD:C00621];";EC:2.4.99.18
+glycoprotein with the oligosaccharide chain attached by N-beta-D-glycosyl linkage to a protein L-asparagine;EC:2.4.99.18
+EC:2.4.1.132 2.4.1.257;"GDP-alpha-D-mannose [CPD:C00096];"
+EC:2.4.1.132 2.4.1.257;beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-alpha-D-GlcNAc-diphosphodolichol
+"GDP [CPD:C00035];";EC:2.4.1.132 2.4.1.257
+alpha-D-Man-(1->3)-beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-alpha-D-GlcNAc-diphosphodolichol;EC:2.4.1.132 2.4.1.257
+EC:2.4.1.131;"GDP-alpha-D-mannose [CPD:C00096];"
+EC:2.4.1.131;alpha-D-Man-(1->3)-[alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-alpha-D-GlcNAc-diphosphodolichol
+"GDP [CPD:C00035];";EC:2.4.1.131
+alpha-D-Man-(1->2)-alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-alpha-D-GlcNAc-diphosphodolichol;EC:2.4.1.131
+EC:3.2.1.106;"Glc3Man9GlcNAc2-[protein];"
+EC:3.2.1.106;H2O [CPD:C00001]
+"Glc2Man9GlcNAc2-[protein];";EC:3.2.1.106
+beta-D-glucopyranose [CPD:C00221];EC:3.2.1.106
+EC:3.2.1.207;"Glc2Man9GlcNAc2-[protein];"
+EC:3.2.1.207;"H2O [CPD:C00001];"
+EC:3.2.1.207;GlcMan9GlcNAc2-[protein]
+"GlcMan9GlcNAc2-[protein];";EC:3.2.1.207
+"beta-D-glucopyranose [CPD:C00221];";EC:3.2.1.207
+Man9GlcNAc2-[protein];EC:3.2.1.207
+EC:2.4.1.259 2.4.1.261;"dolichyl beta-D-mannosyl phosphate [CPD:C03862];"
+EC:2.4.1.259 2.4.1.261;alpha-D-Man-(1->2)-alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->3)-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-alpha-D-GlcNAc-diphosphodolichol
+"alpha-D-Man-(1->2)-alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-alpha-D-GlcNAc-diphosphodolichol;";EC:2.4.1.259 2.4.1.261
+dolichyl phosphate [CPD:C00110];EC:2.4.1.259 2.4.1.261
+EC:2.4.1.141;"UDP-N-acetyl-alpha-D-glucosamine [CPD:C00043];"
+EC:2.4.1.141;N-acetyl-alpha-D-glucosaminyl-diphosphodolichol
+"UDP [CPD:C00015];";EC:2.4.1.141
+N-acetyl-beta-D-glucosaminyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphosphodolichol;EC:2.4.1.141
+EC:3.5.1.25;"N-acetyl-D-glucosamine 6-phosphate [CPD:C00357];"
+EC:3.5.1.25;H2O [CPD:C00001]
+"D-glucosamine 6-phosphate [CPD:C00352];";EC:3.5.1.25
+acetate [CPD:C00033];EC:3.5.1.25
+EC:5.4.2.3;N-acetyl-alpha-D-glucosamine 1-phosphate [CPD:C04501]
+N-acetyl-D-glucosamine 6-phosphate [CPD:C00357];EC:5.4.2.3
+EC:2.3.1.4;"acetyl-CoA [CPD:C00024];"
+EC:2.3.1.4;D-glucosamine 6-phosphate [CPD:C00352]
+"CoA [CPD:C00010];";EC:2.3.1.4
+N-acetyl-D-glucosamine 6-phosphate [CPD:C00357];EC:2.3.1.4
+EC:2.7.7.23 2.7.7.83;"UTP [CPD:C00075];"
+EC:2.7.7.23 2.7.7.83;N-acetyl-alpha-D-glucosamine 1-phosphate [CPD:C04501]
+"diphosphate [CPD:C00013];";EC:2.7.7.23 2.7.7.83
+UDP-N-acetyl-alpha-D-glucosamine [CPD:C00043];EC:2.7.7.23 2.7.7.83
+EC:3.5.99.6;"alpha-D-glucosamine 6-phosphate;"
+EC:3.5.99.6;H2O [CPD:C00001]
+"D-fructose 6-phosphate [CPD:C00085];";EC:3.5.99.6
+NH3 [CPD:C00014];EC:3.5.99.6
+EC:2.7.1.30;"ATP [CPD:C00002];"
+EC:2.7.1.30;glycerol [CPD:C00116]
+"ADP [CPD:C00008];";EC:2.7.1.30
+sn-glycerol 3-phosphate [CPD:C00093];EC:2.7.1.30
+EC:2.3.1.15 2.3.1.42;"acyl-CoA [CPD:C00040];"
+EC:2.3.1.15 2.3.1.42;sn-glycerol 3-phosphate [CPD:C00093]
+"CoA [CPD:C00010];";EC:2.3.1.15 2.3.1.42
+1-acyl-sn-glycerol 3-phosphate [CPD:C00681];EC:2.3.1.15 2.3.1.42
+EC:2.3.1.22;"acyl-CoA [CPD:C00040];"
+EC:2.3.1.22;2-acylglycerol [CPD:C02112]
+"CoA [CPD:C00010];";EC:2.3.1.22
+diacylglycerol [CPD:C00165];EC:2.3.1.22
+EC:3.1.1.23;EC 3.1.1.23 created 1972
+EC:3.1.1.3;"triacylglycerol [CPD:C00422];"
+EC:3.1.1.3;H2O [CPD:C00001]
+"diacylglycerol [CPD:C00165];";EC:3.1.1.3
+carboxylate [CPD:C00060];EC:3.1.1.3
+EC:2.7.1.107;"ATP [CPD:C00002];"
+EC:2.7.1.107;1,2-diacyl-sn-glycerol [CPD:C00641]
+"ADP [CPD:C00008];";EC:2.7.1.107
+1,2-diacyl-sn-glycerol 3-phosphate [CPD:C00416];EC:2.7.1.107
+EC:2.3.1.158;"phospholipid [CPD:C00865];"
+EC:2.3.1.158;1,2-diacyl-sn-glycerol [CPD:C00641]
+"lysophospholipid [CPD:C06254];";EC:2.3.1.158
+triacylglycerol [CPD:C00422];EC:2.3.1.158
+EC:3.1.3.4;"1,2-diacylglycerol 3-phosphate;"
+EC:3.1.3.4;H2O [CPD:C00001]
+"1,2-diacyl-sn-glycerol [CPD:C00641];";EC:3.1.3.4
+phosphate [CPD:C00009];EC:3.1.3.4
+EC:3.1.4.11;"1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate [CPD:C04637];"
+EC:3.1.4.11;H2O [CPD:C00001]
+"1D-myo-inositol 1,4,5-trisphosphate [CPD:C01245];";EC:3.1.4.11
+diacylglycerol [CPD:C00641];EC:3.1.4.11
+EC:2.7.1.68;"ATP [CPD:C00002];"
+EC:2.7.1.68;1-phosphatidyl-1D-myo-inositol 4-phosphate [CPD:C01277]
+"ADP [CPD:C00008];";EC:2.7.1.68
+1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate [CPD:C04637];EC:2.7.1.68
+EC:3.1.3.36;"1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate [CPD:C04637];"
+EC:3.1.3.36;H2O [CPD:C00001]
+"1-phosphatidyl-1D-myo-inositol 4-phosphate [CPD:C01277];";EC:3.1.3.36
+phosphate [CPD:C00009];EC:3.1.3.36
+EC:2.7.8.11;"CDP-diacylglycerol [CPD:C00269];"
+EC:2.7.8.11;myo-inositol [CPD:C00137]
+"CMP [CPD:C00055];";EC:2.7.8.11
+1-phosphatidyl-1D-myo-inositol [CPD:C01194];EC:2.7.8.11
+EC:2.7.1.67;"ATP [CPD:C00002];"
+EC:2.7.1.67;1-phosphatidyl-1D-myo-inositol [CPD:C01194]
+"ADP [CPD:C00008];";EC:2.7.1.67
+1-phosphatidyl-1D-myo-inositol 4-phosphate [CPD:C01277];EC:2.7.1.67
+EC:2.7.1.137;"ATP [CPD:C00002];"
+EC:2.7.1.137;1-phosphatidyl-1D-myo-inositol [CPD:C01194]
+"ADP [CPD:C00008];";EC:2.7.1.137
+1-phosphatidyl-1D-myo-inositol 3-phosphate [CPD:C04549];EC:2.7.1.137
+EC:3.1.3.25;"myo-inositol phosphate [CPD:C15585];"
+EC:3.1.3.25;H2O [CPD:C00001]
+"myo-inositol [CPD:C00137];";EC:3.1.3.25
+phosphate [CPD:C00009];EC:3.1.3.25
+EC:5.5.1.4;D-glucose 6-phosphate [CPD:C00092]
+1D-myo-inositol 3-phosphate [CPD:C04006];EC:5.5.1.4
+EC:3.1.3.56;"D-myo-inositol 1,4,5-trisphosphate [CPD:C01245];"
+EC:3.1.3.56;"H2O [CPD:C00001];"
+EC:3.1.3.56;1D-myo-inositol 1,3,4,5-tetrakisphosphate [CPD:C01272]
+"myo-inositol 1,4-bisphosphate [CPD:C01220];";EC:3.1.3.56
+"phosphate [CPD:C00009];";EC:3.1.3.56
+1D-myo-inositol 1,3,4-trisphosphate [CPD:C01243];EC:3.1.3.56
+EC:3.5.1.89;"6-(N-acetyl-alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol [CPD:C01288];"
+EC:3.5.1.89;H2O [CPD:C00001]
+"6-(alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol [CPD:C04248];";EC:3.5.1.89
+acetate [CPD:C00033];EC:3.5.1.89
+EC:1.1.1.8;"sn-glycerol 3-phosphate [CPD:C00093];"
+EC:1.1.1.8;NAD+ [CPD:C00003]
+"glycerone phosphate [CPD:C00111];";EC:1.1.1.8
+"NADH [CPD:C00004];";EC:1.1.1.8
+H+ [CPD:C00080];EC:1.1.1.8
+EC:1.1.5.3;"sn-glycerol 3-phosphate [CPD:C00093];"
+EC:1.1.5.3;quinone [CPD:C15602]
+"glycerone phosphate [CPD:C00111];";EC:1.1.5.3
+quinol [CPD:C15603];EC:1.1.5.3
+EC:2.7.7.41;"CTP [CPD:C00063];"
+EC:2.7.7.41;phosphatidate [CPD:C00416]
+"diphosphate [CPD:C00013];";EC:2.7.7.41
+CDP-diacylglycerol [CPD:C00269];EC:2.7.7.41
+EC:2.7.8.5;"CDP-diacylglycerol [CPD:C00269];"
+EC:2.7.8.5;sn-glycerol 3-phosphate [CPD:C00093]
+"CMP [CPD:C00055];";EC:2.7.8.5
+1-(3-sn-phosphatidyl)-sn-glycerol 3-phosphate [CPD:C03892];EC:2.7.8.5
+EC:2.1.1.17 2.1.1.71;"S-adenosyl-L-methionine [CPD:C00019];"
+EC:2.1.1.17 2.1.1.71;phosphatidylethanolamine [CPD:C00350]
+"S-adenosyl-L-homocysteine [CPD:C00021];";EC:2.1.1.17 2.1.1.71
+phosphatidyl-N-methylethanolamine [CPD:C01241];EC:2.1.1.17 2.1.1.71
+EC:4.1.1.65;phosphatidyl-L-serine [CPD:C02737]
+"phosphatidylethanolamine [CPD:C00350];";EC:4.1.1.65
+CO2 [CPD:C00011];EC:4.1.1.65
+EC:3.1.4.46;"glycerophosphodiester [CPD:C03120];"
+EC:3.1.4.46;H2O [CPD:C00001]
+"alcohol [CPD:C00069];";EC:3.1.4.46
+sn-glycerol 3-phosphate [CPD:C00093];EC:3.1.4.46
+EC:3.1.1.5;"2-lysophosphatidylcholine [CPD:C04230];"
+EC:3.1.1.5;H2O [CPD:C00001]
+"glycerophosphocholine [CPD:C00670];";EC:3.1.1.5
+carboxylate [CPD:C00060];EC:3.1.1.5
+EC:3.1.3.4;"1,2-diacylglycerol 3-phosphate;"
+EC:3.1.3.4;H2O [CPD:C00001]
+"1,2-diacyl-sn-glycerol [CPD:C00641];";EC:3.1.3.4
+phosphate [CPD:C00009];EC:3.1.3.4
+EC:5.3.99.3;(5Z,13E)-(15S)-9alpha,11alpha-epidioxy-15-hydroxyprosta-5,13-dienoate [CPD:C00427]
+(5Z,13E)-(15S)-11alpha,15-dihydroxy-9-oxoprosta-5,13-dienoate [CPD:C00584];EC:5.3.99.3
+EC:2.3.1.50;"palmitoyl-CoA [CPD:C00154];"
+EC:2.3.1.50;L-serine [CPD:C00065]
+"CoA [CPD:C00010];";EC:2.3.1.50
+"3-dehydro-D-sphinganine [CPD:C02934];";EC:2.3.1.50
+CO2 [CPD:C00011];EC:2.3.1.50
+EC:1.1.1.102;"sphinganine [CPD:C00836];"
+EC:1.1.1.102;NADP+ [CPD:C00006]
+"3-dehydrosphinganine [CPD:C02934];";EC:1.1.1.102
+"NADPH [CPD:C00005];";EC:1.1.1.102
+H+ [CPD:C00080];EC:1.1.1.102
+EC:1.14.19.17 1.14.18.5;"dihydroceramide [CPD:C12126];"
+EC:1.14.19.17 1.14.18.5;"ferrocytochrome b5 [CPD:C00999];"
+EC:1.14.19.17 1.14.18.5;"O2 [CPD:C00007];"
+EC:1.14.19.17 1.14.18.5;H+ [CPD:C00080]
+"(4E)-sphing-4-enine ceramide [CPD:C00195];";EC:1.14.19.17 1.14.18.5
+"ferricytochrome b5 [CPD:C00996];";EC:1.14.19.17 1.14.18.5
+H2O [CPD:C00001];EC:1.14.19.17 1.14.18.5
+EC:4.1.2.27;sphinganine 1-phosphate [CPD:C01120]
+"phosphoethanolamine [CPD:C00346];";EC:4.1.2.27
+palmitaldehyde [CPD:C00517];EC:4.1.2.27
+EC:2.7.8.27;"ceramide [CPD:C00195];"
+EC:2.7.8.27;phosphatidylcholine [CPD:C00157]
+"sphingomyelin [CPD:C00550];";EC:2.7.8.27
+1,2-diacyl-sn-glycerol [CPD:C00641];EC:2.7.8.27
+EC:4.4.1.5;(R)-S-lactoylglutathione [CPD:C03451]
+"glutathione [CPD:C00051];";EC:4.4.1.5
+2-oxopropanal [CPD:C00546];EC:4.4.1.5
+EC:3.1.2.6;"S-(2-hydroxyacyl)glutathione [CPD:C03899];"
+EC:3.1.2.6;H2O [CPD:C00001]
+"glutathione [CPD:C00051];";EC:3.1.2.6
+2-hydroxy carboxylate [CPD:C02929];EC:3.1.2.6
+EC:1.1.2.4;"(R)-lactate [CPD:C00256];"
+EC:1.1.2.4;ferricytochrome c [CPD:C00125]
+"pyruvate [CPD:C00022];";EC:1.1.2.4
+"ferrocytochrome c [CPD:C00126];";EC:1.1.2.4
+H+ [CPD:C00080];EC:1.1.2.4
+EC:3.6.1.7;"acylphosphate;"
+EC:3.6.1.7;H2O [CPD:C00001]
+"carboxylate [CPD:C00060];";EC:3.6.1.7
+phosphate [CPD:C00009];EC:3.6.1.7
+EC:6.4.1.2 6.3.4.14 2.1.3.15;"ATP [CPD:C00002];"
+EC:6.4.1.2 6.3.4.14 2.1.3.15;"acetyl-CoA [CPD:C00024];"
+EC:6.4.1.2 6.3.4.14 2.1.3.15;hydrogencarbonate [CPD:C00288]
+"ADP [CPD:C00008];";EC:6.4.1.2 6.3.4.14 2.1.3.15
+"phosphate [CPD:C00009];";EC:6.4.1.2 6.3.4.14 2.1.3.15
+malonyl-CoA [CPD:C00083];EC:6.4.1.2 6.3.4.14 2.1.3.15
+EC:1.1.1.38;"(S)-malate [CPD:C00149];"
+EC:1.1.1.38;"NAD+ [CPD:C00003];"
+EC:1.1.1.38;oxaloacetate [CPD:C00036]
+"pyruvate [CPD:C00022];";EC:1.1.1.38
+"CO2 [CPD:C00011];";EC:1.1.1.38
+NADH [CPD:C00004];EC:1.1.1.38
+EC:2.7.9.1;"ATP [CPD:C00002];"
+EC:2.7.9.1;"pyruvate [CPD:C00022];"
+EC:2.7.9.1;phosphate [CPD:C00009]
+"AMP [CPD:C00020];";EC:2.7.9.1
+"phosphoenolpyruvate [CPD:C00074];";EC:2.7.9.1
+diphosphate [CPD:C00013];EC:2.7.9.1
+EC:2.8.3.5;"succinyl-CoA [CPD:C00091];"
+EC:2.8.3.5;3-oxo acid [CPD:C01656]
+"succinate [CPD:C00042];";EC:2.8.3.5
+3-oxoacyl-CoA [CPD:C00264];EC:2.8.3.5
+EC:1.5.1.20;"5-methyltetrahydrofolate [CPD:C00440];"
+EC:1.5.1.20;"NAD+ [CPD:C00003];"
+EC:1.5.1.20;NADP+ [CPD:C00006]
+"5,10-methylenetetrahydrofolate [CPD:C00143];";EC:1.5.1.20
+"NADH [CPD:C00004];";EC:1.5.1.20
+"NADPH [CPD:C00005];";EC:1.5.1.20
+H+ [CPD:C00080];EC:1.5.1.20
+EC:1.5.1.5 3.5.4.9 6.3.4.3;"5,10-methylenetetrahydrofolate [CPD:C00143];"
+EC:1.5.1.5 3.5.4.9 6.3.4.3;NADP+ [CPD:C00006]
+"5,10-methenyltetrahydrofolate [CPD:C00445];";EC:1.5.1.5 3.5.4.9 6.3.4.3
+"NADPH [CPD:C00005];";EC:1.5.1.5 3.5.4.9 6.3.4.3
+H+ [CPD:C00080];EC:1.5.1.5 3.5.4.9 6.3.4.3
+EC:2.1.2.9;"10-formyltetrahydrofolate [CPD:C00234];"
+EC:2.1.2.9;L-methionyl-tRNAfMet
+"tetrahydrofolate [CPD:C00101];";EC:2.1.2.9
+N-formylmethionyl-tRNAfMet;EC:2.1.2.9
+EC:2.7.1.26;"ATP [CPD:C00002];"
+EC:2.7.1.26;riboflavin [CPD:C00255]
+"ADP [CPD:C00008];";EC:2.7.1.26
+FMN [CPD:C00061];EC:2.7.1.26
+EC:2.7.7.2;"ATP [CPD:C00002];"
+EC:2.7.7.2;FMN [CPD:C00061]
+"diphosphate [CPD:C00013];";EC:2.7.7.2
+FAD [CPD:C00016];EC:2.7.7.2
+EC:6.3.5.1;"ATP [CPD:C00002];"
+EC:6.3.5.1;"deamido-NAD+ [CPD:C00857];"
+EC:6.3.5.1;"L-glutamine [CPD:C00064];"
+EC:6.3.5.1;H2O [CPD:C00001]
+"AMP [CPD:C00020];";EC:6.3.5.1
+"diphosphate [CPD:C00013];";EC:6.3.5.1
+"NAD+ [CPD:C00003];";EC:6.3.5.1
+L-glutamate [CPD:C00025];EC:6.3.5.1
+EC:2.7.1.23;"ATP [CPD:C00002];"
+EC:2.7.1.23;NAD+ [CPD:C00003]
+"ADP [CPD:C00008];";EC:2.7.1.23
+NADP+ [CPD:C00006];EC:2.7.1.23
+EC:2.7.7.1 2.7.7.18;"ATP [CPD:C00002];"
+EC:2.7.7.1 2.7.7.18;nicotinamide ribonucleotide [CPD:C00455]
+"diphosphate [CPD:C00013];";EC:2.7.7.1 2.7.7.18
+NAD+ [CPD:C00003];EC:2.7.7.1 2.7.7.18
+EC:6.3.4.21;"nicotinate [CPD:C00253];"
+EC:6.3.4.21;"5-phospho-alpha-D-ribose 1-diphosphate [CPD:C00119];"
+EC:6.3.4.21;"ATP [CPD:C00002];"
+EC:6.3.4.21;H2O [CPD:C00001]
+"beta-nicotinate D-ribonucleotide [CPD:C01185];";EC:6.3.4.21
+"diphosphate [CPD:C00013];";EC:6.3.4.21
+"ADP [CPD:C00008];";EC:6.3.4.21
+phosphate [CPD:C00009];EC:6.3.4.21
+EC:2.3.1.286;"[protein]-N6-acetyl-L-lysine [CPD:C20743];"
+EC:2.3.1.286;"NAD+ [CPD:C00003];"
+EC:2.3.1.286;"H2O [CPD:C00001];"
+EC:2.3.1.286;[protein]-N6-[1,1-(5-adenosylyl-alpha-D-ribose-1,2-di-O-yl)ethyl]-L-lysine
+"[protein]-L-lysine [CPD:C02188];";EC:2.3.1.286
+"2''-O-acetyl-ADP-D-ribose;";EC:2.3.1.286
+"nicotinamide [CPD:C00153];";EC:2.3.1.286
+[protein]-N6-[1,1-(5-adenosylyl-alpha-D-ribose-1,2-di-O-yl)ethyl]-L-lysine;EC:2.3.1.286
+EC:4.1.1.36;N-[(R)-4'-phosphopantothenoyl]-L-cysteine [CPD:C04352]
+"pantotheine 4'-phosphate;";EC:4.1.1.36
+CO2 [CPD:C00011];EC:4.1.1.36
+EC:2.7.1.33;"ATP [CPD:C00002];"
+EC:2.7.1.33;(R)-pantothenate [CPD:C00864]
+"ADP [CPD:C00008];";EC:2.7.1.33
+(R)-4'-phosphopantothenate [CPD:C03492];EC:2.7.1.33
+EC:2.7.1.24;"ATP [CPD:C00002];"
+EC:2.7.1.24;3'-dephospho-CoA [CPD:C00882]
+"ADP [CPD:C00008];";EC:2.7.1.24
+CoA [CPD:C00010];EC:2.7.1.24
+EC:2.3.1.181;"octanoyl-[acyl-carrier protein] [CPD:C05752];"
+EC:2.3.1.181;protein [CPD:C16240]
+"protein N6-(octanoyl)lysine [CPD:C16236];";EC:2.3.1.181
+[acyl-carrier protein] [CPD:C00229];EC:2.3.1.181
+EC:2.8.1.8;"[protein]-N6-(octanoyl)-L-lysine [CPD:C16236];"
+EC:2.8.1.8;"[Fe-S] cluster scaffold protein carrying a [4Fe-4S]2+ cluster [CPD:C22154];"
+EC:2.8.1.8;"S-adenosyl-L-methionine [CPD:C00019];"
+EC:2.8.1.8;"oxidized [2Fe-2S] ferredoxin [CPD:C22151];"
+EC:2.8.1.8;H+ [CPD:C00080]
+"[protein]-N6-[(R)-dihydrolipoyl]-L-lysine [CPD:C16832];";EC:2.8.1.8
+"[Fe-S] cluster scaffold protein [CPD:C22155];";EC:2.8.1.8
+"sulfide [CPD:C00283];";EC:2.8.1.8
+"Fe3+ [CPD:C14819];";EC:2.8.1.8
+"L-methionine [CPD:C00073];";EC:2.8.1.8
+"5'-deoxyadenosine [CPD:C05198];";EC:2.8.1.8
+reduced [2Fe-2S] ferredoxin [CPD:C22150];EC:2.8.1.8
+EC:6.3.1.20;"ATP [CPD:C00002];"
+EC:6.3.1.20;"(R)-lipoate [CPD:C16241];"
+EC:6.3.1.20;"[lipoyl-carrier protein]-L-lysine [CPD:C16240];"
+EC:6.3.1.20;lipoyl-AMP [CPD:C16238]
+"[lipoyl-carrier protein]-N6-(lipoyl)lysine [CPD:C16237];";EC:6.3.1.20
+"AMP [CPD:C00020];";EC:6.3.1.20
+"diphosphate [CPD:C00013];";EC:6.3.1.20
+lipoyl-AMP [CPD:C16238];EC:6.3.1.20
+EC:6.3.2.17;"ATP [CPD:C00002];"
+EC:6.3.2.17;"tetrahydropteroyl-[gamma-Glu]n [CPD:C03541];"
+EC:6.3.2.17;L-glutamate [CPD:C00025]
+"ADP [CPD:C00008];";EC:6.3.2.17
+"phosphate [CPD:C00009];";EC:6.3.2.17
+tetrahydropteroyl-[gamma-Glu]n+1 [CPD:C03541];EC:6.3.2.17
+EC:1.5.1.34;"5,6,7,8-tetrahydropteridine [CPD:C05650];"
+EC:1.5.1.34;"NAD+ [CPD:C00003];"
+EC:1.5.1.34;NADP+ [CPD:C00006]
+"6,7-dihydropteridine [CPD:C05649];";EC:1.5.1.34
+"NADH [CPD:C00004];";EC:1.5.1.34
+"NADPH [CPD:C00005];";EC:1.5.1.34
+H+ [CPD:C00080];EC:1.5.1.34
+EC:4.2.1.96;4a-hydroxytetrahydrobiopterin [CPD:C15522]
+"6,7-dihydrobiopterin [CPD:C00268];";EC:4.2.1.96
+H2O [CPD:C00001];EC:4.2.1.96
+EC:2.5.1.141;"(2E,6E)-farnesyl diphosphate [CPD:C00448];"
+EC:2.5.1.141;"protoheme IX [CPD:C00032];"
+EC:2.5.1.141;H2O [CPD:C00001]
+"diphosphate [CPD:C00013];";EC:2.5.1.141
+ferroheme o;EC:2.5.1.141
+EC:4.99.1.1 4.99.1.9;"protoheme [CPD:C00032];"
+EC:4.99.1.1 4.99.1.9;H+ [CPD:C00080]
+"protoporphyrin [CPD:C02191];";EC:4.99.1.1 4.99.1.9
+Fe2+ [CPD:C14818];EC:4.99.1.1 4.99.1.9
+EC:1.16.3.1;"Fe(II) [CPD:C14818];"
+EC:1.16.3.1;"H+ [CPD:C00080];"
+EC:1.16.3.1;O2 [CPD:C00007]
+"Fe(III) [CPD:C14819];";EC:1.16.3.1
+H2O [CPD:C00001];EC:1.16.3.1
+EC:1.3.5.3;"protoporphyrinogen IX [CPD:C01079];"
+EC:1.3.5.3;menaquinone [CPD:C00828]
+"protoporphyrin IX [CPD:C02191];";EC:1.3.5.3
+menaquinol [CPD:C05819];EC:1.3.5.3
+EC:1.3.3.3;"coproporphyrinogen III [CPD:C03263];"
+EC:1.3.3.3;"O2 [CPD:C00007];"
+EC:1.3.3.3;H+ [CPD:C00080]
+"protoporphyrinogen IX [CPD:C01079];";EC:1.3.3.3
+"CO2 [CPD:C00011];";EC:1.3.3.3
+H2O [CPD:C00001];EC:1.3.3.3
+EC:1.1.1.34;"(R)-mevalonate [CPD:C00418];"
+EC:1.1.1.34;"CoA [CPD:C00010];"
+EC:1.1.1.34;NADP+ [CPD:C00006]
+"(S)-3-hydroxy-3-methylglutaryl-CoA [CPD:C00356];";EC:1.1.1.34
+"NADPH [CPD:C00005];";EC:1.1.1.34
+H+ [CPD:C00080];EC:1.1.1.34
+EC:2.7.1.36;"ATP [CPD:C00002];"
+EC:2.7.1.36;(R)-mevalonate [CPD:C00418]
+"ADP [CPD:C00008];";EC:2.7.1.36
+(R)-5-phosphomevalonate [CPD:C01107];EC:2.7.1.36
+EC:2.7.4.2;"ATP [CPD:C00002];"
+EC:2.7.4.2;(R)-5-phosphomevalonate [CPD:C01107]
+"ADP [CPD:C00008];";EC:2.7.4.2
+(R)-5-diphosphomevalonate [CPD:C01143];EC:2.7.4.2
+EC:4.1.1.33;"ATP [CPD:C00002];"
+EC:4.1.1.33;(R)-5-diphosphomevalonate [CPD:C01143]
+"ADP [CPD:C00008];";EC:4.1.1.33
+"phosphate [CPD:C00009];";EC:4.1.1.33
+"isopentenyl diphosphate [CPD:C00129];";EC:4.1.1.33
+CO2 [CPD:C00011];EC:4.1.1.33
+EC:5.3.3.2;isopentenyl diphosphate [CPD:C00129]
+dimethylallyl diphosphate [CPD:C00235];EC:5.3.3.2
+EC:2.5.1.1 2.5.1.10;"dimethylallyl diphosphate [CPD:C00235];"
+EC:2.5.1.1 2.5.1.10;isopentenyl diphosphate [CPD:C00129]
+"diphosphate [CPD:C00013];";EC:2.5.1.1 2.5.1.10
+geranyl diphosphate [CPD:C00341];EC:2.5.1.1 2.5.1.10
+EC:2.5.1.58;"farnesyl diphosphate [CPD:C00448];"
+EC:2.5.1.58;protein-cysteine [CPD:C20119]
+"S-farnesyl protein [CPD:C20120];";EC:2.5.1.58
+diphosphate [CPD:C00013];EC:2.5.1.58
+EC:2.1.1.100;"S-adenosyl-L-methionine [CPD:C00019];"
+EC:2.1.1.100;protein C-terminal S-farnesyl-L-cysteine [CPD:C04506]
+"S-adenosyl-L-homocysteine [CPD:C00021];";EC:2.1.1.100
+protein C-terminal S-farnesyl-L-cysteine methyl ester [CPD:C04748];EC:2.1.1.100
+EC:3.4.24.84;EC 3.4.24.84 created 2003
